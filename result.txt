@@ -1,0 +1,6964 @@
+.	SYM	B-BLK	O	कीमियागर	NNPC	B-NP	O	O
+
+]	SYM	I-NP	O	]	SYM	I-NP	O	इब्न	NNPC	I-NP	O	O
+
+हयान	NN	I-NP	O	]	SYM	I-NP	O	]	SYM	I-NP	O	O
+
+व्यापक	JJ	I-NP	O	संख्या	NN	I-NP	O	विज्ञान	NN	B-NP	O	O
+
+के	PSP	I-NP	O	आधार	NN	B-NP	O	पर	PSP	I-NP	O	O
+
+काम	NN	B-NP	O	किया	VM	B-VGF	O	,	SYM	I-VGF	O	O
+
+वह	PRP	B-NP	O	पाइथोगोरस	NNP	B-NP	B-PER	के	PSP	I-NP	O	O
+
+सिद्धांत	NN	B-NP	O	से	PSP	I-NP	O	बहुत	INTF	B-JJP	O	O
+
+अधिक	QF	I-JJP	O	प्रभावित	JJ	I-JJP	O	था	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	वैसे	RB	B-RBP	O	O
+
+कई	QF	B-NP	O	विद्वानों	NN	I-NP	O	ने	PSP	I-NP	O	O
+
+अर्थशास्त्र	NNP	B-NP	B-MISC	को	PSP	I-NP	O	नीतिशास्त्र	NN	B-NP	B-MISC	B-MISC
+
+की	PSP	I-NP	O	अपेक्षा	NN	B-NP	O	ज्यादा	QF	B-JJP	O	O
+
+व्यापक	JJ	I-JJP	O	माना	VM	B-VGF	O	है	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	इससे	PRP	B-NP	O	O
+
+एक	QC	B-NP	O	वर्ष	NN	I-NP	O	पहले	NST	I-NP	O	O
+
+1958	NNP	B-NP	O	ईं	PSP	I-NP	O	में	PSP	I-NP	O	O
+
+दलाई	NNPC	B-NP	B-PER	लामा	NNP	I-NP	I-PER	ने	PSP	I-NP	O	O
+
+भारत	NNP	B-NP	B-LOC	से	PSP	I-NP	O	शरण	NN	B-NP	O	B-LOC
+
+मांगा	VM	B-VGF	O	था	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+11,380	NNP	B-NP	O	.	SYM	I-NP	O	O
+
+.	SYM	B-BLK	O	धवलागिरी	NNP	B-NP	B-LOC	O
+
+]	SYM	I-NP	O	]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+की	PSP	I-NP	O	तरह	NN	B-NP	O	,	SYM	I-NP	O	O
+
+इसकी	PRP	B-NP	O	वाणिज्यिक	JJ	I-NP	O	राजधानी	NN	I-NP	O	O
+
+मुंबई	NNP	B-NP	B-LOC	ने	PSP	I-NP	O	भी	RP	I-NP	O	B-LOC
+
+1991	NNP	B-NP	O	के	PSP	I-NP	O	सरकारी	JJ	B-NP	O	O
+
+उदारीकरण	NNC	I-NP	O	नीति	NN	I-NP	O	के	PSP	I-NP	O	O
+
+चलते	PSP	I-NP	O	आर्थिक	JJ	B-NP	O	उछाल	NN	I-NP	O	O
+
+(	SYM	B-NP	O	सहसावृद्धि	NNC	I-NP	O	)	NNP	I-NP	O	O
+
+को	PSP	I-NP	O	देखा	VM	B-VGF	O	है	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	.	SYM	B-BLK	O	O
+
+अध्याय	NN	I-NP	O	धूल	NN	B-NP	O	झाडकर	VM	B-VGNF	O	O
+
+अपने	PRP	B-NP	O	तेजस्वी	JJ	I-NP	O	रूप	NN	I-NP	O	O
+
+को	PSP	I-NP	O	दिखाकर	VM	B-VGNF	O	अनुप्राणित	JJ	B-JJP	O	O
+
+कर	VM	B-VGF	O	रहा	VAUX	I-VGF	O	है	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	.	SYM	B-BLK	O	O
+
+,	SYM	I-NP	O	मौजूदा	JJ	B-NP	O	चार्जरों	NN	I-NP	O	O
+
+से	PSP	I-NP	O	अधिक	QF	B-JJP	O	योग्य	JJ	I-JJP	O	O
+
+होंगे	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+18,704	NNP	B-NP	O	.	SYM	I-NP	O	O
+
+यह	DEM	B-NP	O	3	QC	I-NP	O	वर्ग	NN	I-NP	O	O
+
+कि	CC	B-CCP	O	.	SYM	I-CCP	O	O
+
+अव्यवहार्य	NNPC	B-NP	O	गर्भावस्था	NN	I-NP	O	,	SYM	I-NP	O	O
+
+जिन्हें	PRP	B-NP	O	स्वाभाविक	JJ	B-NP	O	रूप	NN	I-NP	O	O
+
+से	PSP	I-NP	O	निष्कासित	JJ	B-JJP	O	नहीं	NEG	B-VGF	O	O
+
+किया	VM	I-VGF	O	गया	VAUX	I-VGF	O	है	VAUX	I-VGF	O	O
+
+के	PSP	I-VGF	O	प्रबंधन	NN	B-NP	O	के	PSP	I-NP	O	O
+
+लिए	PSP	I-NP	O	कई	QF	B-NP	O	चिकित्सा	NNC	I-NP	O	O
+
+विकल्प	NN	I-NP	O	मौजूद	JJ	B-JJP	O	हैं	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	630	QC	B-NP	O	O
+
+में	PSP	I-NP	O	मुहम्मद	NNPC	I-NP	B-PER	साहब	NN	B-NP	O	O
+
+अपने	PRP	B-NP	O	अनुयायियों	NN	I-NP	O	के	PSP	I-NP	O	O
+
+साथ	NST	I-NP	O	एक	QC	B-NP	O	संधि	NN	I-NP	O	O
+
+कि	CC	B-CCP	O	उल्लंघना	NN	B-NP	O	होने	VM	B-VGNN	O	O
+
+के	PSP	I-VGNN	O	कारण	PSP	I-VGNN	O	मक्का	NNP	B-NP	B-LOC	O
+
+पर	PSP	I-NP	O	चढ़ाई	NN	B-NP	O	कर	VM	B-VGF	O	O
+
+दी	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+4,290	NNP	B-NP	O	.	SYM	I-NP	O	O
+
+-	SYM	B-BLK	O	.	SYM	I-BLK	O	O
+
+स्खलन	NN	B-NP	O	के	PSP	I-NP	O	तुरंत	RP	I-NP	O	O
+
+बाद	NST	I-NP	O	वीर्य	NN	B-NP	O	आम	JJ	B-NP	O	O
+
+तौर	NN	I-NP	O	पर	PSP	I-NP	O	एक	QC	B-NP	O	O
+
+चिपचिपा	NN	I-NP	O	,	SYM	I-NP	O	जेली	NNP	B-NP	O	O
+
+की	PSP	I-NP	O	तरह	NN	B-NP	O	का	PSP	I-NP	O	O
+
+तरल	NN	B-NP	O	होता	VM	B-VGF	O	है	VAUX	I-VGF	O	O
+
+जो	PRP	B-NP	O	अक्सर	RB	B-RBP	O	ग्लोब्युल्स	NNP	B-NP	O	O
+
+बनाता	VM	B-VGNF	O	है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+जुडकर	VM	B-VGNF	O	जनचेतना	NN	B-NP	O	जागृत	JJ	B-JJP	O	O
+
+होती	VM	B-VGF	O	है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	.	SYM	B-BLK	O	O
+
+]	SYM	I-NP	O	हिंदू	JJ	I-NP	O	समुदाय	NN	I-NP	O	O
+
+की	PSP	I-NP	O	उनकी	PRP	B-NP	O	माता	NN	I-NP	O	O
+
+पुतलीबाई	NNP	B-NP	B-PER	करमचंद	NNP	B-NP	I-PER	की	PSP	I-NP	O	O
+
+चौथी	QO	B-NP	O	पत्नी	NN	I-NP	O	थी	VAUX	I-NP	O	O
+
+,	SYM	I-NP	O	उनकी	PRP	B-NP	O	पहली	QO	B-NP	O	O
+
+तीन	QC	I-NP	O	पत्नियाँ	NN	I-NP	O	प्रसव	NN	B-NP	O	O
+
+के	PSP	I-NP	O	समय	PSP	I-NP	O	मर	VM	B-VGF	O	O
+
+गई	VAUX	I-VGF	O	थीं	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+का	PSP	I-NP	O	खाना	NN	B-NP	O	सुबह	NN	B-NP	O	O
+
+एवम्	NNPC	B-NP	O	रात	NN	I-NP	O	में	PSP	I-NP	O	O
+
+दिन	NN	B-NP	O	में	PSP	I-NP	O	दोनो	NNPC	B-NP	O	O
+
+जून	NNP	I-NP	O	खाया	VM	B-VGF	O	जाता	VAUX	I-VGF	O	O
+
+है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+उनके	PRP	B-NP	O	लघु	JJ	I-NP	O	कथाओं	NN	I-NP	O	O
+
+के	PSP	I-NP	O	आधार	NN	B-NP	O	पर	PSP	I-NP	O	O
+
+आधारित	JJ	B-NP	O	छोटी	JJ	I-NP	O	फिल्मों	NN	I-NP	O	O
+
+की	PSP	I-NP	O	एक	QC	B-NP	O	श्रृंखला	NN	I-NP	O	O
+
+को	PSP	I-NP	O	1964	NNP	B-NP	O	में	PSP	I-NP	O	O
+
+द्वारा	PSP	I-NP	O	प्रसारित	JJ	B-JJP	O	किया	VM	B-VGNF	O	O
+
+गया	VAUX	I-VGNF	O	आज	NN	B-NP	O	भी	RP	I-NP	O	O
+
+किपलिंग	NN	B-NP	B-PER	की	PSP	I-NP	O	रचनाओं	NN	B-NP	O	B-PER
+
+की	PSP	I-NP	O	लोकप्रियता	NN	B-NP	O	बरकरार	JJ	B-JJP	O	O
+
+है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	.	SYM	B-BLK	O	O
+
+कैम्ब्रिज	NNPC	B-NP	O	:	SYM	I-NP	O	कैम्ब्रिज	NNPC	I-NP	O	O
+
+यूनिवर्सिटी	NNPC	B-NP	O	प्रेस	NN	I-NP	O	.	SYM	I-NP	O	O
+
+को	PSP	I-NP	O	घूमने	VM	B-VGNN	O	का	PSP	I-VGNN	O	O
+
+सबसे	INTF	B-NP	O	अच्‍छा	JJ	I-NP	O	समय	NN	I-NP	O	O
+
+ग्रीष्‍म	NN	B-NP	O	काल	NN	B-NP	O	है	VM	B-VGF	O	O
+
+जब	PRP	B-NP	O	चाय	NN	B-NP	O	की	PSP	I-NP	O	O
+
+पत्तियों	NN	B-NP	O	को	PSP	I-NP	O	तोड़ा	VM	B-VGF	O	O
+
+जाता	VAUX	I-VGF	O	है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+में	PSP	I-NP	O	पाश्चात्य	JJ	B-NP	B-PER	विद्वानों	NN	I-NP	I-PER	O
+
+की	PSP	I-NP	O	संख्या	NN	B-NP	O	ज्यादा	QF	B-NP	O	O
+
+है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	.	SYM	B-BLK	O	O
+
+.	SYM	B-BLK	O	1998	NNP	B-NP	O	O
+
+में	PSP	I-NP	O	फिनलैंड	NNP	B-NP	B-LOC	में	PSP	I-NP	O	O
+
+मोबाइल	NNC	B-NP	O	भुगतान	NN	I-NP	O	की	PSP	I-NP	O	O
+
+पहली	QO	B-NP	O	कोशिश	NN	I-NP	O	की	VM	B-VGF	O	O
+
+गई	VAUX	I-VGF	O	थी	VAUX	I-VGF	O	,	SYM	I-VGF	O	O
+
+जब	PRP	B-NP	O	एस्पो	NNP	B-NP	O	में	PSP	I-NP	O	O
+
+दो	QC	B-NP	O	कोका	NNPC	I-NP	O	-	SYM	I-NP	O	O
+
+कोला	NNPC	I-NP	O	विक्रय	NNPC	B-NP	B-MISC	मशीन	NNP	I-NP	I-MISC	O
+
+,	SYM	I-NP	O	के	PSP	I-NP	O	भुगतान	NN	B-NP	O	O
+
+के	PSP	I-NP	O	साथ	NST	I-NP	O	काम	NN	B-NP	O	O
+
+करने	VM	B-VGNN	O	में	PSP	I-VGNN	O	सक्षम	JJ	B-JJP	O	O
+
+थे	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+वे	PRP	B-NP	O	अपने	PRP	B-NP	O	गौरव	NN	I-NP	O	O
+
+की	PSP	I-NP	O	यादकर	NNPC	B-NP	O	सिंह	NNP	I-NP	O	O
+
+के	PSP	I-NP	O	समान	PSP	I-NP	O	गरजने	VM	B-VGF	O	O
+
+लगे	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+कोलकाता	NNP	B-NP	B-LOC	के	PSP	I-NP	O	निकट	NST	I-NP	O	B-LOC
+
+हुगली	NNP	B-NP	O	नदी	NN	I-NP	O	के	PSP	I-NP	O	O
+
+दोनों	QC	B-NP	O	किनारों	NN	I-NP	O	पर	PSP	I-NP	O	O
+
+भारतवर्ष	NNP	B-NP	B-LOC	के	PSP	I-NP	O	प्रायः	NN	B-NP	O	O
+
+अधिकांश	QF	B-NP	O	जूट	NN	I-NP	O	के	PSP	I-NP	O	O
+
+कारखाने	PSP	I-NP	O	अवस्थित	JJ	B-JJP	O	हैं	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	प्राचीन	JJ	B-NP	O	O
+
+काल	NN	I-NP	O	में	PSP	I-NP	O	केरल	NNP	B-NP	B-LOC	O
+
+को	PSP	I-NP	O	'	SYM	B-NP	O	तमिऴकम्	NNP	I-NP	B-LOC	O
+
+'	SYM	I-NP	O	का	PSP	I-NP	O	भाग	NN	B-NP	O	O
+
+ही	RP	I-NP	O	समझा	VM	B-VGF	O	जाता	VAUX	I-VGF	O	O
+
+था	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+उनके	PRP	B-NP	O	पास	NST	I-NP	O	सदैव	NN	B-NP	O	O
+
+स्थिर	JJ	B-NP	O	लक्ष्मी	NNP	I-NP	B-PER	होती	VM	B-VGF	O	O
+
+है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	कलकत्ता	NN	B-NP	B-LOC	O
+
+से	PSP	I-NP	O	दार्जिलिंग	NNPC	B-NP	B-LOC	मेल	NN	I-NP	O	O
+
+तथा	CC	B-CCP	O	कामरुप	NNPC	B-NP	O	एक्‍सप्रेस	NNPC	I-NP	O	O
+
+जलपाइगुड़ी	VM	B-VGF	O	जाती	VAUX	I-VGF	O	है	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	भाग्य	NN	B-NP	O	O
+
+का	PSP	I-NP	O	अर्थ	NN	B-NP	O	इनके	PRP	B-NP	O	O
+
+लिये	PSP	I-NP	O	यह	PRP	B-NP	O	है	VM	B-VGF	O	O
+
+कि	CC	B-CCP	O	ईश्वर	NNP	B-NP	O	बीते	VM	B-VGNF	O	O
+
+हुए	VM	B-VGNF	O	समय	NN	B-NP	O	,	SYM	I-NP	O	O
+
+वर्तमान	NN	B-NP	O	,	SYM	I-NP	O	और	CC	B-CCP	O	O
+
+भविष्य	NN	B-NP	O	के	PSP	I-NP	O	बारे	PSP	I-NP	O	O
+
+में	PSP	I-NP	O	सब	PRP	B-NP	O	जानता	VM	B-VGF	O	O
+
+है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+38,958	NNP	B-NP	O	.	SYM	I-NP	O	O
+
+1,177	NNP	B-NP	O	.	SYM	I-NP	O	O
+
+चलोनेर	NNP	B-NP	B-PER	ने	PSP	I-NP	O	अपने	PRP	B-NP	O	O
+
+आप	PRP	I-NP	O	को	PSP	I-NP	O	पर्याप्त	JJ	B-NP	O	O
+
+समृद्ध	JJ	I-NP	O	सज्जन	NN	I-NP	O	बना	VM	B-VGF	O	O
+
+लिया	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+नमक	NNPC	B-NP	O	मार्च	NNPC	I-NP	O	]	SYM	I-NP	O	O
+
+]	NNPC	I-NP	O	गांधी	NNP	B-NP	B-PER	जी	NNPC	I-NP	I-PER	O
+
+सक्रिय	JJ	B-NP	O	राजनीति	NN	I-NP	O	से	PSP	I-NP	O	O
+
+दूर	NST	B-NP	O	ही	RP	I-NP	O	रहे	VM	B-VGF	O	O
+
+और	CC	B-CCP	O	1920	NNP	B-NP	O	की	PSP	I-NP	O	O
+
+अधिकांश	QF	B-NP	O	अवधि	NN	I-NP	O	तक	PSP	I-NP	O	O
+
+वे	PRP	B-NP	O	स्वराज	NNPC	B-NP	O	पार्टी	NN	I-NP	O	O
+
+और	CC	B-CCP	O	इंडियन	NNPC	B-NP	B-ORG	नेशनल	NNPC	I-NP	I-ORG	O
+
+कांग्रेस	NNP	B-NP	I-ORG	के	PSP	I-NP	O	बीच	NST	I-NP	O	O
+
+खाई	NN	B-NP	O	को	PSP	I-NP	O	भरने	VM	B-VGNN	O	O
+
+में	PSP	I-VGNN	O	लगे	VM	B-VGF	O	रहे	VAUX	I-VGF	O	O
+
+और	CC	B-CCP	O	इसके	PRP	B-NP	O	अतिरिक्त	JJ	B-JJP	O	O
+
+वे	PRP	B-NP	O	अस्पृश्यता	NN	B-NP	O	,	SYM	I-NP	O	O
+
+शराब	NN	B-NP	O	,	SYM	I-NP	O	अज्ञानता	NN	B-NP	O	O
+
+और	CC	B-CCP	O	गरीबी	NN	B-NP	O	के	PSP	I-NP	O	O
+
+खिलाफ	PSP	I-NP	O	आंदोलन	NN	B-NP	O	छेड़ते	VM	B-VGNF	O	O
+
+भी	RP	I-VGNF	O	रहे	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+गौरी	NNP	B-NP	B-PER	से	PSP	I-NP	O	निर्णायक	JJ	B-NP	O	B-PER
+
+युद्ध	NN	I-NP	O	करने	VM	B-VGNN	O	का	PSP	I-VGNN	O	O
+
+निर्णय	NN	B-NP	O	लिया	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+तुर्क	NNP	B-NP	O	सेनिक	JJ	B-JJP	O	राजपूत	NNC	B-NP	O	O
+
+सेना	NN	I-NP	O	के	PSP	I-NP	O	सामने	NST	I-NP	O	O
+
+भाग	NN	B-NP	O	खड़े	JJ	B-JJP	O	हुए	VAUX	B-VGF	O	O
+
+.	SYM	I-VGF	O	वह	PRP	B-NP	O	O
+
+जीविकोपार्जन	NN	B-NP	O	की	PSP	I-NP	O	खोज	NN	B-NP	O	O
+
+में	PSP	I-NP	O	उत्तर	NNPC	B-NP	B-LOC	भारत	NNP	I-NP	I-LOC	O
+
+आया	VM	B-VGF	O	था	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+एन	NNP	B-NP	O	.	SYM	I-NP	O	O
+
+.	SYM	B-BLK	O	89.	NNPC	B-NP	O	O
+
+लालगढ़	NNP	I-NP	B-LOC	पैलेस	NNP	B-NP	O	के	PSP	I-NP	O	O
+
+अन्दर	NST	I-NP	O	एक	QC	B-NP	O	पुस्तकालय	NN	I-NP	O	O
+
+भी	RP	I-NP	O	है	VM	B-VGF	O	,	SYM	I-VGF	O	O
+
+जिसमें	PRP	B-NP	O	ब़डी	NNP	B-NP	O	संख्या	NN	I-NP	O	O
+
+में	PSP	I-NP	O	संस्कृत	JJ	B-NP	O	पाण्डुलिपियां	NN	I-NP	O	O
+
+हैं	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+वर्षों	NN	B-NP	O	दिल्ली	NNP	B-NP	B-LOC	का	PSP	I-NP	O	O
+
+शासन	NN	B-NP	O	सुचारु	JJ	B-NP	O	रूप	NN	I-NP	O	O
+
+से	PSP	I-NP	O	चलाने	VM	B-VGNN	O	वाले	PSP	I-VGNN	O	O
+
+पृथ्वीराज	NNP	B-NP	B-PER	को	PSP	I-NP	O	कन्नौज	NNP	B-NP	B-LOC	B-PER
+
+के	PSP	I-NP	O	महाराज	NNPC	I-NP	B-PER	जयचंद	NNP	B-NP	O	O
+
+की	PSP	I-NP	O	पुत्री	NN	B-NP	O	संयोगिता	NN	B-NP	B-PER	O
+
+भा	VM	B-VGF	O	गई	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+जर्नल	NNPC	B-NP	O	ऑफ़	NNPC	I-NP	O	एस्ट्रोलॉजी	NNP	B-NP	O	O
+
+,	SYM	I-NP	O	खंड	NN	B-NP	O	26	QC	B-NP	O	O
+
+,	SYM	I-NP	O	नं.4	NNP	B-NP	O	,	SYM	I-NP	O	O
+
+जुलाई	NNP	B-NP	O	/	SYM	I-NP	O	अगस्त	NNPC	B-NP	O	O
+
+2005.	NNP	I-NP	O	एक	QC	B-NP	O	आम	JJ	I-NP	O	O
+
+स्खलन	NN	I-NP	O	में	PSP	I-NP	O	150	QC	B-NP	O	O
+
+मिलीग्राम	NNPC	I-NP	O	प्रोटीन	NNP	B-NP	O	,	SYM	I-NP	O	O
+
+11	QC	B-NP	O	मिलीग्राम	NNPC	I-NP	O	कार्बोहाइड्रेट्स	NNP	B-NP	O	O
+
+,	SYM	I-NP	O	6	QC	B-NP	O	मिलीग्राम	NNPC	I-NP	O	O
+
+वसा	NNP	B-NP	O	,	SYM	I-NP	O	3	QC	B-NP	O	O
+
+मिलीग्राम	NNPC	I-NP	O	कोलेस्ट्रोल	NNP	B-NP	O	,	SYM	I-NP	O	O
+
+7	QC	B-NP	O	%	SYM	I-NP	O	पोटेशियम	NNP	B-NP	O	O
+
+और	CC	B-CCP	O	3	QC	B-NP	O	%	SYM	I-NP	O	O
+
+तांबा	NNP	I-NP	O	और	CC	B-CCP	O	जस्ता	NN	B-NP	O	O
+
+होता	VM	B-VGNF	O	जब	PRP	B-NP	O	चयापचय	NN	B-NP	O	O
+
+होता	VM	B-VGF	O	है	VAUX	I-VGF	O	तब	PRP	B-NP	O	O
+
+प्रोटीन	NNC	B-NP	O	4	QC	I-NP	O	किलो	NN	I-NP	O	O
+
+कैलोरी	NNC	B-VGF	O	/	SYM	I-VGF	O	ग्रा	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	-	SYM	B-BLK	O	O
+
+.	SYM	I-BLK	O	.	SYM	B-BLK	O	O
+
+इनके	PRP	B-NP	O	अलावा	PSP	I-NP	O	सर्किट	NNPC	B-NP	B-LOC	O
+
+हाऊस	NNP	I-NP	I-LOC	भी	RP	I-NP	O	एक	QC	B-NP	O	O
+
+विकल्प	NN	I-NP	O	है	VM	B-VGF	O	जहां	PRP	B-NP	O	O
+
+पर	PSP	I-NP	O	ठहरा	VM	B-VGF	O	जा	VAUX	I-VGF	O	O
+
+सकते	VAUX	I-VGF	O	हैं	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+किन्तु	NN	B-NP	O	वर्तमान	JJ	B-NP	O	केरल	NNP	I-NP	B-LOC	O
+
+के	PSP	I-NP	O	अन्तर्गत	JJ	B-JJP	O	जितने	QF	B-NP	O	O
+
+प्रदेश	NN	I-NP	O	हैं	VAUX	I-NP	O	उन	DEM	B-NP	O	O
+
+प्रदेशों	NN	I-NP	O	की	PSP	I-NP	O	जनगणना	NNC	B-NP	O	O
+
+1881	NNP	I-NP	O	में	PSP	I-NP	O	ही	RP	I-NP	O	O
+
+तैयार	JJ	B-JJP	O	हो	VM	B-VGF	O	पाई	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	यह	DEM	B-NP	O	O
+
+स्‍थान	NN	I-NP	O	ट्रेकिंग	NN	B-NP	O	और	CC	B-CCP	O	O
+
+पहाड़ी	NN	B-NP	O	पर	PSP	I-NP	O	चढ़ने	VM	B-VGNN	O	O
+
+के	PSP	I-VGNN	O	लिए	PSP	I-VGNN	O	भी	RP	I-VGNN	O	O
+
+जाना	VM	B-VGF	O	जाता	VAUX	I-VGF	O	है	VAUX	I-VGF	O	O
+
+जो	PRP	B-NP	O	रोमांचकारी	JJ	B-NP	O	खेल	NNC	I-NP	O	O
+
+प्रेमियों	NN	I-NP	O	का	PSP	I-NP	O	आदर्श	NN	B-NP	O	O
+
+स्‍थान	NN	B-NP	O	है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+]	SYM	I-NP	O	की	PSP	I-NP	O	एक	QC	B-NP	O	O
+
+दूसरी	QO	I-NP	O	लहर	NN	I-NP	O	ने	PSP	I-NP	O	O
+
+न्यूटन	NN	B-NP	B-PER	की	PSP	I-NP	O	खोजों	NN	B-NP	O	B-PER
+
+का	PSP	I-NP	O	उपयोग	NN	B-NP	O	एक	QC	B-NP	O	O
+
+की	PSP	I-NP	O	संभावना	NN	B-NP	O	को	PSP	I-NP	O	O
+
+प्रर्दशित	JJ	B-JJP	O	करने	VM	B-VGNN	O	के	PSP	I-VGNN	O	O
+
+लिए	PSP	I-VGNN	O	किया	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+पुत्र	NN	B-NP	O	बिन्दुसार	NN	B-NP	B-PER	हुआ	VM	B-VGF	O	O
+
+और	CC	B-CCP	O	बिन्दुसार	NN	B-NP	B-PER	का	PSP	I-NP	O	O
+
+पुत्र	NN	B-NP	O	अशोकवर्धन	NN	B-NP	B-PER	हुआ	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	ये	DEM	B-NP	O	O
+
+खड्डें	NN	I-NP	O	बर्फ	NN	B-NP	O	पिघलने	VM	B-VGNN	O	O
+
+से	PSP	I-VGNN	O	बनती	VM	B-VGF	O	है	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	कभी	PRP	B-NP	O	O
+
+-	SYM	I-NP	O	कभी	RDP	I-NP	O	गर्मी	NN	B-NP	O	O
+
+के	PSP	I-NP	O	बहुत	QF	B-NP	O	बढ़ने	VM	B-VGNN	O	O
+
+पर	PSP	I-VGNN	O	आक़ाल	NN	B-NP	O	मृत्यु	NN	B-NP	O	O
+
+भी	RP	I-NP	O	हो	VM	B-VGF	O	जाती	VAUX	I-VGF	O	O
+
+है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+मेवाड़	NNP	B-NP	B-LOC	के	PSP	I-NP	O	राणा	NNPC	B-NP	O	B-LOC
+
+प्रताप	NNP	I-NP	O	से	PSP	I-NP	O	लड़ने	VM	B-VGNF	O	O
+
+अकबर	NNP	B-NP	B-PER	स्वयं	PRP	B-NP	O	नहीं	NEG	B-VGF	O	O
+
+गया	VM	I-VGF	O	था	VAUX	I-VGF	O	परन्तु	CC	B-CCP	O	O
+
+ब्रज	NN	B-NP	O	के	PSP	I-NP	O	उन	DEM	B-NP	O	O
+
+जाट	JJ	I-NP	O	योद्धाओं	NN	I-NP	O	से	PSP	I-NP	O	O
+
+लड़ने	VM	B-VGNF	O	उसे	PRP	B-NP	O	स्वयं	PRP	B-NP	O	O
+
+जाना	VM	B-VGF	O	पड़ा	VAUX	I-VGF	O	था	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	.	SYM	B-BLK	O	O
+
+बाल	NNPC	I-NP	O	श्रमिकों	NN	I-NP	O	को	PSP	I-NP	O	O
+
+राष्ट्रीय	JJ	B-NP	O	बाल	NNPC	I-NP	O	श्रमिक	NNPC	I-NP	O	O
+
+परियोजना	NNP	B-NP	O	द्वारा	PSP	I-NP	O	संचालित	JJ	B-NP	O	O
+
+स्कूलों	NN	I-NP	O	में	PSP	I-NP	O	प्रवेश	NN	B-NP	O	O
+
+दिलाया	VM	B-VGF	O	गया	VAUX	I-VGF	O	है	VAUX	I-VGF	O	O
+
+और	CC	B-CCP	O	64,885	QC	B-NP	O	बाल	NNC	I-NP	O	O
+
+श्रमिकों	NN	I-NP	O	को	PSP	I-NP	O	स्कूली	JJ	B-NP	O	O
+
+शिक्षा	NN	I-NP	O	के	PSP	I-NP	O	माध्यम	NN	B-NP	O	O
+
+से	PSP	I-NP	O	मुख्यधारा	NN	B-NP	O	में	PSP	I-NP	O	O
+
+जोडने	VM	B-VGNN	O	का	PSP	I-VGNN	O	प्रयास	NN	B-NP	O	O
+
+किया	VM	B-VGF	O	गया	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	I-NP	O	एस	NNPC	B-NP	O	O
+
+.	SYM	I-NP	O	15,810	NNP	B-NP	O	O
+
+.	SYM	I-NP	O	6,042	NNP	B-NP	O	O
+
+.	SYM	I-NP	O	उनका	PRP	B-NP	O	O
+
+गंतव्य	NN	B-NP	O	बनी	VM	B-VGNN	O	की	PSP	I-VGNN	O	O
+
+गढ़ी	NN	B-NP	O	जो	PRP	B-NP	O	युद्ध	NNC	B-NP	O	O
+
+क्षेत्र	NN	I-NP	O	से	PSP	I-NP	O	बीस	QC	B-NP	O	O
+
+मील	NN	I-NP	O	दूर	NST	B-NP	O	थी	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	'	SYM	B-BLK	O	O
+
+'	SYM	I-BLK	O	'	SYM	I-BLK	O	ब्यास	NNPC	B-NP	O	O
+
+नदीः	NNP	I-NP	O	'	SYM	I-NP	O	'	SYM	I-NP	O	O
+
+'	SYM	I-NP	O	ब्यास	NNPC	I-NP	O	नदी	NN	I-NP	O	O
+
+का	PSP	I-NP	O	पुराना	JJ	B-NP	O	नाम	NN	I-NP	O	O
+
+‘	NNPC	B-NP	O	अर्जिकिया	NNP	I-NP	O	’	QC	B-NP	O	O
+
+या	CC	B-CCP	O	‘	QC	B-NP	O	विपाशा	NN	I-NP	O	O
+
+’	VAUX	B-VGF	O	था	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	ईसाई	NNPC	B-NP	B-PER	O
+
+धर्मप्रचारक	NN	I-NP	I-PER	बारेनस	NNP	B-NP	B-PER	बंधुओं	NN	I-NP	I-PER	O
+
+ने	PSP	I-NP	O	1880	NNP	B-NP	O	के	PSP	I-NP	O	O
+
+दशक	NN	B-NP	O	में	PSP	I-NP	O	औसत	JJ	B-NP	O	O
+
+आकार	NN	I-NP	O	के	PSP	I-NP	O	चाय	NN	B-NP	O	O
+
+के	PSP	I-NP	O	पौधों	NN	B-NP	O	को	PSP	I-NP	O	O
+
+रोपा	VM	B-VGF	O	था	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+बारी	NNC	B-NP	O	-	SYM	I-NP	O	बारी	RDP	I-NP	O	O
+
+से	PSP	I-NP	O	उपयोग	NN	B-NP	O	किया	VM	B-VGF	O	O
+
+जाना	VAUX	I-VGF	O	चाहिए	VAUX	I-VGF	O	जिससे	PRP	B-NP	O	O
+
+परजीवी	NN	B-NP	O	के	PSP	I-NP	O	पैदा	JJ	B-JJP	O	O
+
+होने	VM	B-VGNN	O	की	PSP	I-VGNN	O	संख्या	NN	B-NP	O	O
+
+में	PSP	I-NP	O	कमी	NN	B-NP	O	आती	VM	B-VGF	O	O
+
+है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+हीरो	NN	B-NP	O	]	SYM	I-NP	O	]	SYM	I-NP	O	O
+
+.	SYM	I-NP	O	.	SYM	B-BLK	O	O
+
+,	SYM	I-NP	O	बेलूर	NNPC	B-NP	B-LOC	मठ	NN	I-NP	O	O
+
+रामकृष्ण	NNPC	B-NP	B-PER	मिशन	NN	I-NP	O	का	PSP	I-NP	O	O
+
+मुख्यालय	NN	B-NP	O	है	VM	B-VGF	O	,	SYM	I-VGF	O	O
+
+इसकी	PRP	B-NP	O	स्थापना	NN	I-NP	O	1899	NNP	B-NP	O	O
+
+में	PSP	I-NP	O	स्वामी	NNC	B-NP	B-PER	विवेकानंद	NNP	I-NP	I-PER	O
+
+ने	PSP	I-NP	O	की	VM	B-VGF	O	थी	VAUX	I-VGF	O	O
+
+,	SYM	I-VGF	O	जो	PRP	B-NP	O	रामकृष्ण	NNP	B-NP	B-PER	O
+
+के	PSP	I-NP	O	शिष्य	NN	B-NP	O	थे	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	कु़रआन	NN	B-NP	O	O
+
+कहता	VM	B-VGF	O	है	VAUX	I-VGF	O	-	SYM	I-VGF	O	O
+
+‘‘	NNP	B-NP	O	और	CC	B-CCP	O	हमने	PRP	B-NP	O	O
+
+आकाशों	NN	B-NP	O	व	CC	B-CCP	O	धरती	NN	B-NP	O	O
+
+को	PSP	I-NP	O	और	CC	B-CCP	O	जो	DEM	B-NP	O	O
+
+कुछ	PRP	I-NP	O	उनके	PRP	B-NP	O	बीच	NST	I-NP	O	O
+
+है	VM	B-VGF	O	,	SYM	I-VGF	O	कुछ	QF	B-NP	O	O
+
+खेल	NN	I-NP	O	के	PSP	I-NP	O	तौर	PSP	I-NP	O	O
+
+पर	PSP	I-NP	O	नहीं	NEG	B-VGF	O	बनाया	VM	I-VGF	O	O
+
+.	SYM	I-VGF	O	.	SYM	B-BLK	O	O
+
+सामान्य	JJ	B-NP	O	माहौल	NN	I-NP	O	शुक्राणु	NNP	B-NP	O	O
+
+कोशिकाओं	NN	I-NP	O	के	PSP	I-NP	O	लिए	PSP	I-NP	O	O
+
+प्रतिकूल	JJ	B-JJP	O	होता	VM	B-VGF	O	है	VAUX	I-VGF	O	O
+
+,	SYM	I-VGF	O	क्योंकि	CC	B-CCP	O	यह	PRP	B-NP	O	O
+
+बहुत	INTF	B-NP	O	ही	RP	I-NP	O	अम्लीय	JJ	I-NP	O	O
+
+(	SYM	B-NP	O	वहां	PRP	I-NP	O	के	PSP	I-NP	O	O
+
+मूल	JJ	B-NP	O	निवासी	NN	I-NP	O	माइक्रोफ्लोरा	NNP	B-NP	O	O
+
+द्वारा	PSP	I-NP	O	लैक्टिक	JJ	B-NP	O	एसिड	NNP	I-NP	O	O
+
+के	PSP	I-NP	O	उत्पादन	NN	B-NP	O	से	PSP	I-NP	O	O
+
+)	SYM	I-NP	O	और	CC	B-CCP	O	चिपचिपा	NNP	B-NP	O	O
+
+होता	VM	B-VGF	O	है	VAUX	I-VGF	O	और	CC	B-CCP	O	O
+
+इम्यून	NN	B-NP	O	कोशिकाएं	NN	B-NP	O	गश्त	NN	B-NP	O	O
+
+में	PSP	I-NP	O	होती	VM	B-VGF	O	हैं	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	.	SYM	B-BLK	O	O
+
+कुछ	QF	B-NP	O	शब्द	NN	I-NP	O	यही	DEM	B-NP	O	O
+
+अविष्कृत	JJ	B-JJP	O	हैं	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+टॉम	NN	B-NP	O	का	PSP	I-NP	O	देखभाल	NN	B-NP	O	O
+
+करना	VM	B-VGNN	O	मुश्किल	JJ	B-JJP	O	होता	VM	B-VGF	O	O
+
+है	VAUX	I-VGF	O	इसलिए	PRP	B-NP	O	एक	QC	B-NP	O	O
+
+ही	RP	I-NP	O	संचालक	NN	I-NP	O	का	PSP	I-NP	O	O
+
+प्रयोग	NN	B-NP	O	अधिकतम	JJ	B-NP	O	वीर्य	NN	I-NP	O	O
+
+प्राप्त	JJ	B-JJP	O	करने	VM	B-VGNN	O	के	PSP	I-VGNN	O	O
+
+लिए	PSP	I-VGNN	O	किया	VM	B-VGF	O	जाना	VAUX	I-VGF	O	O
+
+चाहिए	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+69,462	NNP	B-NP	O	.	SYM	I-NP	O	O
+
+के	PSP	B-NP	O	क्षेत्र	NN	B-NP	O	में	PSP	I-NP	O	O
+
+फैला	VM	B-VGF	O	है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+करता	VM	B-VGF	O	है	VAUX	I-VGF	O	कि	CC	B-CCP	O	O
+
+सेवा	NN	B-NP	O	प्रदाता	NN	B-NP	O	ख़रीदे	VM	B-VGF	O	O
+
+गए	VAUX	I-VGF	O	या	CC	B-CCP	O	पट्टे	NN	B-NP	O	O
+
+पर	PSP	I-NP	O	लिए	VM	B-VGNF	O	गए	VAUX	I-VGNF	O	O
+
+फोन	NN	B-NP	O	के	PSP	I-NP	O	लिए	PSP	I-NP	O	O
+
+भुगतान	NN	B-NP	O	प्राप्त	JJ	B-JJP	O	करें	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	विष्णुपद	NNPC	B-NP	B-LOC	O
+
+मंदिर	NNP	I-NP	I-LOC	,	SYM	I-NP	O	बोधगया	NNP	B-NP	B-LOC	O
+
+में	PSP	I-NP	O	भगवान	NNC	B-NP	B-PER	बुद्ध	NNP	I-NP	O	O
+
+से	PSP	I-NP	O	जुड़ा	VM	B-VGNF	O	पीपल	NN	B-NP	O	O
+
+का	PSP	I-NP	O	वृक्ष	NN	B-NP	O	तथा	CC	B-CCP	O	O
+
+महाबोधि	NNPC	B-NP	B-LOC	मंदिर	NN	I-NP	I-LOC	के	PSP	I-NP	O	O
+
+अलावे	PSP	I-NP	O	तिब्बती	JJ	B-NP	B-LOC	मंदिर	NNP	I-NP	I-LOC	O
+
+,	SYM	I-NP	O	थाई	NNPC	B-NP	B-LOC	मंदिर	NNP	I-NP	I-LOC	O
+
+,	SYM	I-NP	O	जापानी	JJ	B-NP	B-LOC	मंदिर	NN	I-NP	I-LOC	O
+
+,	SYM	I-NP	O	बर्मा	NNP	B-NP	B-LOC	का	PSP	I-NP	I-LOC	O
+
+मंदिर	NN	B-NP	I-LOC	भागलपुर	NNP	B-NP	B-LOC	तथा	CC	B-CCP	O	O
+
+आसपास	NST	B-NP	O	प्राचीन	JJ	B-NP	O	शिक्षा	NNC	I-NP	O	O
+
+स्थल	NN	I-NP	O	के	PSP	I-NP	O	अलावे	PSP	I-NP	O	O
+
+यह	DEM	B-NP	O	बिहार	NNP	I-NP	B-LOC	में	PSP	I-NP	O	O
+
+तसर	NN	B-NP	O	शिल्क	NNC	B-NP	O	उद्योग	NNC	I-NP	O	O
+
+केंद्र	NNP	B-NP	O	है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+देने	VM	B-VGNN	O	से	PSP	I-VGNN	O	जान	NN	B-NP	O	O
+
+और	CC	B-CCP	O	माल	NN	B-NP	O	कि	CC	B-CCP	O	O
+
+हिफा	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+के	NN	B-NP	O	के	PSP	I-NP	O	.	SYM	I-NP	O	O
+
+वाणिज्यिक	JJ	B-JJP	O	एवं	CC	B-CCP	O	सैन्य	JJ	B-NP	O	O
+
+बंदरगाह	NN	I-NP	O	भी	RP	I-NP	O	है	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	.	SYM	B-BLK	O	O
+
+समाज	NN	B-NP	O	के	PSP	I-NP	O	सभी	QF	B-NP	O	O
+
+वर्ग	NNC	I-NP	O	भगवान	NNC	I-NP	B-PER	श्रीकृष्ण	NNP	B-NP	B-PER	O
+
+के	PSP	I-NP	O	प्रादुर्भाव	NN	B-NP	O	-	SYM	I-NP	O	O
+
+महोत्सव	NNP	B-NP	O	को	PSP	I-NP	O	अपनी	PRP	B-NP	O	O
+
+साम‌र्थ्य	NN	I-NP	O	के	PSP	I-NP	O	अनुसार	PSP	I-NP	O	O
+
+उत्साहपूर्वक	NN	B-NP	O	मनाएं	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+के	PSP	I-NP	O	निकट	NST	I-NP	O	स्थित	JJ	B-JJP	O	O
+
+यह	DEM	B-NP	O	स्थान	NN	I-NP	O	सैंकड़ों	NN	B-NP	O	O
+
+बेघरों	NN	B-NP	O	और	CC	B-CCP	O	में	PSP	B-NP	O	O
+
+से	PSP	I-NP	O	भी	RP	I-NP	O	गरीब	NN	B-NP	O	O
+
+का	PSP	I-NP	O	घर	NN	B-NP	O	है	VM	B-VGF	O	O
+
+-	SYM	I-VGF	O	जो	PRP	B-NP	O	मदर	NNPC	I-NP	B-PER	O
+
+टेरेसा	NNP	B-NP	B-PER	को	PSP	I-NP	O	उद्धृत	JJ	B-JJP	O	O
+
+करता	VM	B-VGF	O	है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+पडोसी	NNC	B-NP	O	राज्य	NN	I-NP	O	तमिलनाडु	NNP	B-NP	B-LOC	O
+
+और	CC	B-CCP	O	कर्नाटक	NNP	B-NP	B-LOC	हैं	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	भारतीय	JJ	B-NP	O	O
+
+]	SYM	I-NP	O	]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+.	SYM	B-BLK	O	.	SYM	B-BLK	O	O
+
+ही	RP	I-NP	O	सबका	NN	B-NP	O	आदि	RP	I-NP	O	O
+
+,	SYM	I-NP	O	मध्य	JJ	B-JJP	O	और	CC	B-CCP	O	O
+
+अन्त	JJ	B-JJP	O	है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+यूएनडीपी	NNP	B-NP	B-ORG	]	SYM	I-NP	O	]	SYM	I-NP	O	O
+
+रिपोर्ट	NN	I-NP	O	के	PSP	I-NP	O	अनुसार	PSP	I-NP	O	O
+
+वायु	NN	B-NP	O	और	CC	B-CCP	O	चक्रवात	NN	B-NP	O	O
+
+के	PSP	I-NP	O	लिए	PSP	I-NP	O	यह	PRP	B-NP	O	O
+
+अत्योच्च	JJ	B-NP	O	क्षति	NN	I-NP	O	जोखिम	NNC	B-NP	O	O
+
+क्षेत्र	NN	I-NP	O	में	PSP	I-NP	O	आता	VM	B-VGF	O	O
+
+है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+नगर	NNP	B-NP	O	सात	QC	B-NP	O	पुलिस	NN	I-NP	B-PER	O
+
+ज़ोन	NN	B-NP	O	व	CC	B-CCP	O	सत्रह	NN	B-NP	O	O
+
+यातायात	NNC	I-NP	O	पुलिस	NNC	B-NP	O	ज़ोन	NN	I-NP	O	O
+
+में	PSP	I-NP	O	बंटा	VM	B-VGNF	O	हुआ	VM	B-VGF	O	O
+
+है	VAUX	I-VGF	O	,	SYM	I-VGF	O	जिनमें	PRP	B-NP	O	O
+
+से	PSP	I-NP	O	प्रत्येक	NN	B-NP	O	का	PSP	I-NP	O	O
+
+एक	QC	B-NP	O	पुलिस	NN	I-NP	B-PER	उपायुक्त	NN	B-NP	O	O
+
+है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+इसके	PRP	B-NP	O	अलावा	PSP	I-NP	O	यहां	PRP	B-NP	O	O
+
+पर	PSP	I-NP	O	राजस्थानी	NNP	B-NP	B-LOC	,	SYM	I-NP	O	O
+
+भारतीय	JJ	B-NP	B-LOC	,	SYM	I-NP	O	चाइनीज	NNP	B-NP	B-LOC	O
+
+और	CC	B-CCP	O	कॉन्टिनेंटल	NN	B-NP	O	व्यंजन	NN	B-NP	O	O
+
+परोसे	VM	B-VGF	O	जाते	VAUX	I-VGF	O	हैं	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	2,435	NNP	B-NP	O	O
+
+.	SYM	I-NP	O	श्रद्धालु	NN	B-NP	O	O
+
+स्त्री	NNP	B-NP	O	-	SYM	I-NP	O	पुरुष	NN	I-NP	O	O
+
+मध्यरात्रि	NN	B-NP	O	तक	PSP	I-NP	O	पूर्ण	JJ	B-NP	O	O
+
+उपवास	NN	I-NP	O	रखते	VM	B-VGF	O	हैं	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	.	SYM	B-BLK	O	O
+
+,	SYM	I-NP	O	ऊंची	JJ	B-NP	O	दीवारों	NN	I-NP	O	O
+
+और	CC	B-CCP	O	मज़बूत	JJ	B-NP	O	द्वारों	NN	I-NP	O	O
+
+के	PSP	I-NP	O	घिरे	NN	B-NP	O	अब	PRP	B-NP	O	O
+
+इस	DEM	B-NP	O	किले	NN	I-NP	O	के	PSP	I-NP	O	O
+
+अवशेष	NN	B-NP	O	मात्र	RP	I-NP	O	ही	RP	I-NP	O	O
+
+देखे	VM	B-VGF	O	जा	VAUX	I-VGF	O	सकते	VAUX	I-VGF	O	O
+
+हैं	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+1997	NNP	B-NP	O	]	SYM	I-NP	O	]	SYM	I-NP	O	O
+
+.	SYM	I-NP	O	लेकिन	CC	B-CCP	O	O
+
+आपने	PRP	B-NP	O	इस	DEM	B-NP	O	नगरवालों	NN	I-NP	O	O
+
+के	PSP	I-NP	O	साथ	NST	I-NP	O	कैसा	WQ	B-NP	O	O
+
+व्यवहार	NN	I-NP	O	किया	VM	B-VGF	O	?	SYM	I-VGF	O	O
+
+परवाह	NN	I-NP	O	नहीं	NEG	B-VGF	O	थी	VM	I-VGF	O	O
+
+कि	CC	B-CCP	O	जो	DEM	B-NP	O	शक्ति	NN	I-NP	O	O
+
+आपको	PRP	B-NP	O	प्राप्त	JJ	B-JJP	O	थी	VM	B-VGF	O	O
+
+उसके	PRP	B-NP	O	प्रदर्शन	NN	I-NP	O	के	PSP	I-NP	O	O
+
+लिए	PSP	I-NP	O	कोई	PRP	B-NP	O	आयोजन	NN	B-NP	O	O
+
+करें	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+इस	DEM	B-NP	O	बीच	NST	I-NP	O	,	SYM	I-NP	O	O
+
+लीबनीज	NNP	B-NP	B-PER	ने	PSP	I-NP	O	1684	NNP	B-NP	O	O
+
+में	PSP	I-NP	O	अपनी	PRP	B-NP	O	विधियों	NN	I-NP	O	O
+
+का	PSP	I-NP	O	पूरा	JJ	B-JJP	O	लेखा	VM	B-VGNF	O	O
+
+जोखा	NN	B-NP	O	प्रकाशित	JJ	B-JJP	O	करना	VM	B-VGNN	O	O
+
+शुरू	NN	B-NP	O	कर	VM	B-VGF	O	दिया	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	उन्होंने	PRP	B-NP	O	O
+
+अपनी	PRP	B-NP	O	इस	DEM	B-NP	O	यात्रा	NN	I-NP	O	O
+
+में	PSP	I-NP	O	अन्य	JJ	B-NP	O	भी	RP	I-NP	O	O
+
+कई	QF	B-NP	O	कठिनाइयों	NN	I-NP	O	का	PSP	I-NP	O	O
+
+सामना	NN	B-NP	O	किया	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+10	QC	I-BLK	O	.	SYM	I-BLK	O	O
+
+तभी	PRP	B-NP	O	तो	RP	I-NP	O	दिल्ली	NNP	B-NP	B-LOC	O
+
+का	PSP	I-NP	O	तख्त	NN	B-NP	O	सहम	JJ	B-JJP	O	O
+
+उठा	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+यहाँ	PRP	B-NP	O	पाँच	QC	B-NP	O	विश्वविद्यालय	NNPC	I-NP	B-ORG	O
+
+(	SYM	I-NP	O	और	CC	B-CCP	O	कई	QF	B-NP	O	O
+
+संबद्ध	JJ	I-NP	O	महाविद्यालय	NN	I-NP	B-ORG	)	SYM	I-NP	O	O
+
+हैं	VM	B-VGF	O	,	SYM	I-VGF	O	जिनमें	PRP	B-NP	O	O
+
+उत्कल	NNPC	I-NP	O	विश्वविद्यालय	NNP	B-NP	B-ORG	और	CC	B-CCP	O	O
+
+उड़ीसा	NNP	B-NP	B-LOC	कृषि	NNPC	I-NP	O	एवं	CC	B-CCP	O	B-LOC
+
+प्रोद्योगिकी	NNPC	B-NP	B-ORG	विश्वविद्यालय	NNP	I-NP	I-ORG	सबसे	INTF	B-JJP	O	O
+
+बड़े	JJ	I-JJP	O	व	CC	B-CCP	O	विख्यात	JJ	B-JJP	O	O
+
+हैं	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+यहूदियों	NN	B-NP	O	को	PSP	I-NP	O	अरबों	NN	B-NP	O	O
+
+पर	PSP	I-NP	O	अधिरोपित	JJ	B-JJP	O	करना	VM	B-VGNN	O	O
+
+अनुचित	JJ	B-JJP	O	और	CC	B-CCP	O	अमानवीय	JJ	B-JJP	O	O
+
+है	VM	B-VGF	O	जो	PRP	B-NP	O	कुछ	PRP	B-NP	O	O
+
+भी	RP	I-NP	O	आज	NN	B-NP	O	फिलिस्तीन	NN	B-NP	B-LOC	O
+
+में	PSP	I-NP	O	हो	VM	B-VGF	O	रहा	VAUX	I-VGF	O	O
+
+हैं	VAUX	I-VGF	O	उसे	PRP	B-NP	O	किसी	PRP	B-NP	O	O
+
+भी	RP	I-NP	O	आचार	NNC	B-NP	O	संहिता	NN	I-NP	O	O
+
+से	PSP	I-NP	O	सही	JJ	B-JJP	O	साबित	JJ	B-JJP	O	O
+
+नही	NEG	B-VGF	O	किया	VM	I-VGF	O	जा	VAUX	I-VGF	O	O
+
+द	NNPC	B-NP	O	एसेंसियल	NNPC	I-NP	O	गाँधी	NNP	B-NP	O	O
+
+में	PSP	I-NP	O	पुनः	RB	B-RBP	O	प्रकाशित	JJ	B-JJP	O	O
+
+:	SYM	I-JJP	O	उनके	PRP	B-NP	O	जीवन	NN	I-NP	O	O
+
+,	SYM	I-NP	O	कार्यों	NN	B-NP	O	,	SYM	I-NP	O	O
+
+और	CC	B-CCP	O	विचारों	NN	B-NP	O	का	PSP	I-NP	O	O
+
+संग्रह	NN	B-NP	O	]	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+गर्मी	NN	B-NP	O	में	PSP	I-NP	O	अधिक	QF	B-NP	O	O
+
+गर्मी	NN	I-NP	O	और	CC	B-CCP	O	सर्दी	NN	B-NP	O	O
+
+में	PSP	I-NP	O	अधिक	QF	B-NP	O	सर्दी	NN	I-NP	O	O
+
+पडना	VM	B-VGNF	O	यहां	PRP	B-NP	O	की	PSP	I-NP	O	O
+
+विशेषता	NN	B-NP	O	है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+11,286	NNP	B-NP	O	.	SYM	I-NP	O	O
+
+पाउण्ड	NN	B-NP	O	]	SYM	I-NP	O	]	SYM	I-NP	O	O
+
+प्रति	RP	I-NP	O	वर्ष	NN	I-NP	O	की	PSP	I-NP	O	O
+
+दर	NN	B-NP	O	पर	PSP	I-NP	O	पट्टे	NN	B-NP	O	O
+
+पर	PSP	I-NP	O	दे	VM	B-VGF	O	दिये	VAUX	I-VGF	O	O
+
+गये	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+उनका	PRP	B-NP	O	पुनर्जन्म	NN	I-NP	O	का	PSP	I-NP	O	O
+
+विचार	NN	B-NP	O	प्राचीन	JJ	B-NP	O	यूनानी	NN	I-NP	B-ORG	O
+
+धर्म	NN	B-NP	I-ORG	से	PSP	I-NP	O	प्रभावित	JJ	B-JJP	O	O
+
+था	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+उनको	PRP	B-NP	O	जो	DEM	B-NP	O	धार्मिक	JJ	I-NP	O	O
+
+पुस्तक	NN	I-NP	O	प्रदान	NN	B-NP	O	की	VM	B-VGF	O	O
+
+गयी	VAUX	I-VGF	O	उसका	PRP	B-NP	O	नाम	NN	I-NP	O	O
+
+कुरान	NNP	B-NP	B-MISC	है	VM	B-VGF	O	.	SYM	I-VGF	O	B-MISC
+
+लिया	VAUX	B-VGF	O	था	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+ही	RP	I-NP	O	है	VM	B-VGF	O	कि	CC	B-CCP	O	O
+
+यह	PRP	B-NP	O	आसमान	NN	B-NP	O	से	PSP	I-NP	O	O
+
+अचानक	RB	B-RBP	O	आ	VM	B-VGNF	O	गिरी	JJ	B-JJP	O	O
+
+हो	VM	B-VGF	O	,	SYM	I-VGF	O	बल्कि	CC	B-CCP	O	O
+
+यह	PRP	B-NP	O	उस	DEM	B-NP	O	वास्तविकता	NN	I-NP	O	O
+
+का	PSP	I-NP	O	फल	NN	B-NP	O	थी	VM	B-VGF	O	O
+
+कि	CC	B-CCP	O	आपके	PRP	B-NP	O	समकालीन	JJ	B-NP	O	O
+
+लोगों	NN	I-NP	O	ने	PSP	I-NP	O	आपके	PRP	B-NP	O	O
+
+व्यक्तित्व	NN	I-NP	O	को	PSP	I-NP	O	साहसी	JJ	B-JJP	O	O
+
+और	CC	B-CCP	O	निष्कपट	JJ	B-JJP	O	पाया	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	अति	INTF	B-NP	O	O
+
+विद्वान	NN	I-NP	B-PER	और	CC	B-CCP	O	मौर्य	NNC	B-NP	B-PER	O
+
+साम्राज्य	NN	I-NP	I-PER	का	PSP	I-NP	O	महामंत्री	NN	B-NP	O	O
+
+होने	VM	B-VGNN	O	के	PSP	I-VGNN	O	बावजूद	PSP	I-VGNN	O	O
+
+कौटिल्य	NN	B-NP	B-PER	का	PSP	I-NP	O	जीवन	NN	B-NP	O	B-PER
+
+सादगी	NN	B-NP	O	का	PSP	I-NP	O	जीवन	NN	B-NP	O	O
+
+था	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+पुराने	JJ	B-NP	O	जमाने	NN	I-NP	O	के	PSP	I-NP	O	O
+
+तानाशाह	NN	B-NP	O	कभी	PRP	B-NP	O	इतने	QF	B-NP	O	O
+
+पागल	NN	I-NP	O	नही	NEG	B-VGNF	O	हुए	VAUX	I-VGNF	O	O
+
+जितना	QF	B-NP	O	कि	CC	B-CCP	O	हिटलर	NN	B-NP	B-PER	O
+
+हुआ	VM	B-VGF	O	और	CC	B-CCP	O	इसे	PRP	B-NP	O	O
+
+वे	PRP	B-NP	O	धार्मिक	JJ	B-NP	O	उत्साह	NN	I-NP	O	O
+
+के	PSP	I-NP	O	साथ	NST	I-NP	O	करते	VM	B-VGF	O	O
+
+हैं	VAUX	I-VGF	O	कि	CC	B-CCP	O	वह	PRP	B-NP	O	O
+
+एक	QC	B-NP	O	ऐसे	DEM	I-NP	O	अनन्य	JJ	I-NP	O	O
+
+धर्म	NN	I-NP	O	और	CC	B-CCP	O	जंगी	NNPC	B-NP	O	O
+
+राष्ट्र	NNP	I-NP	O	को	PSP	I-NP	O	प्रस्तुत	JJ	B-JJP	O	O
+
+कर	VM	B-VGF	O	रहा	VAUX	I-VGF	O	है	VAUX	I-VGF	O	O
+
+जिसके	PRP	B-NP	O	नाम	NN	B-NP	O	पर	PSP	I-NP	O	O
+
+कोई	PRP	B-NP	O	भी	RP	I-NP	O	अमानवीयता	NN	B-NP	O	O
+
+मानवीयता	NN	B-NP	O	का	PSP	I-NP	O	नियम	NN	B-NP	O	O
+
+बन	VM	B-VGF	O	जाती	VAUX	I-VGF	O	है	VAUX	I-VGF	O	O
+
+जिसे	PRP	B-NP	O	अभी	PRP	B-NP	O	और	CC	B-CCP	O	O
+
+भविष्य	NN	B-NP	O	में	PSP	I-NP	O	पुरुस्कृत	JJ	B-JJP	O	O
+
+किया	VM	B-VGF	O	जायेगा	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+में	PSP	I-NP	O	,	SYM	I-NP	O	इस	PRP	B-NP	O	O
+
+पर	PSP	I-NP	O	निर्मित	JJ	B-NP	O	सामाजिक	JJ	I-NP	O	O
+
+संरंचनाओं	NN	I-NP	O	और	CC	B-CCP	O	इतिहास	NN	B-NP	O	O
+
+के	PSP	I-NP	O	अध्याय	NN	B-NP	O	त्यागे	VM	B-VGNF	O	O
+
+जा	VM	B-VGF	O	सकते	VAUX	I-VGF	O	^	SYM	I-VGF	O	O
+
+कास्सेल्स	NNP	B-NP	B-PER	,	SYM	I-NP	I-PER	एलन	NN	B-NP	I-PER	O
+
+.	SYM	I-NP	I-PER	.	SYM	B-BLK	O	O
+
+]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+-	SYM	B-BLK	O	.	SYM	I-BLK	O	O
+
+कांग्रेस	NNP	B-NP	O	]	SYM	I-NP	O	]	NNP	B-NP	O	O
+
+ने	PSP	I-NP	O	इस	DEM	B-NP	O	चुनाव	NN	I-NP	O	O
+
+में	PSP	I-NP	O	जीत	NN	B-NP	O	हासिल	JJ	B-JJP	O	O
+
+की	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+शिमला	NNP	B-NP	O	में	PSP	I-NP	O	दर्शनीय	JJ	B-NP	O	O
+
+स्थलों	NN	I-NP	O	के	PSP	I-NP	O	अतिरिक्त	PSP	I-NP	O	O
+
+कई	QF	B-NP	O	अध्ययन	NNC	I-NP	O	केंद्र	NN	I-NP	O	O
+
+भी	RP	I-NP	O	हैं	VM	B-VGF	O	,	SYM	I-VGF	O	O
+
+जिनमें	PRP	B-NP	O	लार्ड	NNPC	I-NP	O	डफरिन	NNP	B-NP	O	O
+
+द्वारा	PSP	I-NP	O	1884	NNP	B-NP	O	-	SYM	I-NP	O	O
+
+88	NNP	B-NP	O	में	PSP	I-NP	O	निर्मित	JJ	B-NP	O	O
+
+भारतीय	JJ	I-NP	O	उच्च	JJC	I-NP	O	अध्ययन	NNC	I-NP	O	O
+
+केंद्र	NN	I-NP	O	बहुत	QF	B-JJP	O	ही	RP	I-JJP	O	O
+
+प्रसिद्ध	JJ	I-JJP	O	है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+वे	PRP	B-NP	O	निश्चित	JJ	B-NP	O	रूप	NN	I-NP	O	O
+
+से	PSP	I-NP	O	जन्माष्टमी	JJ	B-NP	O	व्रत	NN	I-NP	O	O
+
+को	PSP	I-NP	O	इस	DEM	B-NP	O	लोक	NN	I-NP	O	O
+
+में	PSP	I-NP	O	करते	VM	B-VGF	O	हैं	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	वह	PRP	B-NP	O	O
+
+लोहार	NNP	B-NP	O	के	PSP	I-NP	O	पास	NST	I-NP	O	O
+
+गया	VM	B-VGF	O	और	CC	B-CCP	O	उसके	PRP	B-NP	O	O
+
+औजारों	NN	I-NP	O	को	PSP	I-NP	O	देख	VM	B-VGNF	O	O
+
+कर	VAUX	I-VGNF	O	यह	DEM	B-NP	O	पता	NN	I-NP	O	O
+
+लगाने	VM	B-VGNN	O	की	PSP	I-VGNN	O	कोशिश	NN	B-NP	O	O
+
+की	VM	B-VGF	O	कि	CC	B-CCP	O	यह	PRP	B-NP	O	O
+
+कैसे	WQ	B-RBP	O	हुआ	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+4	QC	B-BLK	O	.	SYM	I-BLK	O	O
+
+ब्राह्मण	NN	B-NP	O	विशेषकर	RB	B-RBP	O	पूजा	NNC	B-NP	O	O
+
+-	SYM	I-NP	O	पाठ	NN	I-NP	O	तथा	CC	B-CCP	O	O
+
+पुरोहिताई	NN	B-NP	O	करते	VM	B-VGF	O	हैं	VAUX	I-VGF	O	O
+
+,	SYM	I-VGF	O	परंतु	CC	B-CCP	O	कोई	PRP	B-NP	O	O
+
+-	SYM	I-NP	O	कोई	PRP	I-NP	O	व्यापार	NN	B-NP	O	O
+
+,	SYM	I-NP	O	नौकरी	NN	B-NP	O	तथा	CC	B-CCP	O	O
+
+खेती	NN	B-NP	O	भी	RP	I-NP	O	करते	VM	B-VGF	O	O
+
+हैं	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+दी	VM	B-VGF	O	क्रोनोलोजी	NNP	B-NP	O	ऑफ़	NNPC	I-NP	O	O
+
+एनशियेंट	NNPC	I-NP	O	किंगडेम्स	NNP	B-NP	O	अमेनडेड	NNP	B-NP	O	O
+
+]	SYM	I-NP	O	]	SYM	I-NP	O	'	SYM	I-NP	O	O
+
+'	SYM	I-NP	O	(	NNPC	B-NP	O	1728	QC	I-NP	O	O
+
+)	SYM	I-NP	O	और	CC	B-CCP	O	'	SYM	B-NP	O	O
+
+'	SYM	I-NP	O	ओब्सरवेशन्स	NNPC	I-NP	O	अपोन	NN	I-NP	O	O
+
+दी	VM	B-VGNF	O	प्रोफिसिज	NNPC	B-NP	O	ऑफ़	NNPC	I-NP	O	O
+
+डेनियल	NNPC	I-NP	O	एंड	NNPC	I-NP	O	दी	VM	B-VGNF	O	O
+
+एपोकेलिप्स	NNP	B-NP	O	ऑफ़	NNPC	I-NP	O	सेंट	NNPC	B-NP	O	O
+
+जॉन	NNPC	I-NP	O	'	SYM	I-NP	O	'	SYM	I-NP	O	O
+
+का	PSP	I-NP	O	प्रकाशन	NN	B-NP	O	उनकी	PRP	B-NP	O	O
+
+मृत्यु	NN	I-NP	O	के	PSP	I-NP	O	बाद	NST	I-NP	O	O
+
+हुआ	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+1979	NNP	B-NP	O	]	SYM	I-NP	O	]	SYM	I-NP	O	O
+
+.	SYM	I-NP	O	किन्नौर	NNP	B-NP	O	O
+
+]	SYM	I-NP	O	]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+.	SYM	B-BLK	O	-	SYM	B-BLK	O	O
+
+.	SYM	I-BLK	O	9,557	NNP	B-NP	O	O
+
+.	SYM	I-NP	O	.	SYM	B-BLK	O	O
+
+यहां	PRP	B-NP	O	विशेष	JJ	B-NP	O	महत्व	NN	I-NP	O	O
+
+है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+श्रद्धालु	NN	B-NP	O	स्त्री	NNP	B-NP	O	-	SYM	I-NP	O	O
+
+पुरुष	NN	I-NP	O	मध्यरात्रि	NN	B-NP	O	तक	PSP	I-NP	O	O
+
+पूर्ण	JJ	B-NP	O	उपवास	NN	I-NP	O	रखते	VM	B-VGF	O	O
+
+हैं	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	*	SYM	B-NP	O	O
+
+इसके	PRP	I-NP	O	अलावा	PSP	I-NP	O	बंजारी	NN	B-NP	B-LOC	O
+
+में	PSP	I-NP	O	कल्‍याणपुर	NNPC	B-NP	B-ORG	सीमेंट	NNPC	I-NP	I-ORG	O
+
+लिमिटेड	NNP	B-NP	I-ORG	नामक	JJ	B-JJP	O	सीमेंट	NN	B-NP	O	O
+
+कारखाने	NN	B-NP	O	का	PSP	I-NP	O	बिहार	NNP	B-NP	B-LOC	O
+
+के	PSP	I-NP	O	औद्योगिक	JJ	B-NP	O	नक्‍शे	NN	I-NP	O	O
+
+में	PSP	I-NP	O	महत्‍वपूर्ण	JJ	B-NP	O	स्‍थान	NN	I-NP	O	O
+
+है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+अलवर	NNP	B-NP	B-LOC	से	PSP	I-NP	O	दक्षिण	JJC	B-NP	O	B-LOC
+
+-	SYM	I-NP	O	पश्चिम	NNP	I-NP	O	की	PSP	I-NP	O	O
+
+तरफ	NST	I-NP	O	45	QC	B-NP	O	किमी	NN	I-NP	O	O
+
+.	SYM	I-NP	O	.	SYM	B-BLK	O	O
+
+उनके	PRP	B-NP	O	समर्थकों	NN	I-NP	O	ने	PSP	I-NP	O	O
+
+स्पष्ट	JJ	B-JJP	O	कर	VM	B-VGF	O	दिया	VAUX	I-VGF	O	O
+
+कि	CC	B-CCP	O	वह	PRP	B-NP	O	युद्ध	NN	B-NP	O	O
+
+के	PSP	I-NP	O	प्रयासों	NN	B-NP	O	का	PSP	I-NP	O	O
+
+समर्थन	NN	B-NP	O	तब	PRP	B-NP	O	तक	PSP	I-NP	O	O
+
+नहीं	NEG	B-VGF	O	देंगे	VM	I-VGF	O	तब	PRP	B-NP	O	O
+
+तक	PSP	I-NP	O	भारत	NNP	B-NP	O	को	PSP	I-NP	O	O
+
+तत्‍काल	JJ	B-NP	O	आजादी	NN	I-NP	O	न	NEG	B-VGF	O	O
+
+दे	VM	I-VGF	O	दी	VAUX	I-VGF	O	जाए	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	इसके	PRP	B-NP	O	O
+
+अतिरिक्त	PSP	I-NP	O	यहां	PRP	B-NP	O	अलखगिरी	NNP	B-NP	B-PER	O
+
+नाम	NN	I-NP	O	का	PSP	I-NP	O	नवीन	NNPC	B-NP	B-PER	O
+
+मत	NN	I-NP	O	भी	RP	I-NP	O	प्रचलित	JJ	B-JJP	O	O
+
+है	VM	B-VGF	O	तथा	CC	B-CCP	O	बिसनोई	NNP	B-NP	B-PER	O
+
+नाम	NN	B-NP	O	का	PSP	I-NP	O	दूसरा	QO	B-NP	O	O
+
+मत	NN	I-NP	O	भी	RP	I-NP	O	हिंदुओं	NN	B-NP	O	O
+
+में	PSP	I-NP	O	विद्यमान	NN	B-NP	O	है	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	.	SYM	B-BLK	O	O
+
+यहाँ	PRP	B-NP	O	की	PSP	I-NP	O	जनसंख्या	NN	B-NP	O	O
+
+2	QC	B-NP	O	करोड	NNPC	I-NP	O	29	QCC	I-NP	O	O
+
+लाख	QC	I-NP	O	शंकर	NNPC	I-NP	O	भूगोल	NNPC	I-NP	O	O
+
+दर्पण	NN	I-NP	O	2005	NNP	B-NP	O	प्रकाशन	NN	I-NP	O	O
+
+इस	DEM	B-NP	O	शहर	NN	I-NP	O	का	PSP	I-NP	O	O
+
+इतिहास	NN	B-NP	O	अत्यंत	INTF	B-JJP	O	प्राचीन	JJ	I-JJP	O	O
+
+है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	.	SYM	B-BLK	O	O
+
+‘	QC	I-NP	O	तुलसीदास	NNPC	I-NP	B-PER	’	NNP	I-NP	O	O
+
+और	CC	B-CCP	O	‘SivAjI	NN	B-NP	O	का	PSP	I-NP	O	O
+
+पत्र’	NNC	B-NP	O	-	SYM	I-NP	O	दोनों	QC	I-NP	O	O
+
+रचनाएँ	NN	I-NP	O	उपेक्षित	JJ	B-JJP	O	हैं	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	यह	DEM	B-NP	O	O
+
+नदी	NN	I-NP	O	समुद्र	NNC	B-NP	O	तल	NN	I-NP	O	O
+
+से	PSP	I-NP	O	लगभग	RP	I-NP	O	4900	QC	B-NP	O	O
+
+मीटर	NN	I-NP	O	की	PSP	I-NP	O	ऊंचाई	NN	B-NP	O	O
+
+पर	PSP	I-NP	O	बारालाचा	NN	B-NP	O	दर्रे	NN	B-NP	O	O
+
+(	SYM	I-NP	O	लाहौल	NNP	B-NP	O	स्पीति	NNP	I-NP	O	O
+
+)	NNP	B-NP	O	के	PSP	I-NP	O	पास	NST	B-NP	O	O
+
+से	PSP	I-NP	O	निकलने	VM	B-VGNF	O	वाली	PSP	I-VGNF	O	O
+
+चन्द्रा	NN	B-NP	O	और	CC	B-CCP	O	भागा	VM	B-VGNF	O	O
+
+नदियों	NN	B-NP	O	के	PSP	I-NP	O	तांदी	NN	B-NP	O	O
+
+नामक	JJ	B-NP	O	स्थान	NN	I-NP	O	पर	PSP	I-NP	O	O
+
+मिलने	VM	B-VGNN	O	से	PSP	I-VGNN	O	बनती	VM	B-VGF	O	O
+
+है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+एकबार	NNPC	B-NP	O	दिल्ली	NNP	I-NP	B-LOC	से	PSP	I-NP	O	O
+
+पन्नाराय	NNP	B-NP	B-PER	चित्रकार	NN	I-NP	I-PER	कन्नौज	NNP	B-NP	B-LOC	O
+
+राज्य	NN	B-NP	O	में	PSP	I-NP	O	आया	VM	B-VGF	O	O
+
+हुआ	VAUX	I-VGF	O	था	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+के	PSP	I-NP	O	बदले	PSP	I-NP	O	कई	QF	B-NP	O	O
+
+लोग	NN	I-NP	O	'	SYM	I-NP	O	कुमार	NNP	B-NP	O	O
+
+'	SYM	I-NP	O	लिखना	VM	B-VGNF	O	पसंद	NN	B-NP	O	O
+
+करते	VM	B-VGF	O	हैं	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+13,599	NNP	B-NP	O	.	SYM	I-NP	O	O
+
+.	SYM	B-BLK	O	-	SYM	B-BLK	O	O
+
+.	SYM	I-BLK	O	कोई	PRP	B-NP	O	O
+
+साधारण	NN	B-NP	O	कारण	NN	I-NP	O	तंत्र	NN	B-NP	O	O
+
+ज्ञात	JJ	B-JJP	O	नहीं	NEG	B-VGF	O	है	VM	I-VGF	O	O
+
+,	SYM	I-VGF	O	संबंध	NN	B-NP	O	दिखाने	VM	B-VGNN	O	O
+
+वाले	PSP	I-VGNN	O	अध्ययन	NN	B-NP	O	से	PSP	I-NP	O	O
+
+संभावनावों	NN	B-NP	O	के	PSP	I-NP	O	बदले	PSP	I-NP	O	O
+
+(	SYM	B-NP	O	गर्भस्राव	NN	I-NP	O	हो	VM	B-VGNN	O	O
+
+जाने	VAUX	I-VGNN	O	के	PSP	I-VGNN	O	बाद	NST	I-VGNN	O	O
+
+जाँच	NN	B-NP	O	आरम्भ	NNPC	B-NP	O	कर	VM	B-VGF	O	O
+
+,	SYM	I-VGF	O	जो	PRP	B-NP	O	पूर्वाग्रह	NN	B-NP	O	O
+
+ग्रस्त	JJ	B-JJP	O	हो	VM	B-VGF	O	सकता	VAUX	I-VGF	O	O
+
+है	VAUX	I-VGF	O	)	SYM	I-VGF	O	पूर्वव्यापी	JJ	B-NP	O	O
+
+(	SYM	I-NP	O	अध्ययन	NN	I-NP	O	की	PSP	I-NP	O	O
+
+शुरुआत	NN	B-NP	O	महिलाओं	NN	B-NP	O	के	PSP	I-NP	O	O
+
+गर्भवती	JJ	B-JJP	O	होने	VM	B-VGNN	O	से	PSP	I-VGNN	O	O
+
+पहले	NST	B-NP	O	से	PSP	I-NP	O	आरम्भ	NN	B-NP	O	O
+
+कर	VM	B-VGF	O	)	SYM	I-VGF	O	या	CC	B-CCP	O	O
+
+दोनों	QC	B-NP	O	हो	VM	B-VGF	O	सकते	VAUX	I-VGF	O	O
+
+हैं	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+अच	INJ	B-BLK	O	.	SYM	I-BLK	O	O
+
+श्रीकृष्ण	NNPC	B-NP	O	जन्मोत्सव	NN	I-NP	O	पर	PSP	I-NP	O	B-PER
+
+मथुरा	NNP	B-NP	B-LOC	कृष्णमय	NN	I-NP	O	हो	VM	B-VGF	O	B-LOC
+
+जात	VAUX	I-VGF	O	है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+अध्यक्ष	NN	I-NP	O	के	PSP	I-NP	O	निष्कासन	NN	B-NP	O	O
+
+को	PSP	I-NP	O	लेकर	VM	B-VGNF	O	राष्ट्रपति	NNP	B-NP	O	O
+
+से	PSP	I-NP	O	हुए	VM	B-VGNF	O	मतभेद	NN	B-NP	O	O
+
+और	CC	B-CCP	O	टीवी	NN	B-NP	B-MISC	पर	PSP	I-NP	O	O
+
+सेना	NN	B-NP	O	में	PSP	I-NP	O	माओवादियों	NN	B-NP	B-PER	O
+
+की	PSP	I-NP	O	नियुक्ति	NN	B-NP	O	को	PSP	I-NP	O	O
+
+लेकर	VM	B-VGNF	O	वीडिओ	NNC	B-NP	O	फुटेज	NN	I-NP	O	O
+
+के	PSP	I-NP	O	प्रसारण	NN	B-NP	O	के	PSP	I-NP	O	O
+
+बाद	NST	I-NP	O	सरकार	NN	B-NP	O	से	PSP	I-NP	O	O
+
+सहयोगी	JJ	B-NP	O	दलों	NN	I-NP	O	द्वारा	PSP	I-NP	O	O
+
+समर्थन	NN	B-NP	O	वापस	JJ	B-JJP	O	लेने	VM	B-VGNN	O	O
+
+के	PSP	I-VGNN	O	बाद	NST	I-VGNN	O	प्रचण्ड	NN	B-NP	O	O
+
+को	PSP	I-NP	O	इस्तीफा	NN	B-NP	O	देना	VM	B-VGF	O	O
+
+पड़ा	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+लेविनसन	NNP	B-NP	B-PER	,	SYM	I-NP	I-PER	पॉल	NNPC	B-NP	I-PER	O
+
+]	NNPC	I-NP	O	]	SYM	I-NP	O	,	SYM	I-NP	O	O
+
+'	SYM	I-NP	O	'	SYM	I-NP	O	सेलफोन	NNPC	I-NP	B-MISC	O
+
+:	SYM	I-NP	O	दुनिया	NN	B-NP	O	के	PSP	I-NP	O	O
+
+अधिकांश	QF	B-NP	O	मोबाइल	NNC	I-NP	O	माध्यम	NN	I-NP	O	O
+
+की	PSP	I-NP	O	कहानी	NN	B-NP	O	,	SYM	I-NP	O	O
+
+और	CC	B-CCP	O	कैसे	WQ	B-RBP	O	इसने	PRP	B-NP	O	O
+
+सब	PRPC	B-NP	O	कुछ	PRP	I-NP	O	बदल	VM	B-VGF	O	O
+
+दिया	VAUX	I-VGF	O	है	VAUX	I-VGF	O	'	SYM	I-VGF	O	O
+
+'	SYM	I-VGF	O	!	NNPC	I-VGF	O	,	SYM	I-VGF	O	O
+
+2004	NNP	B-NP	O	1	NNPC	B-NP	O	-	SYM	I-NP	O	O
+
+4039	NNP	I-NP	O	-	SYM	I-NP	O	6041	NNP	B-NP	O	O
+
+-	SYM	I-NP	O	0	QC	I-NP	O	*	SYM	I-NP	O	O
+
+लिंग	NNP	I-NP	O	,	SYM	I-NP	O	रिच	NNPC	B-NP	O	O
+
+,	SYM	I-NP	O	'	SYM	I-NP	O	'	SYM	I-NP	O	O
+
+मोबाइल	NNPC	I-NP	O	संचार	NNC	I-NP	O	:	SYM	I-NP	O	O
+
+समाज	NN	I-NP	O	पर	PSP	I-NP	O	सेल	NNC	B-NP	O	O
+
+फ़ोन	NN	I-NP	O	का	PSP	I-NP	O	प्रभाव	NN	B-NP	O	O
+
+'	SYM	I-NP	O	'	SYM	I-NP	O	,	SYM	I-NP	O	O
+
+2004	NNP	B-NP	O	1	NNPC	I-NP	O	-	SYM	I-NP	O	O
+
+55860	NNPC	I-NP	O	-	SYM	I-NP	O	936	NNPC	I-NP	O	O
+
+-	SYM	I-NP	O	9	QC	I-NP	O	*	SYM	I-NP	O	O
+
+लिंग	NNP	I-NP	O	,	SYM	I-NP	O	रिच	NN	B-NP	O	O
+
+और	CC	B-CCP	O	पेडरसेन	NNP	B-NP	O	,	SYM	I-NP	O	O
+
+पर	CC	B-CCP	O	,	SYM	I-CCP	O	एड्स	NNP	B-NP	B-MISC	O
+
+.	SYM	I-NP	O	.	SYM	B-BLK	O	O
+
+.	SYM	B-BLK	O	अधिक	QF	B-NP	O	O
+
+कुण्‍डलियां	NN	I-NP	O	भी	RP	I-NP	O	नहीं	NEG	B-VGF	O	O
+
+देखते	VM	I-VGF	O	और	CC	B-CCP	O	नई	JJ	B-NP	O	O
+
+पीढ़ी	NN	I-NP	O	में	PSP	I-NP	O	भी	RP	I-NP	O	O
+
+अधिक	QF	B-NP	O	ज्ञान	NN	I-NP	O	वाले	PSP	I-NP	O	O
+
+लोगों	NN	B-NP	O	को	PSP	I-NP	O	एकान्तिक	JJ	B-NP	O	O
+
+अभाव	NN	I-NP	O	नजर	NN	B-NP	O	आता	VM	B-VGF	O	O
+
+है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+जन्मोत्सव	NN	B-NP	O	के	PSP	I-NP	O	पश्चात	PSP	I-NP	O	O
+
+घी	NNP	B-NP	O	की	PSP	I-NP	O	बत्ती	NN	B-NP	O	O
+
+,	SYM	I-NP	O	कपूर	NNP	B-NP	O	आदि	RP	I-NP	O	O
+
+से	PSP	I-NP	O	आरती	VM	B-VGNF	O	करें	VM	B-VGF	O	O
+
+तथा	CC	B-CCP	O	भगवान	NN	B-NP	B-PER	को	PSP	I-NP	O	O
+
+भोग	NN	B-NP	O	में	PSP	I-NP	O	निवेदित	JJ	B-NP	O	O
+
+खाद्य	NNC	I-NP	O	पदार्थो	NN	I-NP	O	को	PSP	I-NP	O	O
+
+प्रसाद	NN	B-NP	O	के	PSP	I-NP	O	रूप	PSP	I-NP	O	O
+
+में	PSP	I-NP	O	वितरित	JJ	B-JJP	O	करके	VM	B-VGNF	O	O
+
+अंत	NN	B-NP	O	में	PSP	I-NP	O	स्वयं	PRP	B-NP	O	O
+
+भी	RP	I-NP	O	उसको	PRP	B-NP	O	ग्रहण	NN	B-NP	O	O
+
+करें	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+सेल	NNC	B-NP	B-MISC	फोन	NN	I-NP	I-MISC	उपन्यास	NN	B-NP	O	O
+
+,	SYM	I-NP	O	प्रत्येक	QF	B-NP	O	व्यक्ति	NN	I-NP	O	O
+
+पाठक	NNP	B-NP	O	के	PSP	I-NP	O	लिए	PSP	I-NP	O	O
+
+एक	QC	B-NP	O	व्यक्तिगत	JJ	I-NP	O	जगह	NN	I-NP	O	O
+
+बनाते	VM	B-VGF	O	हैं	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+दूसरे	QO	B-NP	O	दिन	NN	I-NP	O	भाद्रपद	NNPC	B-NP	O	O
+
+-	SYM	I-NP	O	कृष्ण	NNPC	I-NP	B-PER	-	SYM	I-NP	O	O
+
+नवमी	NNP	I-NP	O	में	PSP	I-NP	O	नंद	NNPC	B-NP	O	O
+
+-	SYM	I-NP	O	महोत्सव	NNP	I-NP	O	अर्थात्	NNPC	B-NP	O	O
+
+दधिकांदौ	NNP	I-NP	O	श्रीकृष्ण	NNP	B-NP	B-PER	के	PSP	I-NP	O	O
+
+जन्म	NN	B-NP	O	लेने	VM	B-VGNN	O	के	PSP	I-VGNN	O	O
+
+उपलक्षमें	NN	B-NP	O	बडे	JJ	B-NP	O	हर्षोल्लास	NNP	I-NP	O	O
+
+के	PSP	I-NP	O	साथ	NST	I-NP	O	मनाया	VM	B-VGF	O	O
+
+जाता	VAUX	I-VGF	O	है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+लूगूटी	NN	B-NP	B-LOC	]	SYM	I-NP	O	]	SYM	I-NP	O	O
+
+.	SYM	I-NP	O	हालांकि	CC	B-CCP	O	O
+
+लाहौर	NNP	B-NP	B-LOC	में	PSP	I-NP	O	किपलिंग	NN	B-NP	B-PER	B-LOC
+
+का	PSP	I-NP	O	समय	NN	B-NP	O	समाप्त	JJ	B-JJP	O	O
+
+होने	VM	B-VGNN	O	को	PSP	I-VGNN	O	आ	VM	B-VGF	O	O
+
+गए	VAUX	I-VGF	O	थे	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+अब	PRP	B-NP	O	इस	DEM	B-NP	O	किले	NN	I-NP	O	O
+
+में	PSP	I-NP	O	देख	VM	B-VGF	O	नहीं	NEG	I-VGF	O	O
+
+सकते	VAUX	I-VGF	O	,	SYM	I-VGF	O	क्योंकि	CC	B-CCP	O	O
+
+इसमे	PRP	B-NP	O	पुलिस	NN	B-NP	O	का	PSP	I-NP	O	O
+
+वायरलैस	NN	B-NP	B-MISC	केन्द्र	NN	B-NP	O	है	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	ये	DEM	B-NP	O	O
+
+दोनों	NN	I-NP	O	बहुत	QF	B-NP	O	सी	RP	I-NP	O	O
+
+अन्य	JJ	B-NP	O	छोटी	JJ	I-NP	O	इकाइयों	NN	I-NP	O	O
+
+के	PSP	I-NP	O	साथ	NST	I-NP	O	समूचे	JJ	B-JJP	O	O
+
+निचले	JJ	I-JJP	O	बेसिन	NNP	B-NP	O	को	PSP	I-NP	O	O
+
+बाढ़	NNC	B-NP	O	नियंत्रण	NN	I-NP	O	,	SYM	I-NP	O	O
+
+सिंचाई	NN	B-NP	O	और	CC	B-CCP	O	बिजली	NN	B-NP	O	O
+
+उपलब्ध	JJ	B-JJP	O	कराते	VM	B-VGF	O	है	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	परिणामी	NN	B-NP	O	O
+
+चरम	NNC	B-NP	O	-	SYM	I-NP	O	आनंद	NNP	I-NP	O	O
+
+और	CC	B-CCP	O	स्खलन	NN	B-NP	O	से	PSP	I-NP	O	O
+
+अंततः	RB	B-RBP	O	ऊर्जा	NNC	B-NP	O	शरीर	NN	I-NP	O	O
+
+से	PSP	I-NP	O	पूरी	JJ	B-NP	O	तरह	NN	I-NP	O	O
+
+निष्कासित	JJ	B-JJP	O	हो	VM	B-VGF	O	जाती	VAUX	I-VGF	O	O
+
+है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+एक्स	NNC	B-NP	O	एम	NNPC	I-NP	O	]	SYM	I-NP	O	O
+
+]	SYM	I-NP	O	प्रमुख	JJ	B-JJP	O	हैं	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	दिन	NN	B-NP	O	O
+
+में	PSP	I-NP	O	चावल	NNC	B-NP	O	-	SYM	I-NP	O	O
+
+दाल	NNPC	I-NP	O	-	SYM	I-NP	O	सब्जी	NN	I-NP	O	O
+
+और	CC	B-CCP	O	रात	NN	B-NP	O	में	PSP	I-NP	O	O
+
+रोटी	NN	B-NP	O	-	SYM	I-NP	O	सब्जी	NN	B-NP	O	O
+
+सामान्य	JJ	B-NP	O	भोजन	NN	I-NP	O	है	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	मुहम्मद	NNPC	B-NP	B-PER	O
+
+साहब	NN	I-NP	O	के	PSP	I-NP	O	उद्धरण	NN	B-NP	O	O
+
+,	SYM	I-NP	O	गतिविधियां	NN	B-NP	O	इत्यादि	RP	I-NP	O	O
+
+के	PSP	I-NP	O	मतलब	NN	B-NP	O	खोजना	VM	B-VGF	O	O
+
+और	CC	B-CCP	O	उनसे	PRP	B-NP	O	कानून	NN	B-NP	O	O
+
+बनाना	VM	B-VGNF	O	स्वयँ	NN	B-NP	O	एक	QC	B-NP	O	O
+
+विषय	NN	I-NP	O	बन	VM	B-VGF	O	गया	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	5,114	NNP	B-NP	O	O
+
+.	SYM	I-NP	O	सगरमाथा	NN	B-NP	B-LOC	O
+
+]	SYM	I-NP	O	]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+मुसलमानों	NN	I-NP	O	के	PSP	I-NP	O	घरेलू	JJ	B-NP	O	B-PER
+
+जीवन	NN	I-NP	O	,	SYM	I-NP	O	उनके	PRP	B-NP	O	O
+
+राजनैतिक	JJ	B-JJP	O	या	CC	B-CCP	O	आर्थिक	JJ	B-NP	O	O
+
+जीवन	NN	I-NP	O	,	SYM	I-NP	O	मुसलमान	NNC	B-NP	O	O
+
+राज्यों	NN	I-NP	O	की	PSP	I-NP	O	विदेश	NN	B-NP	O	O
+
+निति	NN	B-NP	O	इत्यादि	NNP	B-NP	O	पर	PSP	I-NP	O	O
+
+प्रभाव	NN	B-NP	O	डालते	VM	B-VGF	O	हैं	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	डी	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	इस	DEM	B-NP	O	O
+
+विषय	NN	I-NP	O	के	PSP	I-NP	O	जितने	QF	B-NP	O	O
+
+ग्रंथ	NN	I-NP	O	अभी	PRP	B-NP	O	तक	PSP	I-NP	O	O
+
+उपलब्ध	JJ	B-JJP	O	हैं	VM	B-VGF	O	उनमें	PRP	B-NP	O	O
+
+से	PSP	I-NP	O	वास्तविक	JJ	B-NP	O	जीवन	NN	I-NP	O	O
+
+का	PSP	I-NP	O	चित्रण	NN	B-NP	O	करने	VM	B-VGNN	O	O
+
+के	PSP	I-VGNN	O	कारण	PSP	I-VGNN	O	यह	PRP	B-NP	O	O
+
+सबसे	INTF	B-NP	O	अधिक	QF	I-NP	O	मूल्यवान्	NN	I-NP	O	O
+
+है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+5,691	NNP	B-NP	O	.	SYM	I-NP	O	O
+
+.	SYM	B-BLK	O	पूरे	JJ	B-NP	O	O
+
+अलवर	NNP	I-NP	B-LOC	शहर	NN	B-NP	O	में	PSP	I-NP	O	B-LOC
+
+यह	PRP	B-NP	O	सबसे	INTF	B-NP	O	पुरानी	JJ	I-NP	O	O
+
+इमारत	NN	I-NP	O	है	VM	B-VGF	O	,	SYM	I-VGF	O	O
+
+जो	PRP	B-NP	O	लगभग	RP	I-NP	O	928	QC	B-NP	O	O
+
+ई0	QC	I-NP	O	में	PSP	I-NP	O	निकुम्भ	JJ	B-NP	O	O
+
+राजपूतों	NN	I-NP	O	द्वारा	PSP	I-NP	O	बनाई	VM	B-VGF	O	O
+
+गई	VAUX	I-VGF	O	थी	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+स्थित	JJ	B-JJP	O	सोनार	NNPC	B-NP	B-LOC	किला	NNP	I-NP	I-LOC	O
+
+,	SYM	I-NP	O	चिन्तामणि	NNP	B-NP	B-LOC	पार्श्वनाथ	NNPC	I-NP	I-LOC	O
+
+जैन	NNP	B-NP	I-LOC	मंदिर	NN	I-NP	I-LOC	(	SYM	B-NP	O	O
+
+1402	NNP	I-NP	O	-	SYM	I-NP	O	1416	NNPC	I-NP	O	O
+
+ई.	NNPC	I-NP	O	)	SYM	I-NP	O	,	SYM	I-NP	O	O
+
+सम्भवनाथ	NNPC	B-NP	O	जैन	NNPC	I-NP	O	मंदिर	NN	I-NP	O	O
+
+(	SYM	B-NP	O	1436	NNP	I-NP	O	-	SYM	I-NP	O	O
+
+1440	RDP	I-NP	O	ई.	NNPC	I-NP	O	)	SYM	I-NP	O	O
+
+,	SYM	I-NP	O	शांतिनाथ	NNPC	B-NP	B-LOC	कुन्थनाथ	NNPC	I-NP	I-LOC	O
+
+जैन	NNP	B-NP	I-LOC	मंदिर	NN	I-NP	I-LOC	(	SYM	B-NP	O	O
+
+1480	QC	I-NP	O	ई.	NNPC	I-NP	O	)	SYM	I-NP	O	O
+
+,	SYM	I-NP	O	चन्द्रप्रभु	NNPC	B-NP	B-LOC	जैन	NNPC	I-NP	I-LOC	O
+
+मंदिर	NNP	B-NP	I-LOC	तथा	CC	B-CCP	O	अनेक	QF	B-NP	O	O
+
+वैषण्व	NNPC	I-NP	B-LOC	मंदिर	NNPC	I-NP	I-LOC	धर्म	NNP	B-NP	O	O
+
+के	PSP	I-NP	O	साथ	NST	I-NP	O	-	SYM	I-NP	O	O
+
+साथ	RDP	I-NP	O	कला	NN	B-NP	O	के	PSP	I-NP	O	O
+
+उत्कृष्ट	JJ	B-NP	O	उदाहरण	NN	I-NP	O	हैं	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	.	SYM	B-BLK	O	O
+
+दोनों	QC	I-NP	O	बच्चों	NN	I-NP	O	के	PSP	I-NP	O	O
+
+रिश्तेदार	NN	B-NP	O	इंग्लैंड	NNP	B-NP	B-LOC	में	PSP	I-NP	O	O
+
+थे	VM	B-VGF	O	और	CC	B-CCP	O	वे	PRP	B-NP	O	O
+
+उनके	PRP	B-NP	O	यहां	PRP	B-NP	O	जा	VM	B-VGF	O	O
+
+सकते	VAUX	I-VGF	O	थे	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+.	SYM	B-BLK	O	नारायणी	NNP	B-NP	B-LOC	O
+
+]	SYM	I-NP	O	]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+के	PSP	I-NP	O	लिए	PSP	I-NP	O	जो	PRP	B-NP	O	O
+
+भविष्य	NN	B-NP	O	में	PSP	I-NP	O	बच्चे	NN	B-NP	O	O
+
+पैदा	JJ	B-JJP	O	करना	VM	B-VGF	O	और	CC	B-CCP	O	O
+
+अपने	PRP	B-NP	O	गर्भाशय	NN	I-NP	O	को	PSP	I-NP	O	O
+
+क्षति	NN	B-NP	O	से	PSP	I-NP	O	बचाना	VM	B-VGNF	O	O
+
+चाहती	VM	B-VGF	O	हैं	VAUX	I-VGF	O	,	SYM	I-VGF	O	O
+
+यह	PRP	B-NP	O	एक	QC	B-NP	O	महत्वपूर्ण	JJ	I-NP	O	O
+
+विषय	NN	I-NP	O	है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+ने	PSP	I-NP	O	लिख	VM	B-VGF	O	दिया	VAUX	I-VGF	O	O
+
+है	VAUX	I-VGF	O	-	SYM	I-VGF	O	:	SYM	B-NP	O	O
+
+वे	PRP	I-NP	O	टुकडखोर	NN	B-NP	O	इतिहासकार	NN	B-NP	O	O
+
+वे	PRP	B-NP	O	सत्ता	NN	B-NP	O	के	PSP	I-NP	O	O
+
+बदनुमा	NNPC	B-NP	O	दाग	NN	I-NP	O	:	SYM	I-NP	O	O
+
+भारत	NNP	B-NP	O	की	PSP	I-NP	O	संस्कृति	NN	B-NP	O	B-LOC
+
+के	PSP	I-NP	O	द्रोही	NN	B-NP	O	निशिदिन	NN	B-NP	O	O
+
+गाते	VM	B-VGNF	O	विषभरे	JJ	B-NP	O	राग	NNP	I-NP	O	O
+
+,	SYM	I-NP	O	ये	DEM	B-NP	O	इतिहासकार	NN	I-NP	O	O
+
+मुगलों	NN	B-NP	O	के	PSP	I-NP	O	विदेशी	JJ	B-NP	O	O
+
+अत्याचारी	JJ	I-NP	O	रूप	NN	I-NP	O	पर	PSP	I-NP	O	O
+
+मौन	NN	B-NP	O	ही	RP	I-NP	O	रहते	VM	B-VGF	O	O
+
+हैं	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+-	SYM	B-BLK	O	.	SYM	I-BLK	O	O
+
+.	SYM	B-BLK	O	हिमाचल	NNPC	B-NP	O	O
+
+प्रदेश	NNP	I-NP	O	में	PSP	I-NP	O	भूजल	NN	B-NP	O	O
+
+की	PSP	I-NP	O	उलब्धता	NN	B-NP	O	36,615.92	NNP	B-NP	O	O
+
+हैक्टेयर	NNP	B-NP	O	मीटर	NN	I-NP	O	(	SYM	B-NP	O	O
+
+है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+बचे	VM	B-VGNF	O	खुचे	JJ	B-NP	O	मुग़ल	NNP	I-NP	O	O
+
+भाग	VM	B-VGF	O	गए	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+ने	PSP	I-NP	O	लूटमार	NN	B-NP	O	से	PSP	I-NP	O	O
+
+लेकर	VM	B-VGNF	O	किसानों	NN	B-NP	O	के	PSP	I-NP	O	O
+
+ढोर	NNC	B-NP	O	-	SYM	I-NP	O	डंगर	NNP	I-NP	O	O
+
+तक	PSP	I-NP	O	खोलने	VM	B-VGNF	O	शुरू	NN	B-NP	O	O
+
+कर	VM	B-VGF	O	दिए	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+मानव	NNC	I-NP	O	पशुओं	NN	I-NP	O	में	PSP	I-NP	O	O
+
+गर्भस्राव	NN	B-NP	O	के	PSP	I-NP	O	विभिन्न	JJ	B-NP	O	O
+
+प्रकार	NN	I-NP	O	के	PSP	I-NP	O	ज्ञात	JJ	B-NP	O	O
+
+जोखिम	NN	I-NP	O	कारक	NN	B-NP	O	हैं	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	.	SYM	B-BLK	O	O
+
+.	SYM	B-BLK	O	.	SYM	B-BLK	O	O
+
+-	SYM	I-NP	O	समृद्धि	NN	I-NP	O	प्राप्त	JJ	B-JJP	O	O
+
+करती	VM	B-VGF	O	है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+प्रदर्शन	NN	B-NP	O	के	PSP	I-NP	O	दौरान	NST	I-NP	O	O
+
+गोरी	NN	B-NP	B-PER	के	PSP	I-NP	O	शाबास	NNPC	B-NP	O	O
+
+लफ्ज	NN	I-NP	O	के	PSP	I-NP	O	उद्घोष	NN	B-NP	O	O
+
+के	PSP	I-NP	O	साथ	NST	I-NP	O	ही	RP	I-NP	O	O
+
+भरी	VM	B-VGNF	O	महफिल	NNP	B-NP	O	में	PSP	I-NP	O	O
+
+अंधे	NN	B-NP	O	पृथ्वीराज	NNP	B-NP	B-PER	ने	PSP	I-NP	O	O
+
+गोरी	NN	B-NP	B-PER	को	PSP	I-NP	O	शब्दभेदी	NN	B-NP	O	O
+
+बाण	NN	B-NP	O	से	PSP	I-NP	O	मार	VM	B-VGF	O	O
+
+गिराया	VAUX	I-VGF	O	तथा	CC	B-CCP	O	इसके	PRP	B-NP	O	O
+
+पश्चात	PSP	I-NP	O	दुश्मन	NN	B-NP	O	के	PSP	I-NP	O	O
+
+हाथ	NN	B-NP	O	दुर्गति	NN	B-NP	O	से	PSP	I-NP	O	O
+
+बचने	VM	B-VGNN	O	के	PSP	I-VGNN	O	लिए	PSP	I-VGNN	O	O
+
+दोनों	NN	B-NP	O	ने	PSP	I-NP	O	एक	PRPC	B-NP	O	O
+
+-	SYM	I-NP	O	दूसरे	PRP	I-NP	O	का	PSP	I-NP	O	O
+
+वध	NN	B-NP	O	कर	VM	B-VGF	O	दिया	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	भूप	NN	B-NP	B-PER	O
+
+सिंह	NNP	B-NP	B-PER	.	SYM	I-NP	O	B-PER
+
+इस	DEM	B-NP	O	दिन	NN	I-NP	O	उपवास	NN	B-NP	O	O
+
+रखें	VM	B-VGF	O	तथा	CC	B-CCP	O	अन्न	NN	B-NP	O	O
+
+का	PSP	I-NP	O	सेवन	NN	B-NP	O	न	NEG	B-VGF	O	O
+
+करें	VM	I-VGF	O	.	SYM	I-VGF	O	O
+
+राज्‍य	NN	B-NP	O	में	PSP	I-NP	O	तीर्थो	NN	B-NP	O	O
+
+और	CC	B-CCP	O	नृवैज्ञानिक	JJ	B-NP	O	महत्‍व	NNP	I-NP	O	O
+
+के	PSP	I-NP	O	स्‍थलों	NN	B-NP	O	का	PSP	I-NP	O	O
+
+समृद्ध	JJ	B-NP	O	भंडार	NN	I-NP	O	है	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	राज्य	NN	B-NP	O	O
+
+में	PSP	I-NP	O	लघु	VM	B-VGF	O	और	CC	B-CCP	O	O
+
+मध्यम	JJ	B-NP	O	उद्योगों	NN	I-NP	O	को	PSP	I-NP	O	O
+
+बढाने	VM	B-VGNN	O	के	PSP	I-VGNN	O	लिए	PSP	I-VGNN	O	O
+
+2005	NNPC	B-NP	O	-	SYM	I-NP	O	2006	NNP	I-NP	O	O
+
+में	PSP	I-NP	O	2,255	QC	B-NP	O	लघु	NNC	I-NP	O	O
+
+उद्योग	NN	I-NP	O	स्थापित	JJ	B-JJP	O	किए	VM	B-VGF	O	O
+
+गये	VAUX	I-VGF	O	,	SYM	I-VGF	O	इन	DEM	B-NP	O	O
+
+योजनाओं	NN	I-NP	O	में	PSP	I-NP	O	123.23	QCC	B-NP	O	O
+
+करोड़	QC	I-NP	O	रुपये	NN	I-NP	O	का	PSP	I-NP	O	O
+
+निवेश	NN	B-NP	O	किया	VM	B-VGF	O	गया	VAUX	I-VGF	O	O
+
+और	CC	B-CCP	O	लगभग	RP	I-CCP	O	10,308	QC	B-NP	O	O
+
+व्यक्तियों	NN	I-NP	O	को	PSP	I-NP	O	काम	NN	B-NP	O	O
+
+मिला	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	सम्पूर्ण	JJ	B-NP	O	O
+
+उत्तर	NNPC	I-NP	O	भारत	NNP	B-NP	B-LOC	में	PSP	I-NP	O	O
+
+हिन्दू	JJ	B-NP	O	शैली	NN	I-NP	O	के	PSP	I-NP	O	O
+
+एकमात्र	NNPC	B-NP	O	महल	NNP	I-NP	O	'	SYM	I-NP	O	O
+
+'	SYM	I-NP	O	'	SYM	I-NP	O	डीग	NN	I-NP	B-LOC	O
+
+के	PSP	I-NP	O	जल	NNPC	B-NP	B-LOC	महल	NNP	I-NP	I-LOC	O
+
+'	SYM	I-NP	O	'	SYM	I-NP	O	'	SYM	I-NP	O	O
+
+हैं	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	हिमालय	NNP	B-NP	B-LOC	O
+
+से	PSP	I-NP	O	उतरने	VM	B-VGNN	O	वाली	PSP	I-VGNN	O	O
+
+कई	QF	B-NP	O	नदियाँ	NN	I-NP	O	तथा	CC	B-CCP	O	O
+
+जलधाराएँ	NN	B-NP	O	बिहार	NNP	B-NP	B-LOC	होकर	VM	B-VGNF	O	O
+
+प्रवाहित	JJ	B-JJP	O	होती	VM	B-VGF	O	है	VAUX	I-VGF	O	O
+
+और	CC	B-CCP	O	गंगा	NNP	B-NP	B-LOC	में	PSP	I-NP	O	O
+
+विसर्जित	JJ	B-JJP	O	होती	VM	B-VGF	O	हैं	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	मोहब्बत	NN	B-NP	O	O
+
+के	PSP	I-NP	O	दुश्मन	NN	B-NP	O	]	SYM	I-NP	O	O
+
+]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+किसी	PRP	B-NP	O	भी	RP	I-NP	O	एक	QC	B-NP	O	O
+
+धार्मिक	JJ	I-NP	O	पर्व	NN	I-NP	O	को	PSP	I-NP	O	O
+
+धर्मावलंबी	JJ	B-NP	O	विशेष	NN	I-NP	O	का	PSP	I-NP	O	O
+
+कह	VM	B-VGNF	O	सकना	NN	B-NP	O	और	CC	B-CCP	O	O
+
+अलग	JJ	B-JJP	O	कर	VM	B-VGNN	O	पाना	VAUX	I-VGNN	O	O
+
+बहुत	INTF	B-JJP	O	कठिन	JJ	I-JJP	O	है	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	यहाँ	PRP	B-NP	O	O
+
+तक	PSP	I-NP	O	कि	RP	I-NP	O	यहूदी	NN	B-NP	O	O
+
+और	CC	B-CCP	O	वे	PRP	B-NP	O	लोग	NN	I-NP	O	O
+
+जिनको	PRP	B-NP	O	आपके	PRP	B-NP	O	संदेश	NN	I-NP	O	O
+
+पर	PSP	I-NP	O	विश्वास	NN	B-NP	O	नहीं	NEG	B-VGF	O	O
+
+था	VM	I-VGF	O	,	SYM	I-VGF	O	वे	PRP	B-NP	O	O
+
+भी	RP	I-NP	O	आपको	PRP	B-NP	O	अपने	PRP	B-NP	O	O
+
+झगड़ों	NN	I-NP	O	में	PSP	I-NP	O	पंच	NN	B-NP	O	O
+
+या	CC	B-CCP	O	मध्यस्थ	NN	B-NP	O	बनाते	VM	B-VGF	O	O
+
+थे	VAUX	I-VGF	O	,	SYM	I-VGF	O	क्योंकि	CC	B-CCP	O	O
+
+उन्हें	PRP	B-NP	O	आपकी	PRP	B-NP	O	निरपेक्षता	NN	I-NP	O	O
+
+पर	PSP	I-NP	O	पूरा	JJ	B-NP	O	यक़ीन	NN	I-NP	O	O
+
+था	VAUX	I-NP	O	.	SYM	I-NP	O	O
+
+अगर	CC	B-CCP	O	एक	QC	B-NP	O	विजेता	NN	I-NP	O	O
+
+महानता	NN	B-NP	O	का	PSP	I-NP	O	पात्र	NN	B-NP	O	O
+
+है	VM	B-VGF	O	तो	CC	B-CCP	O	आप	PRP	B-NP	O	O
+
+एक	QC	B-NP	O	ऐसे	DEM	I-NP	O	व्यक्ति	NN	I-NP	O	O
+
+हैं	VM	B-VGF	O	जो	PRP	B-NP	O	अनाथ	NNP	B-NP	O	O
+
+और	CC	B-CCP	O	असहाय	NN	B-NP	O	और	CC	B-CCP	O	O
+
+साधारण	NNC	B-NP	O	व्याक्ति	NN	I-NP	O	की	PSP	I-NP	O	O
+
+स्थिति	NN	B-NP	O	से	PSP	I-NP	O	उभरे	VM	B-VGF	O	O
+
+और	CC	B-CCP	O	ख़ुसरो	NNP	B-NP	O	और	CC	B-CCP	O	O
+
+क़ैसर	NN	B-NP	O	की	PSP	I-NP	O	तरह	PSP	I-NP	O	O
+
+अरब	QC	B-NP	O	उपमहाद्वीप	NN	I-NP	O	के	PSP	I-NP	O	O
+
+स्वतंत्र	JJ	B-NP	O	शासक	NN	I-NP	O	बने	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	मी	RP	B-BLK	O	O
+
+.	SYM	I-BLK	O	बी	NNPC	B-NP	B-ORG	O
+
+ई	NNC	I-NP	I-ORG	एस	NNPC	I-NP	I-ORG	टी	NNPC	I-NP	I-ORG	O
+
+(	SYM	I-NP	O	बेस्ट	NNPC	I-NP	O	)	SYM	I-NP	O	O
+
+]	SYM	I-NP	O	]	SYM	I-NP	O	की	PSP	I-NP	O	O
+
+बसें	NN	B-NP	O	,	SYM	I-NP	O	टैक्सी	NNPC	B-NP	O	O
+
+ऑटोरिक्शा	NNP	I-NP	O	,	SYM	I-NP	O	फेरी	NNC	B-NP	O	O
+
+सेवा	NN	I-NP	O	आतीं	VM	B-VGNF	O	हैं	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	.	SYM	B-BLK	O	O
+
+.	SYM	B-BLK	O	दीपों	NN	B-NP	O	O
+
+को	PSP	I-NP	O	आटे	NN	B-NP	O	से	PSP	I-NP	O	O
+
+बनाया	VM	B-VGF	O	जाता	VAUX	I-VGF	O	है	VAUX	I-VGF	O	O
+
+जिसमें	PRP	B-NP	O	दीपक	NN	B-NP	B-PER	जलाकर	VM	B-VGNF	O	O
+
+तालाब	NN	B-NP	O	में	PSP	I-NP	O	प्रवाह	NN	B-NP	O	O
+
+कर	VM	B-VGF	O	दिया	VAUX	I-VGF	O	है	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	.	SYM	B-BLK	O	O
+
+पहले	NST	I-NP	O	लगातार	RB	B-RBP	O	पांच	QC	B-NP	O	O
+
+दिनों	NN	I-NP	O	तक	PSP	I-NP	O	लोग	NN	B-NP	O	O
+
+नदी	NN	B-NP	O	किनारों	NN	I-NP	O	या	CC	B-CCP	O	O
+
+समुद्र	NNC	B-NP	O	तटों	NN	I-NP	O	पर	PSP	I-NP	O	O
+
+एकत्र	JJ	B-JJP	O	होते	VM	B-VGF	O	हैं	VAUX	I-VGF	O	O
+
+और	CC	B-CCP	O	छोटे	JJ	B-NP	O	-	SYM	I-NP	O	O
+
+छोटे	RDP	I-NP	O	नौका	NN	I-NP	O	रूप	NN	B-NP	O	O
+
+तैराते	VM	B-VGNF	O	हैं	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+भी	RP	B-BLK	O	एलएमपी	NNP	B-NP	O	के	PSP	I-NP	O	O
+
+8.5	QC	B-NP	O	सप्ताह	NN	I-NP	O	और	CC	B-CCP	O	O
+
+जन्म	NN	B-NP	O	के	PSP	I-NP	O	बीच	NST	I-NP	O	O
+
+गर्भस्राव	NN	B-NP	O	की	PSP	I-NP	O	दर	NN	B-NP	O	O
+
+दो	QC	B-NP	O	प्रतिशत	NN	I-NP	O	है	VM	B-VGF	O	O
+
+;	SYM	I-VGF	O	नुकसान	NN	B-NP	O	भ्रूण	NNC	B-NP	O	O
+
+अवधि	NN	I-NP	O	के	PSP	I-NP	O	अंत	NN	B-NP	O	O
+
+तक	PSP	I-NP	O	होता	VM	B-VGF	O	^	SYM	I-VGF	O	O
+
+रोडेक	NNP	B-NP	B-PER	,	SYM	I-NP	O	चार्ल्स	NNP	B-NP	B-PER	O
+
+,	SYM	I-NP	O	व्हिटल	NNP	B-NP	B-PER	,	SYM	I-NP	O	O
+
+मार्टिन	NNP	B-NP	B-PER	.	SYM	I-NP	O	O
+
+भारतीय	JJ	B-NP	O	दृष्टि	NN	I-NP	O	की	PSP	I-NP	O	O
+
+मानवीय	JJ	B-NP	O	जिजीविषा	NN	I-NP	O	तथा	CC	B-CCP	O	O
+
+आशा	NN	B-NP	O	के	PSP	I-NP	O	मनोहर	NN	B-NP	O	O
+
+रूप	NN	B-NP	O	देखें	VM	B-VGF	O	-	SYM	I-VGF	O	O
+
+:	SYM	I-VGF	O	पलता	VM	B-VGF	O	रहता	VM	I-VGF	O	O
+
+है	VAUX	I-VGF	O	एक	QC	B-NP	O	बीज	NN	I-NP	O	O
+
+घनघोर	JJ	B-NP	O	प्रलय	NN	I-NP	O	के	PSP	I-NP	O	O
+
+बीच	NST	I-NP	O	कहीं	PRP	B-NP	O	,	SYM	I-NP	O	O
+
+:	SYM	B-NP	O	कोई	PRP	I-NP	O	मनु	NN	B-NP	O	O
+
+उसे	PRP	B-NP	O	सहेज	NN	B-NP	O	सदा	NNPC	B-NP	O	O
+
+रचता	VM	B-VGNF	O	आया	VM	B-VGF	O	है	VAUX	I-VGF	O	O
+
+सृष्टि	NNP	B-NP	O	नई	JJ	B-JJP	O	.	SYM	I-JJP	O	O
+
+व्हाट	NNPC	I-NP	O	वुमेन	NNPC	I-NP	O	वॉंट	NN	I-NP	O	O
+
+'	SYM	I-NP	O	'	SYM	I-NP	O	रोडेल	NNPC	I-NP	B-PER	O
+
+,	SYM	I-NP	O	2000	NNP	B-NP	O	,	SYM	I-NP	O	O
+
+1	NNPC	B-NP	O	-	SYM	I-NP	O	57954	NNP	I-NP	O	O
+
+-	SYM	I-NP	O	093	NNP	B-NP	O	-	SYM	I-NP	O	O
+
+7	QC	I-NP	O	,	SYM	I-NP	O	पृष्ठ	NN	B-NP	O	O
+
+हालांकि	CC	B-CCP	O	आमतौर	NN	B-NP	O	पर	PSP	I-NP	O	O
+
+ऐसा	PRP	B-NP	O	कहा	VM	B-VGF	O	जाता	VAUX	I-VGF	O	O
+
+है	VAUX	I-VGF	O	वीर्य	NN	B-NP	O	का	PSP	I-NP	O	O
+
+स्वाद	NN	B-NP	O	आहार	NN	B-NP	O	से	PSP	I-NP	O	O
+
+उल्लेखनीय	JJ	B-NP	O	रूप	NN	I-NP	O	से	PSP	I-NP	O	O
+
+प्रभावित	JJ	B-JJP	O	होता	VM	B-VGF	O	ऐसा	DEM	B-NP	O	O
+
+कोई	PRP	I-NP	O	वैज्ञानिक	NN	I-NP	O	अध्ययन	NN	B-NP	O	O
+
+नहीं	NEG	B-VGF	O	है	VM	I-VGF	O	जिसमें	PRP	B-NP	O	O
+
+किसी	PRP	B-NP	O	खाद्य	JJ	B-NP	O	पदार्थ	NN	I-NP	O	O
+
+की	PSP	I-NP	O	बात	NN	B-NP	O	कही	VM	B-VGF	O	O
+
+गयी	VAUX	I-VGF	O	वीर्य	NNPC	B-NP	O	स्खलन	NN	I-NP	O	O
+
+की	PSP	I-NP	O	मात्रा	NN	B-NP	O	पृथक	JJ	B-JJP	O	O
+
+होती	VM	B-VGF	O	है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	I-NP	O	उनके	PRP	B-NP	O	O
+
+अनुसार	PSP	I-NP	O	देवदूत	NN	B-NP	O	स्वयं	PRP	B-NP	O	O
+
+कोई	PRP	B-NP	O	इच्छाश्क्ति	NN	I-NP	O	नहीं	NEG	B-VGF	O	O
+
+रखते	VM	I-VGF	O	और	CC	B-CCP	O	केवल	RP	I-CCP	O	O
+
+ईश्वर	NNP	B-NP	O	की	PSP	I-NP	O	आज्ञा	NN	B-NP	O	O
+
+का	PSP	I-NP	O	पालन	NN	B-NP	O	ही	RP	I-NP	O	O
+
+करते	VM	B-VGF	O	हैं	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+अच्‍चा	JJ	B-NP	O	महाराज	NNP	I-NP	O	,	SYM	I-NP	O	O
+
+व्‍योमकेश	NNPC	B-NP	B-PER	व्‍यास	NNP	I-NP	I-PER	और	CC	B-CCP	O	O
+
+लोकनाथ	NNPC	B-NP	B-PER	व्‍यास	NNP	B-NP	O	जैसे	PSP	I-NP	O	O
+
+लोगों	NN	B-NP	O	ने	PSP	I-NP	O	ज्‍योतिष	NN	B-NP	O	O
+
+में	PSP	I-NP	O	एक	QC	B-NP	O	फक्‍कड़ाना	JJ	I-NP	O	O
+
+अंदाज	NN	I-NP	O	रखा	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	.	SYM	B-BLK	O	O
+
+जन्माष्टमी	NN	B-NP	O	के	PSP	I-NP	O	दिन	NN	B-NP	O	O
+
+सभी	QF	B-NP	O	मुहल्लों	NN	I-NP	O	में	PSP	I-NP	O	O
+
+समितियों	NN	B-NP	O	द्वारा	PSP	I-NP	O	बहुत	INTF	B-JJP	O	O
+
+ऊंचा	JJ	I-JJP	O	माखान	NNP	B-NP	O	का	PSP	I-NP	O	O
+
+मटका	NN	B-NP	O	बांधा	VM	B-VGF	O	जाता	VAUX	I-VGF	O	O
+
+है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+यह	DEM	B-NP	O	मेला	NN	I-NP	O	श्री	NNPC	B-NP	B-PER	O
+
+जंभेश्वर	NNPC	I-NP	I-PER	जी	RP	I-NP	I-PER	की	PSP	I-NP	O	O
+
+स्मृति	NN	B-NP	O	में	PSP	I-NP	O	होता	VM	B-VGF	O	O
+
+है	VAUX	I-VGF	O	,	SYM	I-VGF	O	जिन्हें	PRP	B-NP	O	O
+
+बिसनाई	NNPC	B-NP	O	संप्रदाय	NN	I-NP	O	का	PSP	I-NP	O	O
+
+स्थापक	NN	B-NP	O	माना	VM	B-VGF	O	जाता	VAUX	I-VGF	O	O
+
+है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+मानव	NNPC	B-NP	O	संसाधन	NNPC	I-NP	O	विकास	NN	I-NP	O	O
+
+के	PSP	I-NP	O	बुनियादी	JJ	B-NP	O	तत्त्वों	NN	I-NP	O	O
+
+में	PSP	I-NP	O	उल्लेखनीय	JJ	B-JJP	O	हैं	VM	B-VGF	O	O
+
+-	SYM	I-VGF	O	भारत	NNP	B-NP	B-LOC	के	PSP	I-NP	O	O
+
+अन्य	JJ	B-NP	O	राज्यों	NN	I-NP	O	की	PSP	I-NP	O	O
+
+तुलना	PSP	I-NP	O	में	PSP	I-NP	O	आबादी	NN	B-NP	O	O
+
+की	PSP	I-NP	O	कम	QF	B-NP	O	वृद्धि	NNC	I-NP	O	O
+
+दर	NN	I-NP	O	,	SYM	I-NP	O	राष्ट्रीय	JJ	B-NP	O	O
+
+औसत	NNPC	I-NP	O	सघनता	NN	I-NP	O	से	PSP	I-NP	O	O
+
+ऊँची	JJ	B-NP	O	दर	NN	I-NP	O	,	SYM	I-NP	O	O
+
+ऊँची	JJ	B-NP	O	आयु	NNC	I-NP	O	-	SYM	I-NP	O	O
+
+दर	NN	I-NP	O	,	SYM	I-NP	O	गंभीर	JJ	B-NP	O	O
+
+स्वास्थ्य	NNPC	I-NP	O	चेतना	NNP	I-NP	O	,	SYM	I-NP	O	O
+
+कम	QF	B-NP	O	शिशु	NN	I-NP	O	मृत्यु	NNC	I-NP	O	O
+
+दर	NN	I-NP	O	,	SYM	I-NP	O	ऊँची	JJ	B-NP	O	O
+
+साक्षरता	NN	I-NP	O	,	SYM	I-NP	O	प्राथमिक	JJ	B-NP	O	O
+
+शिक्षा	NN	I-NP	O	की	PSP	I-NP	O	सार्वजनिकता	NN	B-NP	O	O
+
+,	SYM	I-NP	O	उच्च	JJ	B-NP	O	शिक्षा	NN	I-NP	O	O
+
+की	PSP	I-NP	O	सुविधा	NN	B-NP	O	आदि	RP	I-NP	O	O
+
+आर्थिक	JJ	B-NP	O	प्रगति	NN	I-NP	O	के	PSP	I-NP	O	O
+
+अनुकूल	JJ	B-JJP	O	हैं	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+उसी	DEM	B-NP	O	समय	NN	I-NP	O	चीन	NNP	B-NP	B-LOC	O
+
+ने	PSP	I-NP	O	1950	NNP	B-NP	O	में	PSP	I-NP	O	O
+
+तिब्बत	NNP	B-NP	B-LOC	पर	PSP	I-NP	O	कब्जा	NN	B-NP	O	O
+
+कर	VM	B-VGF	O	लिया	VAUX	I-VGF	O	जिसकी	PRP	B-NP	O	O
+
+वजहसे	PSP	I-NP	O	बढ़ती	VM	B-VGNF	O	हुई	VAUX	I-VGNF	O	O
+
+सैनिक	NNC	I-VGNF	O	गतिविधियों	NN	B-NP	O	को	PSP	I-NP	O	O
+
+टालने	VM	B-VGNN	O	के	PSP	I-VGNN	O	लिए	PSP	I-VGNN	O	O
+
+भारत	NNP	B-NP	B-LOC	नेपाल	NNP	B-NP	B-LOC	की	PSP	I-NP	O	B-LOC
+
+स्थायित्व	NN	B-NP	O	पर	PSP	I-NP	O	चाख	NN	B-NP	O	O
+
+बनाने	VM	B-VGNF	O	लगा	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+थे	VM	B-VGNF	O	किन्तु	NN	B-NP	O	पोप	NN	B-NP	O	O
+
+के	PSP	I-NP	O	आडम्बर	NN	B-NP	O	से	PSP	I-NP	O	O
+
+मुक्त	JJ	B-JJP	O	.	SYM	I-JJP	O	O
+
+.	SYM	B-BLK	O	1,886	NNP	B-NP	O	O
+
+.	SYM	I-NP	O	इस	DEM	B-NP	O	O
+
+मंदिर	NN	I-NP	O	को	PSP	I-NP	O	भी	RP	I-NP	O	O
+
+अवश्‍य	JJ	B-JJP	O	घूमना	VM	B-VGF	O	चाहिए	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	जमींदारों	NN	B-NP	O	O
+
+(	SYM	B-NP	O	अधिकांश	QF	I-NP	O	अंग्रेज	JJ	I-NP	O	O
+
+)	SYM	I-NP	O	की	PSP	B-FRAGP	O	ताकत	NN	B-NP	O	O
+
+से	PSP	I-NP	O	दमन	NN	B-NP	O	हुए	VAUX	I-NP	O	O
+
+भारतीयों	NN	B-NP	O	को	PSP	I-NP	O	नाममात्र	NN	B-NP	O	O
+
+भरपाई	NN	B-NP	O	भत्ता	NN	B-NP	O	दिया	VM	B-VGF	O	O
+
+गया	VAUX	I-VGF	O	जिससे	PRP	B-NP	O	वे	PRP	B-NP	O	O
+
+अत्यधिक	JJ	B-NP	O	गरीबी	NN	I-NP	O	से	PSP	I-NP	O	O
+
+घिर	VM	B-VGF	O	गए	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+अतः	CC	B-CCP	O	मलयालम	NNC	B-NP	O	साहित्यिक	JJ	I-NP	O	O
+
+उद्गम	NNP	I-NP	O	से	PSP	I-NP	O	सम्बन्धित	JJ	B-JJP	O	O
+
+कोई	PRP	B-NP	O	स्पष्ट	JJ	B-NP	O	धारणा	NN	I-NP	O	O
+
+नहीं	NEG	B-VGF	O	मिलती	VM	I-VGF	O	है	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	16.8	NNP	B-NP	O	O
+
+.	SYM	I-NP	O	काला	JJ	B-NP	O	O
+
+पानी	NN	I-NP	O	]	SYM	I-NP	O	]	VAUX	I-NP	O	O
+
+.	SYM	I-NP	O	.	SYM	B-BLK	O	O
+
+;	SYM	B-NP	O	सड़क	NNC	I-NP	O	मार्ग	NN	I-NP	O	O
+
+:	SYM	I-NP	O	यह	DEM	B-NP	O	शहर	NN	I-NP	O	O
+
+सिलीगुड़ी	NN	B-NP	B-LOC	से	PSP	I-NP	O	सड़क	NNC	B-NP	O	O
+
+मार्ग	NN	I-NP	O	से	PSP	I-NP	O	भी	RP	I-NP	O	O
+
+अच्‍छी	JJ	B-NP	O	तरह	NN	I-NP	O	जुड़ा	VM	B-VGF	O	O
+
+हुआ	VAUX	I-VGF	O	है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	इनके	PRP	B-NP	O	O
+
+अतिरिक्त	JJ	B-NP	B-PER	यूरोपीय	JJ	I-NP	I-PER	विद्वानों	NN	I-NP	I-PER	O
+
+में	PSP	I-NP	O	हर्मान	NNPC	B-NP	B-PER	जाकोबी	NNP	I-NP	I-PER	O
+
+(	SYM	B-NP	O	ऑन	NNPC	I-NP	O	दि	NNPC	I-NP	O	O
+
+अथॉरिटी	NNPC	I-NP	O	ऑव	NNPC	B-NP	B-PER	कौटिलीय	NNP	I-NP	I-PER	O
+
+,	SYM	I-NP	O	इं	VAUX	I-NP	O	.	SYM	I-NP	O	O
+
+सतत	NNPC	B-NP	O	संपर्क	NN	I-NP	O	:	SYM	I-NP	O	O
+
+मोबाइल	NNC	B-NP	O	संचार	NNP	I-NP	O	,	SYM	I-NP	O	O
+
+निजी	JJ	B-NP	O	बात	NN	I-NP	O	,	SYM	I-NP	O	O
+
+सार्वजनिक	JJ	B-NP	O	प्रदर्शन	NN	I-NP	O	'	SYM	I-NP	O	O
+
+'	SYM	I-NP	O	,	SYM	I-NP	O	2002	NNP	B-NP	O	O
+
+*	SYM	I-NP	O	कावूरी	NNP	B-NP	B-MISC	,	SYM	I-NP	O	O
+
+आनंदम	NNPC	B-NP	B-MISC	आर्केनेऔक्स	NNP	I-NP	I-MISC	,	SYM	I-NP	O	O
+
+नोआह	NN	B-NP	B-MISC	,	SYM	I-NP	O	एड्स	NNP	B-NP	B-MISC	O
+
+.	SYM	I-NP	O	.	SYM	B-BLK	O	O
+
+]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+छाया	VM	B-VGF	O	तथा	CC	B-CCP	O	ठंडा	JJ	B-NP	O	O
+
+वातावरण	NN	I-NP	O	उपलब्ध	JJ	B-JJP	O	करवाने	VM	B-VGNN	O	O
+
+के	PSP	I-VGNN	O	लिए	PSP	I-VGNN	O	पेड़	NN	B-NP	O	O
+
+लगाना	VM	B-VGNN	O	भी	RP	I-VGNN	O	जरूरी	JJ	B-JJP	O	O
+
+है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+150	QC	B-NP	O	-	SYM	I-NP	O	4.हार्पर	NNPC	I-NP	O	O
+
+एंड	NNPC	I-NP	O	ब्रदर्स	NNP	B-NP	O	,	SYM	I-NP	O	O
+
+न्यूयॉर्क	NNP	B-NP	B-LOC	,	SYM	I-NP	O	(	SYM	B-NP	O	B-LOC
+
+1946	NNP	I-NP	O	)	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+इसके	PRP	B-NP	O	अलावा	PSP	I-NP	O	सत्‍यजीत	NNPC	B-NP	O	O
+
+राय	NNP	I-NP	O	की	PSP	I-NP	O	फिल्‍मों	NN	B-NP	O	O
+
+में	PSP	I-NP	O	इस	DEM	B-NP	O	चोटी	NN	I-NP	O	O
+
+को	PSP	I-NP	O	कई	QF	B-NP	O	बार	NN	I-NP	O	O
+
+दिखाया	VM	B-VGF	O	जा	VAUX	I-VGF	O	चुका	VAUX	I-VGF	O	O
+
+है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+नगरों	NN	B-NP	O	तथा	CC	B-CCP	O	गाँवों	NN	B-NP	O	O
+
+की	PSP	I-NP	O	संस्कृति	NN	B-NP	O	में	PSP	I-NP	O	O
+
+अधिक	QF	B-NP	O	फर्क	NN	I-NP	O	नहीं	NEG	B-VGF	O	O
+
+है	VM	I-VGF	O	.	SYM	I-VGF	O	O
+
+2003	NNP	B-NP	O	]	SYM	I-NP	O	]	SYM	I-NP	O	O
+
+.	SYM	I-NP	O	3,617	NNP	B-NP	O	O
+
+.	SYM	I-NP	O	उदाहरण	NN	B-NP	O	O
+
+के	PSP	I-NP	O	लिए	PSP	I-NP	O	,	SYM	I-NP	O	O
+
+फिलीपींस	NNP	B-NP	B-LOC	में	PSP	I-NP	O	यह	DEM	B-NP	O	O
+
+असामान्य	JJ	B-JJP	O	नहीं	NEG	B-VGNN	O	है	VM	I-VGNN	O	O
+
+की	PSP	I-VGNN	O	किसी	PRP	B-NP	O	की	PSP	I-NP	O	O
+
+पूरी	JJ	B-NP	O	तनख्वाह	NN	I-NP	O	का	PSP	I-NP	O	O
+
+मोबाइल	NNC	B-NP	O	बिल	NN	I-NP	O	के	PSP	I-NP	O	O
+
+भुगतान	NN	B-NP	O	में	PSP	I-NP	O	किया	VM	B-VGF	O	O
+
+गया	VAUX	I-VGF	O	हो	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+एल्यूमीनियम	NNP	B-NP	B-MISC	,	SYM	I-NP	O	तेलशोधन	NN	B-NP	B-MISC	O
+
+,	SYM	I-NP	O	उर्वरक	NN	B-NP	O	आदि	RP	I-NP	O	O
+
+विशाल	JJ	B-NP	B-ORG	उद्योग	NN	I-NP	I-ORG	लग	VM	B-VGF	O	O
+
+रहे	VAUX	I-VGF	O	हैं	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+आकाशवाणी	NN	I-NP	O	के	PSP	I-NP	O	लिए	PSP	I-NP	O	O
+
+बुनियादी	JJ	B-NP	O	स्‍तर	NN	I-NP	O	पर	PSP	I-NP	O	O
+
+समाचार	NN	B-NP	O	के	PSP	I-NP	O	स्रोत	NN	B-NP	O	O
+
+माने	VM	B-VGF	O	जाते	VAUX	I-VGF	O	हैं	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	.	SYM	B-BLK	O	O
+
+कांग्रेस	NNP	B-NP	O	.	SYM	I-NP	O	O
+
+.	SYM	B-BLK	O	इन	DEM	B-NP	O	O
+
+सामानों	NN	I-NP	O	में	PSP	I-NP	O	कारपेट	NN	B-NP	B-MISC	O
+
+,	SYM	I-NP	O	ऊनी	JJ	B-NP	B-MISC	कपड़े	NN	I-NP	I-MISC	O
+
+,	SYM	I-NP	O	लकड़ी	NN	B-NP	B-MISC	की	PSP	I-NP	I-MISC	O
+
+कलाकृतियां	NN	B-NP	I-MISC	,	SYM	I-NP	O	धातु	NN	B-NP	B-MISC	O
+
+के	PSP	I-NP	I-MISC	बने	VM	B-VGNF	I-MISC	खिलौन	NN	B-NP	I-MISC	O
+
+शामिल	JJ	B-JJP	O	हैं	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+पर	PSP	I-NP	O	जनसंख्या	NN	B-NP	O	अनुमान	NN	B-NP	O	O
+
+!	SYM	I-NP	O	!	SYM	I-NP	O	जनगढ़ना	VM	B-VGNF	O	O
+
+वर्ष	NN	B-NP	O	.	SYM	I-NP	O	O
+
+सभी	QF	B-NP	O	प्रमुख	JJ	I-NP	O	राजनीतिक	JJ	I-NP	O	O
+
+दलों	NN	I-NP	O	के	PSP	I-NP	O	श्रमिक	NN	B-NP	O	O
+
+,	SYM	I-NP	O	विद्यार्थी	NN	B-NP	O	,	SYM	I-NP	O	O
+
+महिला	NN	B-NP	O	,	SYM	I-NP	O	युवा	NNP	B-NP	O	O
+
+,	SYM	I-NP	O	कृषक	NN	B-NP	O	और	CC	B-CCP	O	O
+
+सेवा	NNC	B-NP	O	संगठन	NN	I-NP	O	भी	RP	I-NP	O	O
+
+सक्रिय	JJ	B-JJP	O	हैं	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+यह	DEM	B-NP	O	भवन	NN	I-NP	O	निर्माण	NN	B-NP	O	O
+
+,	SYM	I-NP	O	पुल	NN	B-NP	O	,	SYM	I-NP	O	O
+
+बांध	VM	B-VGF	O	और	CC	B-CCP	O	सड़कें	NN	B-NP	O	O
+
+बनाने	VM	B-VGNN	O	में	PSP	I-VGNN	O	प्रयुक्त	JJ	B-JJP	O	O
+
+होती	VM	B-VGF	O	'	SYM	I-VGF	O	'	SYM	I-VGF	O	O
+
+'	SYM	I-VGF	O	यूरेनियम	NNPC	I-VGF	O	:	SYM	I-VGF	O	O
+
+'	SYM	I-VGF	O	'	SYM	I-VGF	O	'	SYM	B-NP	O	O
+
+छिंजराढा	NNP	I-NP	O	,	SYM	I-NP	O	जरी	NNPC	B-NP	O	O
+
+(	SYM	I-NP	O	बंजार	NNPC	I-NP	O	)	SYM	I-NP	O	O
+
+,	SYM	I-NP	O	ढेला	NNP	B-NP	O	,	SYM	I-NP	O	O
+
+गढ़सा	NNP	B-NP	O	घाटी	NN	I-NP	O	(	SYM	B-NP	O	O
+
+कुल्लू	NNP	I-NP	O	)	SYM	I-NP	O	और	CC	B-CCP	O	O
+
+हमीरपुर	NNP	B-NP	O	में	PSP	I-NP	O	यूरेनियम	NNP	B-NP	O	O
+
+होने	VM	B-VGNN	O	की	PSP	I-VGNN	O	संभावना	NN	B-NP	O	O
+
+का	PSP	I-NP	O	पता	NN	B-NP	O	चला	VM	B-VGF	O	O
+
+है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+इश्वर	NN	B-NP	O	का	PSP	I-NP	O	भय	NN	B-NP	O	O
+
+रखने	VM	B-VGNN	O	वाले	PSP	I-VGNN	O	,	SYM	I-VGNN	O	O
+
+मृत्यु	NN	B-NP	O	के	PSP	I-NP	O	आतंक	NN	B-NP	O	O
+
+से	PSP	I-NP	O	नही	NEG	B-VGF	O	होमर	VM	I-VGF	O	O
+
+.	SYM	I-VGF	O	’’	NNP	B-NP	O	O
+
+इन	DEM	B-NP	O	उद्धरणों	NN	I-NP	O	से	PSP	I-NP	O	O
+
+स्पष्ट	JJ	B-JJP	O	है	VM	B-VGF	O	कि	CC	B-CCP	O	O
+
+विष्णुगुप्त	JJ	B-JJP	B-PER	और	CC	B-CCP	O	कौटिल्य	NN	B-NP	B-PER	O
+
+एक	QC	B-NP	O	ही	RP	I-NP	O	व्यक्ति	NN	I-NP	O	O
+
+थे	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+मुग़ल	NNPC	B-NP	O	सेना	NN	I-NP	O	,	SYM	I-NP	O	O
+
+तोपखाने	VM	B-VGF	O	और	CC	B-CCP	O	जिरहबख्तर	NN	B-NP	O	O
+
+से	PSP	I-NP	O	सुसज्जित	JJ	B-NP	O	घुड़सवार	NNP	I-NP	O	O
+
+सेनाओं	NN	B-NP	O	के	PSP	I-NP	O	होते	VM	B-VGNF	O	O
+
+हूए	VM	B-VGNF	O	भी	RP	I-VGNF	O	गोकुलसिंह	NNP	B-NP	B-PER	O
+
+पर	PSP	I-NP	O	विजय	NNPC	B-NP	O	प्राप्त	JJ	B-JJP	O	O
+
+न	NEG	B-VGF	O	कर	VM	I-VGF	O	सके	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	.	SYM	B-BLK	O	O
+
+फ़िर	NNPC	B-NP	O	घमासान	NN	I-NP	O	छिड़	VM	B-VGF	O	O
+
+गया	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+प्राणनाथ	NNPC	B-NP	B-PER	विद्यालंकांर	NNP	I-NP	I-PER	आदि	RP	I-NP	O	O
+
+के	PSP	I-NP	O	नाम	NN	B-NP	O	उल्लेखनीय	JJ	B-JJP	O	O
+
+हैं	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+इस	DEM	B-NP	O	प्रकार	NN	I-NP	O	के	PSP	I-NP	O	O
+
+विचार	NN	B-NP	O	रखने	VM	B-VGNN	O	वाले	PSP	I-VGNN	O	O
+
+विद्वान	NN	B-NP	B-PER	उसे	PRP	B-NP	O	केरल	NNP	B-NP	B-LOC	O
+
+के	PSP	I-NP	O	कुतुल्लूर	JJ	B-NP	B-PER	नामपुत्री	NN	I-NP	I-PER	O
+
+वंश	NN	B-NP	I-PER	का	PSP	I-NP	O	वंशज	NN	B-NP	O	O
+
+मानते	VM	B-VGF	O	हैं	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+.	SYM	B-BLK	O	'	SYM	B-BLK	O	O
+
+'	SYM	I-BLK	O	'	SYM	I-BLK	O	रावी	NNPC	B-NP	O	O
+
+नदीः	NNP	I-NP	O	'	SYM	I-NP	O	'	SYM	I-NP	O	O
+
+'	SYM	I-NP	O	रावी	NNP	B-NP	O	नदी	NN	I-NP	O	O
+
+का	PSP	I-NP	O	प्राचीन	JJ	B-NP	O	नाम	NN	I-NP	O	O
+
+‘	NNPC	B-NP	O	इरावती	NNP	I-NP	O	और	CC	B-CCP	O	O
+
+परोष्णी	JJ	B-JJP	O	’	VM	B-VGNF	O	है	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	मैक्रोफेज	NNP	B-NP	O	O
+
+,	SYM	I-NP	O	टी	NNPC	B-NP	O	लिंफोसाइट्स	NNP	I-NP	O	O
+
+,	SYM	I-NP	O	बी	NNPC	B-NP	O	लिंफोसाइट्स	NNP	I-NP	O	O
+
+और	CC	B-CCP	O	फाइब्रोब्लास्ट	NN	B-NP	O	वे	PRP	B-NP	O	O
+
+कोशिकाएं	NN	B-NP	O	हैं	VM	B-VGF	O	जो	PRP	B-NP	O	O
+
+मिलकर	VM	B-VGNF	O	ग्रेन्युलोमा	NN	B-NP	O	बनाते	VM	B-VGF	O	O
+
+हैं	VAUX	I-VGF	O	जबकि	CC	B-CCP	O	लिंफोसाइट	NNP	B-NP	O	O
+
+,	SYM	I-NP	O	संक्रमित	JJ	B-NP	O	मैक्रोफेज	NNP	I-NP	O	O
+
+के	PSP	I-NP	O	चारों	QC	B-NP	O	ओर	NST	I-NP	O	O
+
+होती	VM	B-VGF	O	हैं	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+कौटिल्य	NNP	I-NP	B-PER	'	SYM	I-NP	O	नाम	NN	B-NP	O	B-PER
+
+से	PSP	I-NP	O	भी	RP	I-NP	O	विख्यात	JJ	B-JJP	O	O
+
+हैं	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	इसके	PRP	B-NP	O	O
+
+बाद	NST	I-NP	O	बिहार	NNP	B-NP	B-LOC	की	PSP	I-NP	O	O
+
+सत्ता	NN	B-NP	O	की	PSP	I-NP	O	बागडोर	NN	B-NP	O	O
+
+बंगाल	NNP	B-NP	O	के	PSP	I-NP	O	नवाबों	NN	B-NP	O	B-LOC
+
+के	PSP	I-NP	O	हाथ	NN	B-NP	O	में	PSP	I-NP	O	O
+
+चली	VM	B-VGF	O	गई	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+प्रकार	NN	B-NP	O	,	SYM	I-NP	O	गति	NN	B-NP	O	O
+
+,	SYM	I-NP	O	मुद्राएं	NN	B-NP	O	और	CC	B-CCP	O	O
+
+भाव	JJC	B-NP	O	-	SYM	I-NP	O	भंगिमाएं	NN	I-NP	O	O
+
+बड़े	JJ	B-NP	O	मंदिरों	NN	I-NP	O	की	PSP	I-NP	O	O
+
+दीवारों	NN	B-NP	O	पर	PSP	I-NP	O	,	SYM	I-NP	O	O
+
+विशेषकर	RB	B-RBP	O	कोणार्क	NNP	B-NP	B-LOC	में	PSP	I-NP	O	O
+
+शिल्प	NN	B-NP	O	व	CC	B-CCP	O	उभरी	VM	B-VGNF	O	O
+
+हुई	VM	I-VGNF	O	नक़्क़ासी	NN	B-NP	O	के	PSP	I-NP	O	O
+
+रूप	PSP	I-NP	O	में	PSP	I-NP	O	अंकित	JJ	B-JJP	O	O
+
+हैं	VM	B-VGF	O	,	SYM	I-VGF	O	इस	DEM	B-NP	O	O
+
+नृत्य	NN	I-NP	O	के	PSP	I-NP	O	आधुनिक	JJ	B-NP	O	O
+
+प्रवर्तकों	NN	I-NP	O	ने	PSP	I-NP	O	इसे	PRP	B-NP	O	O
+
+राज्य	NN	B-NP	O	के	PSP	I-NP	O	बाहर	NST	I-NP	O	O
+
+भी	RP	I-NP	O	लोकप्रिय	JJ	B-JJP	O	बनाया	VM	B-VGF	O	O
+
+है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+6,786	NNP	B-NP	O	.	SYM	I-NP	O	O
+
+गौरी	NNP	B-NP	B-PER	सहमत	JJ	B-JJP	O	हो	VM	B-VGF	O	B-PER
+
+गया	VAUX	I-VGF	O	और	CC	B-CCP	O	उसको	PRP	B-NP	O	O
+
+दरबार	NN	B-NP	O	में	PSP	I-NP	O	बुलाया	VM	B-VGF	O	O
+
+गया	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+(	SYM	B-NP	O	जैसा	PSP	I-NP	O	कि	CC	B-CCP	O	O
+
+रॉयल	NNPC	B-NP	B-ORG	सोसाइटी	NN	I-NP	I-ORG	और	CC	B-CCP	O	O
+
+चार्ल्स	NNPC	B-NP	B-PER	द्वितीय	NNP	I-NP	I-PER	की	PSP	I-NP	O	O
+
+अदालत	NN	B-NP	O	में	PSP	I-NP	O	बहुत	QF	B-NP	O	O
+
+से	PSP	I-NP	O	लोगों	NN	B-NP	O	पर	PSP	I-NP	O	O
+
+लगाया	VM	B-VGF	O	गया	VAUX	I-VGF	O	यद्यपि	CC	B-CCP	O	O
+
+गति	NN	B-NP	O	और	CC	B-CCP	O	गुरुत्वाकर्षण	NN	B-NP	O	O
+
+के	PSP	I-NP	O	सार्वत्रिक	JJ	B-NP	O	नियम	NNPC	I-NP	O	O
+
+न्यूटन	NNP	B-NP	B-PER	के	PSP	I-NP	O	सबसे	INTF	B-NP	O	B-PER
+
+प्रसिद्ध	JJ	I-NP	O	अविष्कार	NN	I-NP	O	बन	VM	B-VGF	O	O
+
+गए	VAUX	I-VGF	O	,	SYM	I-VGF	O	उन्हें	PRP	B-NP	O	O
+
+ब्रह्माण्ड	NNP	B-NP	O	को	PSP	I-NP	O	देखने	VM	B-VGNN	O	O
+
+के	PSP	I-VGNN	O	लिए	PSP	I-VGNN	O	एक	QC	B-NP	O	O
+
+मशीन	NN	I-NP	O	के	PSP	I-NP	O	तौर	PSP	I-NP	O	O
+
+पर	PSP	I-NP	O	इनका	PRP	B-NP	O	उपयोग	NN	B-NP	O	O
+
+करने	VM	B-VGNN	O	के	PSP	I-VGNN	O	खिलाफ	PSP	I-VGNN	O	O
+
+चेतावनी	NN	B-NP	O	दी	VM	B-VGF	O	गयी	VAUX	I-VGF	O	O
+
+,	SYM	I-VGF	O	जैसे	PSP	B-NP	O	महान	JJ	B-NP	O	O
+
+घडी	NN	I-NP	O	के	PSP	I-NP	O	समान	PSP	I-NP	O	O
+
+.	SYM	I-NP	O	.	SYM	B-BLK	O	O
+
+मोबाइल	NNPC	I-NP	O	संचार	NNC	I-NP	O	:	SYM	I-NP	O	O
+
+संज्ञान	NN	B-NP	O	और	CC	B-CCP	O	समुदाय	NN	B-NP	O	O
+
+पर	PSP	I-NP	O	निबन्ध	NN	B-NP	O	'	SYM	I-NP	O	O
+
+'	SYM	I-NP	O	,	SYM	I-NP	O	2003	NNP	B-NP	O	O
+
+*	NNPC	I-NP	O	नईऋ	NNP	B-NP	B-MISC	,	SYM	I-NP	O	O
+
+क्रीस्टॉफ	NNP	B-NP	B-MISC	,	SYM	I-NP	O	एड	NN	B-NP	B-MISC	O
+
+.	SYM	I-NP	O	इसका	PRP	B-NP	O	O
+
+नाम	NN	I-NP	O	नीमराना	NNP	B-NP	B-LOC	शॉप	NN	B-NP	O	O
+
+है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+आकाशवाणी	NN	B-NP	B-ORG	के	PSP	I-NP	O	महानिदेशालय	NN	B-NP	O	O
+
+का	PSP	I-NP	O	नेतृत्‍व	NN	B-NP	O	महानिदेशक	NN	B-NP	O	O
+
+करते	VM	B-VGF	O	हैं	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+संकट	NN	I-NP	O	ने	PSP	I-NP	O	अमेरिका	NNP	B-NP	O	O
+
+-	SYM	I-NP	O	ब्रिटिश	NN	I-NP	O	में	PSP	I-NP	O	O
+
+और	CC	B-CCP	O	अधिक	QF	B-NP	O	सहयोग	NN	I-NP	O	O
+
+किया	VM	B-VGF	O	,	SYM	I-VGF	O	उस	DEM	B-NP	O	O
+
+समय	NN	I-NP	O	अमेरिका	NNP	B-NP	O	में	PSP	I-NP	O	O
+
+ब्रिटिश	JJ	B-NP	O	विरोधी	JJ	I-NP	O	भावना	NN	I-NP	O	O
+
+के	PSP	I-NP	O	बारे	PSP	I-NP	O	में	PSP	I-NP	O	O
+
+किपलिंग	NN	B-NP	B-PER	काफी	QF	B-JJP	O	भ्रमित	JJ	I-JJP	O	B-PER
+
+थे	VM	B-VGF	O	विशेष	JJ	B-NP	O	रूप	NN	I-NP	O	O
+
+से	PSP	I-NP	O	प्रेस	NNC	B-NP	O	उन्होंने	PRP	B-NP	O	O
+
+एक	QC	B-NP	O	पत्र	NN	I-NP	O	में	PSP	I-NP	O	O
+
+लिखा	VM	B-VGF	O	था	VAUX	I-VGF	O	कि	CC	B-CCP	O	O
+
+मुझे	PRP	B-NP	O	ऐसा	PRP	B-NP	O	लग	VM	B-VGF	O	O
+
+रहा	VAUX	I-VGF	O	है	VAUX	I-VGF	O	जैसे	RB	B-RBP	O	O
+
+मेरे	PRP	B-NP	O	उपर	NNC	I-NP	O	दोस्ताना	JJ	B-JJP	O	O
+
+खाने	VM	B-VGNN	O	की	PSP	I-VGNN	O	मेज	NN	B-NP	O	O
+
+से	PSP	I-NP	O	एक	QC	B-NP	O	बोतल	NN	I-NP	O	O
+
+से	PSP	I-NP	O	मारने	VM	B-VGNN	O	के	PSP	I-VGNN	O	O
+
+लिए	PSP	I-VGNN	O	निशाना	NN	B-NP	O	बनाया	VM	B-VGF	O	O
+
+गया	VAUX	I-VGF	O	उनके	PRP	B-NP	O	प्रामाणिक	JJ	B-NP	O	O
+
+जीवनी	NN	I-NP	O	के	PSP	I-NP	O	अनुसार	PSP	I-NP	O	O
+
+जनवरी	NNPC	B-NP	O	1896	NNP	I-NP	O	तक	PSP	I-NP	O	O
+
+उन्होंने	PRP	B-NP	O	अमेरिका	NNP	B-NP	B-LOC	में	PSP	I-NP	O	O
+
+अपने	PRP	B-NP	O	अच्छे	JJ	I-NP	O	पारिवारिक	JJ	I-NP	O	O
+
+जीवन	NN	I-NP	O	को	PSP	I-NP	O	समाप्त	JJ	B-JJP	O	O
+
+कर	VM	B-VGNF	O	अपनी	PRP	B-NP	O	किस्मत	NN	I-NP	O	O
+
+कहीं	PRP	B-NP	O	और	CC	B-CCP	O	आजमाने	VM	B-VGNN	O	O
+
+का	PSP	I-VGNN	O	फैसला	NN	B-NP	O	किया	VM	B-VGF	O	O
+
+था	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	1,837	NNP	B-NP	O	O
+
+.	SYM	I-NP	O	मुम्बई	NNPC	B-NP	O	O
+
+एक्सप्रेस	NNP	I-NP	O	]	SYM	I-NP	O	]	SYM	I-NP	O	O
+
+.	SYM	I-NP	O	.	SYM	B-BLK	O	O
+
+अर्जी	NN	B-NP	O	देते	VM	B-VGNF	O	हुए	VAUX	I-VGNF	O	O
+
+चलोनर	NNP	B-NP	B-PER	ने	PSP	I-NP	O	टकसाल	NN	B-NP	O	O
+
+में	PSP	I-NP	O	नकली	JJ	B-NP	O	सिक्के	NN	I-NP	O	O
+
+बनाने	VM	B-VGNN	O	के	PSP	I-VGNN	O	लिए	PSP	I-VGNN	O	O
+
+उपकरण	NN	B-NP	O	भी	RP	I-NP	O	उपलब्ध	JJ	B-JJP	O	O
+
+कराये	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+प्रकृति	NN	B-NP	O	का	PSP	I-NP	O	समय	NN	B-NP	O	O
+
+चक्र	NN	B-NP	O	आशा	NNPC	B-NP	O	जगाता	VM	B-VGNF	O	O
+
+है	VM	B-VGF	O	-	SYM	I-VGF	O	:	SYM	I-VGF	O	O
+
+मावस	NN	B-NP	O	की	PSP	I-NP	O	छाती	NN	B-NP	O	O
+
+पर	PSP	I-NP	O	चढकर	VM	B-VGF	O	:	SYM	I-VGF	O	O
+
+पूनम	NNP	B-NP	O	को	PSP	I-NP	O	आना	VM	B-VGNF	O	O
+
+पडता	VAUX	I-VGNF	O	है	VM	B-VGF	O	:	SYM	I-VGF	O	O
+
+उषा	NN	B-NP	O	को	PSP	I-NP	O	नभ	NN	B-NP	O	O
+
+में	PSP	I-NP	O	गैरिक	JJ	B-NP	O	ध्वज	NN	I-NP	O	O
+
+:	SYM	I-NP	O	नित	JJ	B-JJP	O	ही	RP	I-JJP	O	O
+
+फहराना	VM	B-VGF	O	पडता	VM	I-VGF	O	है	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	समय	NN	B-NP	O	O
+
+:	SYM	I-NP	O	सभी	QF	B-NP	O	दिन	NN	I-NP	O	O
+
+खुला	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+उन्‍हें	PRP	B-NP	O	इस	DEM	B-NP	O	प्रकार	NN	I-NP	O	O
+
+का	PSP	I-NP	O	प्रशिक्षण	NN	B-NP	O	देने	VM	B-VGNN	O	O
+
+की	PSP	I-VGNN	O	आवश्‍यकता	NN	B-NP	O	लंबे	JJ	B-NP	O	O
+
+समय	NN	I-NP	O	महसूस	JJ	B-JJP	O	की	VM	B-VGF	O	O
+
+जा	VAUX	I-VGF	O	रही	VAUX	I-VGF	O	थी	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	कौटिल्य	NN	B-NP	B-PER	O
+
+की	PSP	I-NP	O	सबसे	INTF	B-NP	O	महत्त्पूर्ण	JJ	I-NP	O	O
+
+कृति	NN	I-NP	O	अर्थशास्त्र	NNP	B-NP	B-MISC	की	PSP	I-NP	O	O
+
+चर्चा	NN	B-NP	O	सर्वत्र	NN	B-NP	O	मिलती	VM	B-VGF	O	O
+
+है	VAUX	I-VGF	O	,	SYM	I-VGF	O	किन्तु	NN	B-NP	O	O
+
+अन्य	JJ	B-NP	O	रचनाओं	NN	I-NP	O	के	PSP	I-NP	O	O
+
+संबंध	PSP	I-NP	O	में	PSP	I-NP	O	कुछ	QF	B-NP	O	O
+
+विशेष	JJ	I-NP	O	उल्लेख	NN	I-NP	O	नहीं	NEG	B-VGF	O	O
+
+मिलता	VM	I-VGF	O	है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+भीड	NNC	I-NP	O	-	SYM	I-NP	O	भाड	NN	I-NP	O	O
+
+रहती	VM	B-VGF	O	है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+विचार	NN	B-NP	O	था	VM	B-VGF	O	कि	CC	B-CCP	O	O
+
+गोकुलसिंह	NNP	B-NP	B-PER	को	PSP	I-NP	O	भी	RP	I-NP	O	B-PER
+
+'	SYM	I-NP	O	राजा	NN	I-NP	O	'	SYM	I-NP	O	O
+
+या	CC	B-CCP	O	'	SYM	B-NP	O	ठाकुर	NNP	I-NP	O	O
+
+'	SYM	I-NP	O	का	PSP	I-NP	O	खिताब	NN	B-NP	O	O
+
+देकर	VM	B-VGNF	O	रिझा	VM	B-VGF	O	लिया	VAUX	I-VGF	O	O
+
+जायेगा	VAUX	I-VGF	O	और	CC	B-CCP	O	मुग़लों	NN	B-NP	O	O
+
+का	PSP	I-NP	O	एक	QC	B-NP	O	और	QF	I-NP	O	O
+
+पालतू	NN	I-NP	O	बढ़	VM	B-VGF	O	जायेगा	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	.	SYM	B-BLK	O	O
+
+5,767	NNP	B-NP	O	.	SYM	I-NP	O	O
+
+वे	PRP	B-NP	O	सीज़र	NN	B-NP	B-PER	(	SYM	B-NP	O	O
+
+बादशाह	NN	I-NP	O	)	SYM	I-NP	O	भी	RP	B-FRAGP	O	O
+
+थे	VM	B-VGNF	O	पोप	NN	B-NP	O	(	SYM	B-NP	O	O
+
+धर्मगुरु	NN	I-NP	O	)	SYM	I-NP	O	भी	RP	I-NP	O	O
+
+.	SYM	I-NP	O	औसत	NN	B-NP	O	O
+
+वार्षिक	JJ	B-NP	O	वर्षा	NN	I-NP	O	3017	QC	B-NP	O	O
+
+मिली	VM	B-VGNF	O	मीटर	NN	B-NP	O	मानी	VM	B-VGF	O	O
+
+जाती	VAUX	I-VGF	O	है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+ऋतु	NNP	I-NP	O	जो	PRP	B-NP	O	अक्‍टूबर	NNP	B-NP	O	O
+
+से	PSP	I-NP	O	मार्च	NNP	B-NP	O	तक	PSP	I-NP	O	O
+
+होता	VM	B-VGF	O	है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+इसके	PRP	B-NP	O	बाद	NST	I-NP	O	का	PSP	I-NP	O	O
+
+इतिहास	NN	B-NP	O	सभी	PRP	B-NP	O	को	PSP	I-NP	O	O
+
+मालूम	JJ	B-JJP	O	ही	RP	I-JJP	O	है	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	रुडयार्ड	NNPC	B-NP	B-PER	O
+
+किपलिंग	NN	I-NP	I-PER	के	PSP	I-NP	O	टेल्स	NNPC	B-NP	O	B-PER
+
+ऑफ	NNPC	I-NP	O	द	NNP	B-NP	O	के	PSP	I-NP	O	O
+
+ऑक्सफोर्ड	NNPC	B-NP	B-ORG	वर्ल्ड	NNPC	I-NP	I-ORG	क्लासिक्स	JJ	B-NP	I-ORG	O
+
+संस्करण	NN	I-NP	I-ORG	का	PSP	I-NP	O	परिचय	NN	B-NP	O	O
+
+.	SYM	I-NP	O	.	SYM	B-BLK	O	O
+
+’’‘‘	NNP	B-NP	O	इस	DEM	B-NP	O	का	PSP	I-NP	O	O
+
+ध्यान	NN	B-NP	O	रहे	VM	B-VGF	O	कि	CC	B-CCP	O	O
+
+औरतें	NN	B-NP	O	अपने	PRP	B-NP	O	निश्चित	JJ	B-NP	O	O
+
+अधिकार	NN	I-NP	O	प्राप्त	JJ	B-JJP	O	कर	VM	B-VGF	O	O
+
+पा	VAUX	I-VGF	O	रही	VAUX	I-VGF	O	हैं	VAUX	I-VGF	O	O
+
+(	SYM	I-VGF	O	या	CC	B-CCP	O	नहीं	NEG	B-VGF	O	O
+
+)	VM	I-VGF	O	.	SYM	I-VGF	O	O
+
+2	NNPC	B-NP	O	-	SYM	I-NP	O	5	QC	I-NP	O	O
+
+%	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+.	SYM	B-BLK	O	प्रतिदिन	NN	B-NP	O	O
+
+शहर	NN	B-NP	O	का	PSP	I-NP	O	लगभग	RP	I-NP	O	O
+
+टन	NN	B-NP	O	कूड़ा	NNP	B-NP	O	उत्तर	NNPC	I-NP	O	O
+
+-	SYM	I-NP	O	पूर्वी	JJ	I-NP	O	क्षेत्र	NN	I-NP	O	O
+
+में	PSP	I-NP	O	मुलुंड	NNP	B-NP	B-LOC	,	SYM	I-NP	O	O
+
+उत्तर	NNPC	B-NP	O	-	SYM	I-NP	O	पश्चिम	NNP	I-NP	O	O
+
+में	PSP	I-NP	O	गोराई	NN	B-NP	B-LOC	और	CC	B-CCP	O	O
+
+पूर्व	NST	B-NP	O	में	PSP	I-NP	O	देवनार	NN	B-NP	O	O
+
+में	PSP	I-NP	O	डम्प	NN	B-NP	O	किया	VM	B-VGF	O	O
+
+जाता	VAUX	I-VGF	O	है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+5,810	QC	B-BLK	O	.	SYM	I-BLK	O	O
+
+*	SYM	B-BLK	O	लगातार	RB	B-RBP	O	तीन	QC	B-NP	O	O
+
+गर्भस्राव	NN	I-NP	O	होने	VM	B-VGNN	O	की	PSP	I-VGNN	O	O
+
+घटना	NN	B-NP	O	आवर्ती	JJ	B-NP	O	गर्भावस्था	NN	I-NP	O	O
+
+हानि	NN	B-NP	O	आरपीएल	NNP	B-NP	O	या	CC	B-CCP	O	O
+
+आवर्ती	JJ	B-NP	O	गर्भस्राव	NN	I-NP	O	(	SYM	B-NP	O	O
+
+चिकित्सकीय	JJ	I-NP	O	भाषा	NN	I-NP	O	में	PSP	I-NP	O	O
+
+बार	RB	B-RBP	O	-	SYM	I-RBP	O	बार	RDP	I-RBP	O	O
+
+होने	VM	B-VGNN	O	वाला	PSP	I-VGNN	O	गर्भपात	NN	B-NP	O	O
+
+कहलाता	VM	B-VGF	O	है	VM	I-VGF	O	)	SYM	I-VGF	O	O
+
+है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+एक	QC	B-NP	O	किंवदंती	NN	I-NP	O	के	PSP	I-NP	O	O
+
+अनुसार	PSP	I-NP	O	एक	QC	B-NP	O	बार	NN	I-NP	O	O
+
+मगध	NNP	B-NP	B-LOC	के	PSP	I-NP	O	राजा	NNC	B-NP	B-PER	O
+
+महानंद	NNP	I-NP	O	ने	PSP	I-NP	O	श्राद्ध	NNP	B-NP	O	O
+
+के	PSP	I-NP	O	अवसर	NN	B-NP	O	पर	PSP	I-NP	O	O
+
+कौटिल्य	NN	B-NP	B-PER	को	PSP	I-NP	O	अपमानित	JJ	B-JJP	O	B-PER
+
+किया	VM	B-VGF	O	था	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+जगह	NN	I-NP	O	अपनी	PRP	B-NP	O	हरियाली	NN	I-NP	O	O
+
+के	PSP	I-NP	O	लिए	PSP	I-NP	O	प्रसिद्ध	JJ	B-JJP	O	O
+
+है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	.	SYM	B-BLK	O	O
+
+कहा	VM	B-VGF	O	है—	NNP	B-NP	O	'	SYM	I-NP	O	O
+
+'	SYM	I-NP	O	मनुष्याणां	NNPC	I-NP	B-MISC	वृतिरर्थः	NNP	I-NP	I-MISC	O
+
+'	SYM	I-NP	O	'	SYM	I-NP	O	(	NNPC	B-NP	O	O
+
+4	QC	I-NP	O	)	SYM	I-NP	O	अर्थात्	NNPC	I-NP	O	O
+
+मनुष्यों	NN	B-NP	O	की	PSP	I-NP	O	जीविका	NN	B-NP	O	O
+
+को	PSP	I-NP	O	अर्थ	NN	B-NP	O	कहते	VM	B-VGF	O	O
+
+हैं	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	.	SYM	B-BLK	O	O
+
+.	SYM	B-BLK	O	इसी	DEM	B-NP	O	O
+
+प्रकार	NN	I-NP	O	राज्‍य	NNPC	B-NP	O	विधान	NNC	I-NP	O	O
+
+सभाओं	NN	I-NP	O	के	PSP	I-NP	O	सत्रों	NN	B-NP	O	O
+
+के	PSP	I-NP	O	दौरान	NST	I-NP	O	इनका	PRP	B-NP	O	O
+
+प्रसारण	NN	I-NP	O	एनएसडी	NNP	B-NP	O	,	SYM	I-NP	O	O
+
+आकाशवाणी	NN	B-NP	O	की	PSP	I-NP	O	क्षेत्रीय	JJ	B-NP	O	O
+
+समाचार	NNC	I-NP	O	इकाइयों	NN	I-NP	O	द्वारा	PSP	I-NP	O	O
+
+किया	VM	B-VGF	O	जाता	VAUX	I-VGF	O	है	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	4,942	NNP	B-NP	O	O
+
+.	SYM	I-NP	O	निशान	NN	B-NP	O	O
+
+]	SYM	I-NP	O	]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+मांग	NN	I-NP	O	उठने	VM	B-VGF	O	लगी	VAUX	I-VGF	O	O
+
+कि	CC	B-CCP	O	सभी	QF	B-NP	O	मुस्लिमों	NN	I-NP	O	O
+
+को	PSP	I-NP	O	पाकिस्तान	NNP	B-NP	B-LOC	भेजा	VM	B-VGF	O	O
+
+जाए	VAUX	I-VGF	O	और	CC	B-CCP	O	मुस्लिमों	NN	B-NP	O	O
+
+और	CC	B-CCP	O	हिंदु	NNC	B-NP	O	नेताओं	NN	I-NP	O	O
+
+ने	PSP	I-NP	O	इस	PRP	B-NP	O	पर	PSP	I-NP	O	O
+
+असंतोष	NN	B-NP	O	व्य‍क्त	JJ	B-JJP	O	किया	VM	B-VGF	O	O
+
+और	CC	B-CCP	O	एक	PRPC	B-NP	O	दूसरे	QO	I-NP	O	O
+
+,	SYM	I-NP	O	'	SYM	I-NP	O	'	SYM	I-NP	O	O
+
+पटेल	NNPC	I-NP	O	:	SYM	I-NP	O	एक	QC	B-NP	O	O
+
+जीवन	NN	I-NP	O	'	SYM	I-NP	O	'	SYM	I-NP	O	O
+
+,	SYM	I-NP	O	पी.462	NNP	B-NP	O	के	PSP	I-NP	O	O
+
+साथ	NST	I-NP	O	समझौता	NN	B-NP	O	करने	VM	B-VGNN	O	O
+
+से	PSP	I-VGNN	O	मना	NN	B-NP	O	करने	VM	B-VGNN	O	O
+
+से	PSP	I-VGNN	O	गांधी	NNP	B-NP	B-PER	जी	RP	I-NP	I-PER	O
+
+को	PSP	I-NP	O	गहरा	JJ	B-NP	O	सदमा	NN	I-NP	O	O
+
+पहुंचा	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+इन	DEM	B-NP	O	दुकानों	NN	I-NP	O	से	PSP	I-NP	O	O
+
+राजस्थानी	JJ	B-NP	O	स्मारिकाओं	NN	I-NP	O	की	PSP	I-NP	O	O
+
+खरीदारी	NN	B-NP	O	की	VM	B-VGF	O	जा	VAUX	I-VGF	O	O
+
+सकती	VAUX	I-VGF	O	है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+खाने	VM	B-VGNN	O	की	PSP	I-VGNN	O	लागत	NN	B-NP	O	O
+
+में	PSP	I-NP	O	पचास	QC	B-NP	O	प्रतिशत	NN	I-NP	O	O
+
+की	PSP	I-NP	O	कमी	NN	B-NP	O	आती	VM	B-VGF	O	O
+
+है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+ऐसे	DEM	B-NP	O	मनमोहक	JJ	I-NP	O	दृश्य	NN	I-NP	O	O
+
+का	PSP	I-NP	O	आनंद	NN	B-NP	O	लेने	VM	B-VGNN	O	O
+
+के	PSP	I-VGNN	O	लिए	PSP	I-VGNN	O	पर्यटक	NNC	B-NP	O	O
+
+भीषण	JJ	B-NP	O	गर्मी	NN	I-NP	O	की	PSP	I-NP	O	O
+
+भी	RP	I-NP	O	परवाह	NN	B-NP	O	नहीं	NEG	B-VGF	O	O
+
+करते	VM	I-VGF	O	और	CC	B-CCP	O	यहां	PRP	B-NP	O	O
+
+घुमक्कड़ी	NN	B-NP	O	करते	VM	B-VGF	O	फिरते	VAUX	I-VGF	O	O
+
+हैं	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	जैसलमेर	NNP	B-NP	B-LOC	O
+
+राज्य	NN	I-NP	O	ने	PSP	I-NP	O	मूल	JJ	B-NP	O	O
+
+भारतीय	JJ	I-NP	O	संस्कृति	NN	I-NP	O	,	SYM	I-NP	O	O
+
+लोक	NNC	B-NP	O	शैली	NN	I-NP	O	,	SYM	I-NP	O	O
+
+सामाजिक	JJ	B-NP	O	मान्यताएँ	NN	I-NP	O	,	SYM	I-NP	O	O
+
+निर्माणकला	NN	B-NP	O	,	SYM	I-NP	O	संगीतकला	NN	B-NP	O	O
+
+,	SYM	I-NP	O	साहित्य	NNP	B-NP	O	,	SYM	I-NP	O	O
+
+स्थापत्य	NN	B-NP	O	आदि	RP	I-NP	O	के	PSP	I-NP	O	O
+
+मूलरुपंण	NN	B-NP	O	बनाए	VM	B-VGF	O	रखा	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	.	SYM	B-BLK	O	O
+
+]	SYM	I-NP	O	]	SYM	I-NP	O	भी	RP	I-NP	O	O
+
+उपलब्ध	JJ	B-JJP	O	है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+क्षेत्र	NN	B-NP	O	में	PSP	I-NP	O	प्राचीन	JJ	B-NP	O	O
+
+केरल	NNP	I-NP	B-LOC	का	PSP	I-NP	O	योगदान	NN	B-NP	O	B-LOC
+
+विश्व	JJC	B-JJP	O	प्रसिद्ध	JJ	I-JJP	O	है	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	मेनन	NNPC	B-NP	B-PER	O
+
+]	SYM	I-NP	O	]	SYM	I-NP	O	की	PSP	I-NP	O	O
+
+भूमिका	NN	B-NP	O	अत्यंत	INTF	B-JJP	O	महत्वपूर्ण	JJ	I-JJP	O	O
+
+थी	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	मुंबई	NNP	B-NP	B-LOC	O
+
+के	PSP	I-NP	O	उपनगरीय	JJ	B-NP	O	क्षेत्रों	NN	I-NP	O	O
+
+में	PSP	I-NP	O	ऑटोरिक्शा	NN	B-NP	O	उपलब्ध	JJ	B-JJP	O	O
+
+हैं	VM	B-VGF	O	,	SYM	I-VGF	O	जो	PRP	B-NP	O	O
+
+सी	RP	I-NP	O	एन	NNPC	B-NP	O	जी	RP	I-NP	O	O
+
+चालित	JJ	B-JJP	O	हैं	VM	B-VGF	O	,	SYM	I-VGF	O	O
+
+व	CC	B-CCP	O	भाड़े	NN	B-NP	O	पर	PSP	I-NP	O	O
+
+चलते	VM	B-VGF	O	हैं	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+भादों	NN	B-NP	O	में	PSP	I-NP	O	होता	VM	B-VGF	O	O
+
+है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+‘	NNPC	B-NP	O	मुहम्मद	NNPC	I-NP	B-PER	’	NNP	B-NP	O	O
+
+का	PSP	I-NP	O	अर्थ	NN	B-NP	O	होता	VM	B-VGF	O	O
+
+है	VAUX	I-VGF	O	‘jisa	NNP	B-NP	O	की	PSP	I-NP	O	O
+
+अत्यन्त	JJ	B-NP	O	प्रशंसा	NN	I-NP	O	की	VM	B-VGF	O	O
+
+गई	VAUX	I-VGF	O	हो	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+इस	DEM	B-NP	O	मौसम	NN	I-NP	O	में	PSP	I-NP	O	O
+
+जब	PRP	B-NP	O	मध्याह्न	NN	B-NP	O	में	PSP	I-NP	O	O
+
+सूर्य	NN	B-NP	O	सिर	NN	B-NP	O	पर	PSP	I-NP	O	O
+
+होता	VM	B-VGF	O	है	VAUX	I-VGF	O	और	CC	B-CCP	O	O
+
+उसकी	PRP	B-NP	O	किरणों	NN	I-NP	O	थार	NNP	B-NP	B-LOC	O
+
+के	PSP	I-NP	I-LOC	रेगिस्तान	NN	B-NP	I-LOC	पर	PSP	I-NP	O	O
+
+पड़ती	VM	B-VGF	O	है	VAUX	I-VGF	O	तो	CC	B-CCP	O	O
+
+सुनहरी	JJ	B-NP	O	रेत	NN	I-NP	O	को	PSP	I-NP	O	O
+
+देख	VM	B-VGNF	O	ऐसा	PRP	B-NP	O	लगता	VM	B-VGNF	O	O
+
+है	VAUX	I-VGNF	O	मानो	VM	I-VGNF	O	चहुंओर	JJ	B-NP	O	O
+
+सोने	NN	I-NP	O	के	PSP	I-NP	O	कण	NN	B-NP	O	O
+
+बिखरे	VM	B-VGF	O	पड़े	VAUX	I-VGF	O	हों	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	विवाह	NN	B-NP	O	O
+
+एक	QC	B-NP	O	प्रकार	NN	I-NP	O	का	PSP	I-NP	O	O
+
+कानूनी	JJ	B-JJP	O	और	CC	B-CCP	O	सामाजिक	JJ	B-JJP	O	O
+
+अनुबंध	NN	B-NP	O	होता	VM	B-VGF	O	है	VAUX	I-VGF	O	O
+
+जिसकी	PRP	B-NP	O	वैधता	NN	B-NP	O	केवल	RP	I-NP	O	O
+
+पुरुष	NN	B-NP	O	और	CC	B-CCP	O	स्त्री	NN	B-NP	O	O
+
+की	PSP	I-NP	O	मर्ज़ी	NN	B-NP	O	और	CC	B-CCP	O	O
+
+2	QC	B-NP	O	गवाहों	NN	I-NP	O	से	PSP	I-NP	O	O
+
+निर्धारित	JJ	B-JJP	O	होती	VM	B-VGF	O	है	VAUX	I-VGF	O	O
+
+(	SYM	B-NP	O	शिया	NNP	I-NP	O	वर्ग	NN	I-NP	O	O
+
+में	PSP	I-NP	O	केवल	RP	B-NP	O	1	QC	I-NP	O	O
+
+गवाह	NN	I-NP	O	चाहिये	VM	B-VGNF	O	होता	VM	B-VGF	O	O
+
+है	VAUX	I-VGF	O	)	SYM	I-VGF	O	.	SYM	I-VGF	O	O
+
+मै	PRP	B-NP	O	भारत	NNP	B-NP	B-LOC	स्थित	JJ	B-JJP	O	O
+
+बेलायती	JJ	I-JJP	O	अफ़्सर	NNPC	B-NP	O	अप्ने	PRP	I-NP	O	O
+
+बच्चौं	NN	B-NP	O	को	PSP	I-NP	O	शिक्षा	NN	B-NP	O	O
+
+देने	VM	B-VGNN	O	के	PSP	I-VGNN	O	लिए	PSP	I-VGNN	O	O
+
+भेंज्ते	VM	B-VGF	O	थे	VM	I-VGF	O	.	SYM	I-VGF	O	O
+
+-	SYM	B-BLK	O	.	SYM	I-BLK	O	O
+
+.	SYM	B-BLK	O	-	SYM	B-BLK	O	O
+
+.	SYM	I-BLK	O	*	SYM	B-NP	O	O
+
+प्रार्थना	NNC	I-NP	O	(	SYM	I-NP	O	'	SYM	I-NP	O	O
+
+'	SYM	I-NP	O	सलात	NN	I-NP	O	'	SYM	I-NP	O	O
+
+'	SYM	I-NP	O	)	NNPC	I-NP	O	-	SYM	I-NP	O	O
+
+इसे	PRP	I-NP	O	हिन्दुस्तानी	NN	B-NP	O	में	PSP	I-NP	O	O
+
+नमाज़	NN	B-NP	O	भी	RP	I-NP	O	कहते	VM	B-VGF	O	O
+
+हैं	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+बीकानेर	NNP	B-NP	B-LOC	का	PSP	I-NP	O	दक्षिण	JJC	B-NP	O	B-LOC
+
+-	SYM	I-NP	O	पश्चिम	NNP	I-NP	O	में	PSP	I-NP	O	O
+
+मगरा	NNP	B-NP	O	नाम	NN	I-NP	O	की	PSP	I-NP	O	O
+
+पथरीली	NN	B-NP	O	भूमि	NN	B-NP	O	है	VM	B-VGF	O	O
+
+जहां	PRP	B-NP	O	अच्छी	JJ	B-NP	O	वर्षा	NN	I-NP	O	O
+
+हो	VM	B-VGNN	O	जाने	VAUX	I-VGNN	O	पर	PSP	I-VGNN	O	O
+
+किसी	PRP	B-NP	O	प्रकार	NN	I-NP	O	पैदावार	NN	B-NP	O	O
+
+हो	VM	B-VGF	O	जाती	VAUX	I-VGF	O	है	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	.	SYM	B-BLK	O	O
+
+7,470	QC	B-BLK	O	.	SYM	I-BLK	O	O
+
+-	SYM	B-BLK	O	!	SYM	B-VGF	O	9	VM	I-VGF	O	O
+
+.	SYM	I-VGF	O	.	SYM	B-BLK	O	O
+
+जैबुन्निसा	NNP	B-NP	B-PER	ने	PSP	I-NP	O	खतरे	NN	B-NP	O	B-PER
+
+को	PSP	I-NP	O	भंाप	NN	B-NP	O	लियायफिर	NNP	B-NP	O	O
+
+भी	RP	I-NP	O	वह	PRP	B-NP	O	एक	QC	B-NP	O	O
+
+बहादुर	NN	I-NP	O	की	PSP	I-NP	O	तरह	NN	B-NP	O	O
+
+,	SYM	I-NP	O	जिसे	PRP	B-NP	O	अपनी	PRP	B-NP	O	O
+
+हार	NN	I-NP	O	का	PSP	I-NP	O	विश्वास	NN	B-NP	O	O
+
+हो	VM	B-VGF	O	गया	VAUX	I-VGF	O	हो	VAUX	I-VGF	O	O
+
+,	SYM	I-VGF	O	मुस्कराती	VM	B-VGF	O	रही	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	उसकी	PRP	B-NP	O	O
+
+इच्छा	NN	I-NP	O	अनंगपाल	NNP	B-NP	B-PER	की	PSP	I-NP	O	O
+
+मृत्यु	NN	B-NP	O	के	PSP	I-NP	O	बाद	NST	I-NP	O	O
+
+स्वयं	PRP	B-NP	O	गद्दी	NN	B-NP	O	पर	PSP	I-NP	O	O
+
+बैठने	VM	B-VGNF	O	की	VM	B-VGF	O	थी	VAUX	I-VGF	O	O
+
+,	SYM	I-VGF	O	परन्तु	CC	B-CCP	O	जब	PRP	B-NP	O	O
+
+अनंगपाल	NNP	B-NP	B-PER	ने	PSP	I-NP	O	अपने	PRP	B-NP	O	O
+
+जीवित	JJ	B-JJP	O	रहते	VM	B-VGNF	O	ही	RP	I-VGNF	O	O
+
+पृथ्वीराज	NNP	B-NP	B-PER	को	PSP	I-NP	O	अपना	PRP	B-NP	O	B-PER
+
+उत्तराधिकारी	NN	I-NP	O	घोषित	JJ	B-JJP	O	कर	VM	B-VGF	O	O
+
+दिया	VAUX	I-VGF	O	तो	CC	B-CCP	O	उसके	PRP	B-NP	O	O
+
+हृदय	NN	I-NP	O	में	PSP	I-NP	O	विद्रोह	NN	B-NP	O	O
+
+की	PSP	I-NP	O	लहरे	NN	B-NP	O	मचलने	VM	B-VGF	O	O
+
+लगी	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	युद्धबंधी	NN	B-NP	O	O
+
+के	PSP	I-NP	O	रूप	PSP	I-NP	O	में	PSP	I-NP	O	O
+
+उसे	PRP	B-NP	O	गौरी	NNP	B-NP	B-PER	के	PSP	I-NP	O	O
+
+सामने	NST	I-NP	O	ले	VM	B-VGF	O	जाया	VAUX	I-VGF	O	O
+
+गया	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+इसलिए	PRP	B-NP	O	गर्मी	NN	B-NP	O	के	PSP	I-NP	O	O
+
+दिनों	NN	B-NP	O	में	PSP	I-NP	O	भी	RP	I-NP	O	O
+
+रात	NN	B-NP	O	के	PSP	I-NP	O	समय	PSP	I-NP	O	O
+
+यहां	PRP	B-NP	O	ठंडक	JJ	B-JJP	O	रहती	VAUX	B-VGF	O	O
+
+है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+70.	NNPC	B-NP	O	सिटी	NNC	I-NP	B-LOC	पैलेस	NNP	B-NP	I-LOC	O
+
+का	PSP	I-NP	O	एक	QC	B-NP	O	भाग	NN	I-NP	O	O
+
+अब	PRP	B-NP	O	एक	QC	B-NP	O	संग्रहालय	NN	I-NP	O	O
+
+में	PSP	I-NP	O	परिवर्तित	JJ	B-JJP	O	कर	VM	B-VGF	O	O
+
+दिया	VAUX	I-VGF	O	है	VAUX	I-VGF	O	,	SYM	I-VGF	O	O
+
+जो	PRP	B-NP	O	कला	NN	B-NP	O	औऱ	CC	B-CCP	O	O
+
+साहित्य	NNP	B-NP	O	के	PSP	I-NP	O	कुछ	QF	B-NP	O	O
+
+उत्तम	JJ	I-NP	O	रूपों	NN	I-NP	O	को	PSP	I-NP	O	O
+
+प्रदर्शित	JJ	B-JJP	O	करता	VM	B-VGF	O	है	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	रिंग	NNC	B-NP	O	O
+
+टोन	NN	I-NP	O	]	SYM	I-NP	O	]	SYM	I-NP	O	O
+
+बेचा	VM	B-VGF	O	गया	VAUX	I-VGF	O	था	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	.	SYM	B-BLK	O	O
+
+दूसरे	QO	B-NP	O	दिन	NN	I-NP	O	भाद्रपद	NNPC	B-NP	O	O
+
+-	SYM	I-NP	O	कृष्ण	NNPC	I-NP	B-PER	-	SYM	I-NP	O	O
+
+नवमी	NNP	I-NP	O	में	PSP	I-NP	O	नंद	NNPC	B-NP	O	O
+
+-	SYM	I-NP	O	महोत्सव	NNP	I-NP	O	अर्थात्	NNPC	B-NP	O	O
+
+दधिकांदौ	NNP	I-NP	O	श्रीकृष्ण	NNP	B-NP	B-PER	के	PSP	I-NP	O	O
+
+जन्म	NN	B-NP	O	लेने	VM	B-VGNN	O	के	PSP	I-VGNN	O	O
+
+उपलक्षमें	NN	B-NP	O	बडे	JJ	B-NP	O	हर्षोल्लास	NNP	I-NP	O	O
+
+के	PSP	I-NP	O	साथ	NST	I-NP	O	मनाया	VM	B-VGF	O	O
+
+जाता	VAUX	I-VGF	O	है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+]	SYM	I-NP	O	का	PSP	I-NP	O	दिन	NN	B-NP	O	O
+
+लाहौर	NNP	B-NP	B-LOC	में	PSP	I-NP	O	भारतीय	JJ	B-NP	O	B-LOC
+
+स्वतंत्रता	NNPC	I-NP	O	दिवस	NNP	B-NP	O	के	PSP	I-NP	O	O
+
+रूप	PSP	I-NP	O	में	PSP	I-NP	O	इंडियन	NNPC	B-NP	B-ORG	O
+
+नेशनल	NNPC	I-NP	I-ORG	कांग्रेस	NNP	B-NP	I-ORG	ने	PSP	I-NP	O	O
+
+मनाया	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	1984	NNP	B-NP	O	O
+
+]	SYM	I-NP	O	]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+यहुदिओं	NN	B-NP	O	के	PSP	I-NP	O	साथ	NST	I-NP	O	O
+
+है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	निवसेन्नरकेघोरेयावदाभूतसम्प्लवम्	NN	B-NP	O	O
+
+अमीर	NNPC	B-NP	O	-	SYM	I-NP	O	गरीब	NN	I-NP	O	O
+
+सभी	QF	B-NP	O	लोग	NN	I-NP	O	यथाशक्ति	NNC	B-NP	O	O
+
+-	SYM	I-NP	O	यथासंभव	NNP	I-NP	O	उपचारों	NN	B-NP	O	O
+
+से	PSP	I-NP	O	योगेश्वर	NN	B-NP	B-PER	कृष्ण	NNP	B-NP	B-PER	O
+
+का	PSP	I-NP	O	जन्मोत्सव	NN	B-NP	O	मनाएं	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	8.	NNPC	B-NP	O	O
+
+गवर्नमेण्ट	NNC	I-NP	B-LOC	सेन्ट्रल	NNPC	B-NP	I-LOC	म्यूजियम	NNP	I-NP	I-LOC	O
+
+में	PSP	I-NP	O	हाथीदांत	NNPC	B-NP	O	कृतियों	NN	I-NP	O	O
+
+,	SYM	I-NP	O	वस्त्रों	NN	B-NP	O	,	SYM	I-NP	O	O
+
+आभूषणों	NN	B-NP	O	,	SYM	I-NP	O	नक्काशीदार	JJ	B-NP	O	O
+
+काष्ठ	NNPC	I-NP	O	कृतियों	NN	I-NP	O	,	SYM	I-NP	O	O
+
+सूक्ष्म	NNC	B-NP	O	चित्रों	NN	I-NP	O	संगमरमर	NNPC	B-NP	O	O
+
+प्रतिमाओं	NN	I-NP	O	,	SYM	I-NP	O	शस्त्रों	NN	B-NP	O	O
+
+औऱ	CC	B-CCP	O	हथियारों	NN	B-NP	O	का	PSP	I-NP	O	O
+
+समृद्ध	JJ	B-NP	O	संग्रह	NN	I-NP	O	है	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	.	SYM	B-BLK	O	O
+
+में	PSP	I-NP	O	प्रगतिशील	JJ	B-NP	O	भारतीय	JJ	I-NP	O	O
+
+जीवन	NNPC	I-NP	O	दृष्टि	NN	I-NP	O	की	PSP	I-NP	O	O
+
+रचनाएँ	NN	B-NP	O	नयी	JJ	B-NP	O	चेतना	NNP	I-NP	O	O
+
+के	PSP	I-NP	O	साथ	NST	I-NP	O	आने	VM	B-VGF	O	O
+
+लगती	VAUX	I-VGF	O	हैं	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+1999	NNP	B-NP	O	)	SYM	I-NP	O	,	SYM	I-NP	O	O
+
+पृष्ठ	NN	B-NP	O	माता	NNPC	B-NP	O	पिता	NN	I-NP	O	O
+
+की	PSP	I-NP	O	उम्र	NN	B-NP	O	के	PSP	I-NP	O	O
+
+साथ	NST	I-NP	O	गर्भस्राव	NN	B-NP	O	की	PSP	I-NP	O	O
+
+व्याप्ति	NN	B-NP	O	काफी	QF	B-NP	O	बढ़	VM	B-VGF	O	O
+
+जाती	VAUX	I-VGF	O	है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+मत	NN	B-NP	O	है	VM	B-VGF	O	-	SYM	I-VGF	O	O
+
+पर	PSP	B-FRAGP	O	पहुँच	VM	B-VGNF	O	कर	VM	I-VGNF	O	O
+
+राजा	NNC	B-NP	B-PER	सूरजमल	NNP	I-NP	O	ने	PSP	I-NP	O	O
+
+फव्वारों	NN	B-NP	O	युक्त	JJ	B-NP	O	प्रसादों	NN	I-NP	O	O
+
+,	SYM	I-NP	O	जिन्हें	PRP	B-NP	O	भवन	NNP	B-NP	O	O
+
+कहते	VM	B-VGF	O	हैं	VAUX	I-VGF	O	,	SYM	I-VGF	O	O
+
+का	PSP	B-FRAGP	O	निर्माण	NN	B-NP	O	कराया	VM	B-VGF	O	O
+
+था	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+14,074	NNP	B-NP	O	.	SYM	I-NP	O	O
+
+-	SYM	B-BLK	O	.	SYM	I-BLK	O	O
+
+39,059	NNP	B-NP	O	.	SYM	I-NP	O	O
+
+जिलाध्यक्ष	NNP	B-NP	B-PER	जिले	NN	B-NP	O	की	PSP	I-NP	O	O
+
+सम्पत्ति	NN	B-NP	O	लेख	NN	B-NP	O	,	SYM	I-NP	O	O
+
+केंद्र	NNPC	B-NP	O	सरकार	NNP	I-NP	O	के	PSP	I-NP	O	O
+
+राजस्व	NNC	B-NP	O	संग्रहण	NN	I-NP	O	के	PSP	I-NP	O	O
+
+लिए	PSP	I-NP	O	उत्तरदायी	JJ	B-JJP	O	होता	VM	B-VGF	O	O
+
+है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	मिल	VM	B-VGF	O	O
+
+गयी	VAUX	I-VGF	O	मंज़िल	NNPC	B-NP	O	मुझे	PRP	I-NP	O	O
+
+]	SYM	B-VGF	O	]	VM	I-VGF	O	.	SYM	I-VGF	O	O
+
+का	PSP	I-NP	O	ऐसा	DEM	B-NP	O	वर्णन	NNC	I-NP	O	O
+
+-	SYM	I-NP	O	चित्रण	NN	I-NP	O	अन्यत्र	NN	B-NP	O	O
+
+विरल	JJ	B-JJP	O	है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+की	PSP	I-NP	O	ऊंचाई	NN	B-NP	O	फर्श	NN	B-NP	O	O
+
+से	PSP	I-NP	O	छत	NN	B-NP	O	तक	PSP	I-NP	O	O
+
+2.6	QC	B-NP	O	से	PSP	I-NP	O	3.3	QC	B-NP	O	O
+
+मीटर	NN	I-NP	O	तक	PSP	I-NP	O	हो	VM	B-VGF	O	O
+
+सकती	VAUX	I-VGF	O	है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+महत्वपूर्ण	JJ	I-NP	O	प्रतिमाएं	NN	I-NP	O	और	CC	B-CCP	O	O
+
+पेंटिंग	NN	B-NP	O	हैं	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+.	SYM	B-BLK	O	गुर्जरों	NN	B-NP	O	O
+
+]	SYM	I-NP	O	]	NNP	B-NP	O	का	PSP	I-NP	O	O
+
+राज्य	NN	B-NP	O	रहा	VM	B-VGF	O	है	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	चैडविक	JJ	B-NP	O	O
+
+झरना	NN	I-NP	O	भी	RP	I-NP	O	एक	QC	B-NP	O	O
+
+प्रसिद्ध	JJ	I-NP	O	पर्यटक	NNC	I-NP	O	स्थल	NN	I-NP	O	O
+
+है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	उपनिषद्	NN	B-NP	O	O
+
+का	PSP	I-NP	O	अन्य	JJ	B-NP	O	अर्थ	NN	I-NP	O	O
+
+उप	NNPC	B-NP	O	(	SYM	I-NP	O	समीप	NST	I-NP	O	O
+
+)	SYM	I-NP	O	निषत्	NNC	B-NP	O	-	SYM	I-NP	O	O
+
+निषीदति	NNC	I-NP	O	-	SYM	I-NP	O	बैठनेवाला	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	हस्‍तशिल्‍प	NN	B-NP	B-MISC	O
+
+के	PSP	I-NP	O	लिए	PSP	I-NP	O	यहां	PRP	B-NP	O	O
+
+का	PSP	I-NP	O	सबसे	INTF	B-NP	O	प्रसिद्ध	JJ	I-NP	O	O
+
+दुकान	NN	I-NP	O	'	SYM	I-NP	O	हबीब	NNPC	B-NP	B-ORG	O
+
+मलिक	NNPC	I-NP	I-ORG	एंड	NNPC	I-NP	I-ORG	संस	NN	I-NP	I-ORG	O
+
+'	SYM	I-NP	O	(	SYM	B-NP	O	टेली	NNPC	I-NP	B-LOC	O
+
+:	SYM	I-NP	I-LOC	2254109	NNP	I-NP	I-LOC	)	SYM	I-NP	O	O
+
+है	VM	B-VGF	O	जोकि	CC	B-CCP	O	चौरास्‍ता	NN	B-NP	O	O
+
+या	CC	B-CCP	O	नेहरु	NNPC	B-NP	B-LOC	रोड	NNP	B-NP	I-LOC	O
+
+के	PSP	I-NP	O	निकट	NST	I-NP	O	स्थित	JJ	B-JJP	O	O
+
+है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	11,285	NNP	B-NP	O	O
+
+.	SYM	I-NP	O	.	SYM	B-BLK	O	O
+
+कुछ	PRP	I-NP	O	उस	DEM	B-NP	O	काल	NN	I-NP	O	O
+
+में	PSP	I-NP	O	हुआ	VM	B-VGNF	O	जब	PRP	B-NP	O	O
+
+कि	CC	B-CCP	O	आश्चर्यजनक	NN	B-NP	O	चमत्कार	NN	B-NP	O	O
+
+दिखाना	VM	B-VGNF	O	साधू	NNPC	B-NP	O	सन्तों	NN	I-NP	O	O
+
+के	PSP	I-NP	O	लिए	PSP	I-NP	O	मामूली	JJ	B-NP	O	O
+
+बात	NN	I-NP	O	समझी	VM	B-VGF	O	जाती	VAUX	I-VGF	O	O
+
+थी	VAUX	I-VGF	O	और	CC	B-CCP	O	जबकि	CC	B-CCP	O	O
+
+अरब	QC	B-NP	O	हो	VM	B-VGF	O	या	CC	B-CCP	O	O
+
+अन्य	JJ	B-NP	O	देश	NN	I-NP	O	पूरा	JJ	B-NP	O	O
+
+वातावरण	NN	I-NP	O	ग़ैबी	NNP	B-NP	O	और	CC	B-CCP	O	O
+
+अलौकिक	JJ	B-NP	O	सिद्धियों	NN	I-NP	O	के	PSP	I-NP	O	O
+
+चक्कर	NN	B-NP	O	में	PSP	I-NP	O	ग्रस्त	JJ	B-JJP	O	O
+
+था	VAUX	B-VGF	O	.	SYM	I-VGF	O	O
+
+जय	NNPC	B-NP	B-LOC	समन्द	NNPC	I-NP	I-LOC	रोड	NNP	B-NP	O	O
+
+बहुत	QF	B-JJP	O	ही	RP	I-JJP	O	परेशान	JJ	I-JJP	O	O
+
+करने	VM	B-VGF	O	वाला	VAUX	I-VGF	O	है	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	-	SYM	B-BLK	O	O
+
+.	SYM	I-BLK	O	पेरु	NN	B-NP	B-LOC	O
+
+]	SYM	I-NP	O	]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+.	SYM	B-BLK	O	फिर	RB	B-RBP	O	O
+
+गौरी	NNP	B-NP	B-PER	के	PSP	I-NP	O	सैनिकों	NN	B-NP	O	B-PER
+
+ने	PSP	I-NP	O	उस	DEM	B-NP	O	दोनों	NN	I-NP	O	O
+
+को	PSP	I-NP	O	भी	RP	I-NP	O	मार	VM	B-VGF	O	O
+
+डाला	VAUX	I-VGF	O	था	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+होते	VM	B-VGNF	O	हुए	VAUX	I-VGNF	O	भी	RP	I-VGNF	O	O
+
+शारीरिक	JJ	B-NP	O	रूप	NN	I-NP	O	से	PSP	I-NP	O	O
+
+बलिष्ठ	JJ	B-JJP	O	था	VAUX	B-VGF	O	.	SYM	I-VGF	O	O
+
+-	SYM	B-BLK	O	!	SYM	I-BLK	O	4	QC	I-BLK	O	O
+
+.	SYM	I-BLK	O	सरदारी	NN	B-NP	O	O
+
+बेगम	NNPC	B-NP	O	]	SYM	I-NP	O	]	SYM	I-NP	O	O
+
+.	SYM	I-NP	O	पश्चिमी	JJ	B-NP	O	O
+
+छोर	NN	I-NP	O	अधिकतर	JJ	B-NP	O	रेतीला	NNP	I-NP	O	O
+
+या	CC	B-CCP	O	पथरीला	NN	B-NP	O	है	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	.	SYM	B-BLK	O	O
+
+प्रणतक्लेशनाशायगोविन्दायनमोनम	NNPC	B-NP	O	:	SYM	I-NP	O	उपर्युक्त	JJ	B-NP	O	O
+
+मंत्र	NN	I-NP	O	का	PSP	I-NP	O	नित्य	NN	B-NP	O	O
+
+जाप	NN	B-NP	O	करते	VM	B-VGNF	O	हुए	VAUX	I-VGNF	O	O
+
+सच्चिदानंदघनश्रीकृष्ण	NNP	B-NP	O	की	PSP	I-NP	O	आराधना	NN	B-NP	O	O
+
+करें	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+'	SYM	B-BLK	O	'	SYM	I-BLK	O	'	SYM	I-BLK	O	O
+
+भारत	NNP	B-NP	O	वर्ष	NN	I-NP	O	में	PSP	I-NP	O	B-LOC
+
+यही	DEM	B-NP	O	एक	QC	I-NP	O	खण्ड	NN	I-NP	O	O
+
+है	VM	B-VGF	O	जो	PRP	B-NP	O	कभी	PRP	B-NP	O	O
+
+भी	RP	I-NP	O	किसी	PRP	B-NP	O	बाहरी	JJ	I-NP	O	O
+
+सामन्त	JJ	I-NP	O	(	SYM	I-NP	O	उपनिवेशों	NN	I-NP	O	O
+
+)	NNP	B-NP	O	के	PSP	I-NP	O	अधीन	PSP	I-NP	O	O
+
+में	PSP	I-NP	O	नही	NEG	B-VGF	O	आया	VM	I-VGF	O	O
+
+'	SYM	I-VGF	O	'	SYM	B-BLK	O	'	SYM	I-BLK	O	O
+
+.	SYM	I-BLK	O	लेकिन	CC	B-CCP	O	O
+
+...	SYM	I-CCP	O	उन्होंने	PRP	B-NP	O	अपने	PRP	B-NP	O	O
+
+निजी	JJ	I-NP	O	विश्वास	NN	I-NP	O	की	PSP	I-NP	O	O
+
+सार्वजनिक	JJ	B-NP	O	घोषणा	NN	I-NP	O	कभी	PRP	B-NP	O	O
+
+नहीं	NEG	B-VGF	O	की	VM	I-VGF	O	-	SYM	I-VGF	O	O
+
+जिससे	PRP	B-NP	O	इस	DEM	B-NP	O	रूढ़िवादी	NN	I-NP	O	O
+
+को	PSP	I-NP	O	बेहद	INTF	B-JJP	O	कट्टरपंथी	JJ	I-JJP	O	O
+
+जो	PRP	B-NP	O	समझा	VM	B-VGF	O	गया	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	.	SYM	B-BLK	O	O
+
+और	CC	B-CCP	O	मध्‍यम	NNPC	B-NP	O	सिंचाई	NNC	I-NP	O	O
+
+परियोजनाओं	NN	B-NP	O	का	PSP	I-NP	O	सृजन	NN	B-NP	O	O
+
+किया	VM	B-VGF	O	गया	VAUX	I-VGF	O	है	VAUX	I-VGF	O	O
+
+और	CC	B-CCP	O	48.97	QCC	B-NP	O	लाख	QC	I-NP	O	O
+
+हेक्‍टेयर	NN	I-NP	O	क्षेत्रफल	NN	B-NP	O	की	PSP	I-NP	O	O
+
+सिंचाई	NNC	B-NP	O	प्रमुख	JJ	I-NP	O	सिंचाई	NNC	I-NP	O	O
+
+योजनाओं	NN	I-NP	O	के	PSP	I-NP	O	माध्‍यम	NN	B-NP	O	O
+
+से	PSP	I-NP	O	की	VM	B-VGF	O	जाती	VAUX	I-VGF	O	O
+
+है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+राज्‍य	NNPC	B-NP	O	पर्यटन	NNPC	I-NP	O	विकास	NNPC	I-NP	O	O
+
+निगम	NNP	B-NP	O	राज्‍य	NNP	B-NP	O	की	PSP	I-NP	O	O
+
+आय	NN	B-NP	O	में	PSP	I-NP	O	10	QC	B-NP	O	O
+
+प्रतिशत	NN	I-NP	O	का	PSP	I-NP	O	योगदान	NN	B-NP	O	O
+
+करता	VM	B-VGF	O	है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	तुर्की	NNP	B-NP	O	O
+
+का	PSP	I-NP	O	बिक्री	NN	B-NP	O	करने	VM	B-VGNN	O	O
+
+के	PSP	I-VGNN	O	लिए	PSP	I-VGNN	O	यह	DEM	B-NP	O	O
+
+आदर्श	JJ	I-NP	O	वजन	NN	I-NP	O	होता	VM	B-VGF	O	O
+
+है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+विभिन्न	JJ	B-NP	O	धर्मावलम्बी	JJ	I-NP	O	लोगों	NN	I-NP	O	O
+
+के	PSP	I-NP	O	देवालयों	NN	B-NP	O	तथा	CC	B-CCP	O	O
+
+उनके	PRP	B-NP	O	धार्मिक	JJ	B-JJP	O	आचार	NNC	B-NP	O	O
+
+-	SYM	I-NP	O	अनुष्ठानों	NN	I-NP	O	ने	PSP	I-NP	O	O
+
+केरलीय	JJ	B-NP	O	संस्कृति	NN	I-NP	O	को	PSP	I-NP	O	O
+
+पुष्ट	JJ	B-JJP	O	किया	VM	B-VGF	O	है	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	.	SYM	B-BLK	O	O
+
+को	PSP	I-NP	O	राहत	NN	B-NP	O	मिल	VM	B-VGF	O	O
+
+सकती	VAUX	I-VGF	O	है	VAUX	I-VGF	O	तो	CC	B-CCP	O	O
+
+कुछ	QF	B-NP	O	अन्य	JJ	I-NP	O	नकारात्मक	JJ	I-NP	O	O
+
+भावनाएं	NN	I-NP	O	महसूस	JJ	B-JJP	O	कर	VM	B-VGF	O	O
+
+सकते	VAUX	I-VGF	O	हैं	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+वकील	NN	B-NP	B-PER	.	SYM	I-NP	O	O
+
+फ्री	NNPC	B-NP	O	रेंज	NNP	I-NP	O	में	PSP	I-NP	O	O
+
+पाले	VM	B-VGNN	O	जाने	VAUX	I-VGNN	O	वाले	PSP	I-VGNN	O	O
+
+पक्षियों	NN	B-NP	O	के	PSP	I-NP	O	पैरों	NN	B-NP	O	O
+
+में	PSP	I-NP	O	कमजोरी	NN	B-NP	O	और	CC	B-CCP	O	O
+
+लंगड़ाहट	JJ	B-JJP	O	रोकने	VM	B-VGNN	O	के	PSP	I-VGNN	O	O
+
+लिए	PSP	I-VGNN	O	ओयस्टर	NNC	B-NP	O	शैल	NN	I-NP	O	O
+
+के	PSP	I-NP	O	रूप	PSP	I-NP	O	में	PSP	I-NP	O	O
+
+प्रति	RP	B-NP	O	सप्ताह	NN	I-NP	O	प्रति	RP	I-NP	O	O
+
+पक्षी	NN	B-NP	O	250	QC	B-NP	O	ग्राम	NN	I-NP	O	O
+
+की	PSP	I-NP	O	दर	NN	B-NP	O	से	PSP	I-NP	O	O
+
+कैल्शियम	NN	B-NP	O	भी	RP	I-NP	O	मिलाया	VM	B-VGF	O	O
+
+जाना	VAUX	I-VGF	O	चाहिए	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+अत	NNPC	B-NP	O	:	SYM	I-NP	O	ये	DEM	B-NP	O	O
+
+भटनेर	NNP	I-NP	B-LOC	से	PSP	I-NP	O	पुन	NN	B-NP	O	O
+
+:	SYM	I-NP	O	अग्रसर	NNP	B-NP	O	होकर	VM	B-VGNF	O	O
+
+सिंध	NNP	B-NP	B-PER	मुल्तान	NNP	B-NP	I-PER	की	PSP	I-NP	O	O
+
+ओर	NST	I-NP	O	बढ़े	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+यदि	CC	B-CCP	O	दिन	NN	B-NP	O	या	CC	B-CCP	O	O
+
+रात	NN	B-NP	O	में	PSP	I-NP	O	कलामात्र	NN	B-NP	O	O
+
+भी	RP	I-NP	O	रोहिणी	NN	B-NP	O	न	NEG	B-VGF	O	O
+
+हो	VM	I-VGF	O	तो	CC	B-CCP	O	विशेषकर	RB	B-RBP	O	O
+
+चंद्रमा	NNP	B-NP	B-LOC	से	PSP	I-NP	O	मिली	VM	B-VGNF	O	O
+
+हुई	VAUX	I-VGNF	O	रात्रि	NN	B-NP	O	में	PSP	I-NP	O	O
+
+इस	DEM	B-NP	O	व्रत	NN	I-NP	O	को	PSP	I-NP	O	O
+
+करें	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+1996	NNPC	B-NP	O	]	SYM	I-NP	O	]	SYM	I-NP	O	O
+
+.	SYM	I-NP	O	पूरे	JJ	B-NP	O	O
+
+पंजे	NN	I-NP	O	के	PSP	I-NP	O	नाखूनों	NN	B-NP	O	O
+
+की	PSP	I-NP	O	लंबाई	NN	B-NP	O	सहित	PSP	I-NP	O	O
+
+इसके	PRP	B-NP	O	अंतर्गत	PSP	I-NP	O	सबसे	INTF	B-NP	O	O
+
+बाहर	NST	I-NP	O	वाले	PSP	I-NP	O	पंजे	NN	B-NP	O	O
+
+के	PSP	I-NP	O	अंदर	NST	I-NP	O	की	PSP	I-NP	O	O
+
+दूरी	NN	B-NP	O	तक	PSP	I-NP	O	पंजे	NN	B-NP	O	O
+
+का	PSP	I-NP	O	सिरा	NN	B-NP	O	हटा	VM	B-VGF	O	O
+
+दिया	VAUX	I-VGF	O	जाता	VAUX	I-VGF	O	है	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	•	NNPC	B-NP	O	O
+
+पानी	NN	I-NP	O	के	PSP	I-NP	O	लिए	PSP	I-NP	O	O
+
+कम	QF	B-NP	O	गहरे	JJ	I-NP	O	वाटरर	NN	I-NP	O	O
+
+का	PSP	I-NP	O	उपयोग	NN	B-NP	O	किया	VM	B-VGF	O	O
+
+जाना	VAUX	I-VGF	O	चाहिए	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+]	SYM	I-NP	O	]	SYM	I-NP	O	पर	PSP	I-NP	O	O
+
+प्रदर्शित	NN	B-NP	O	की	VM	B-VGF	O	गयी	VAUX	I-VGF	O	O
+
+,	SYM	I-VGF	O	(	SYM	B-NP	O	अंतिम	JJ	I-NP	O	O
+
+ः1	QC	I-NP	O	नोट	NN	I-NP	O	जो	PRP	B-NP	O	O
+
+इंग्लेंड	NN	B-NP	B-LOC	के	PSP	I-NP	O	बैंक	NN	B-NP	O	O
+
+के	PSP	I-NP	O	द्वारा	PSP	I-NP	O	जारी	JJ	B-JJP	O	O
+
+किये	VM	B-VGF	O	गए	VAUX	I-VGF	O	)	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	.	SYM	B-BLK	O	O
+
+ने	PSP	I-NP	O	भी	RP	I-NP	O	अनेक	QF	B-NP	O	O
+
+आयुर्वेद	NNP	I-NP	O	ग्रन्थ	NN	B-NP	O	रचे	VM	B-VGNF	O	O
+
+हैं	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	-	SYM	B-BLK	O	O
+
+.	SYM	I-BLK	O	1915	NNP	B-NP	O	O
+
+में	PSP	I-NP	O	उनकी	PRP	B-NP	O	वापसी	NN	I-NP	O	O
+
+के	PSP	I-NP	O	बाद	NST	I-NP	O	उन्होंने	PRP	B-NP	O	O
+
+भारत	NNP	B-NP	O	में	PSP	I-NP	O	किसानों	NN	B-NP	O	B-LOC
+
+,	SYM	I-NP	O	कृषि	NNC	B-NP	O	मजदूरों	NN	I-NP	O	O
+
+और	CC	B-CCP	O	शहरी	JJ	B-NP	O	श्रमिकों	NN	I-NP	O	O
+
+को	PSP	I-NP	O	अत्याधिक	JJ	B-NP	O	भूमि	NN	I-NP	O	O
+
+कर	VM	B-VGF	O	और	CC	B-CCP	O	भेदभाव	NN	B-NP	O	O
+
+के	PSP	I-NP	O	विरूद्ध	JJ	B-NP	O	आवाज	NN	I-NP	O	O
+
+उठाने	VM	B-VGNN	O	के	PSP	I-VGNN	O	लिए	PSP	I-VGNN	O	O
+
+एकजुट	RB	B-RBP	O	किया	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+एक	QC	B-NP	O	पश्चिम	NNPC	I-NP	O	विरोधी	JJ	B-NP	O	O
+
+भावना	NN	I-NP	O	का	PSP	I-NP	O	भी	RP	I-NP	O	O
+
+विकास	NN	B-NP	O	हुआ	VM	B-VGF	O	जिससे	PRP	B-NP	O	O
+
+कुछ	QF	B-NP	O	मुसलमान	NN	I-NP	O	कट्टरपंथ	NN	B-NP	O	O
+
+की	PSP	I-NP	O	तरफ	NST	I-NP	O	आकर्षित	JJ	B-JJP	O	O
+
+होने	VM	B-VGF	O	लगे	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+पीर	NNPC	I-NP	O	पंजाल	NNP	B-NP	O	पर्वत	NNPC	I-NP	O	O
+
+शृंखला	NNP	B-NP	O	में	PSP	I-NP	O	स्थित	JJ	B-JJP	O	O
+
+रोहतांग	NNP	B-NP	O	दर्रे	NN	I-NP	O	में	PSP	I-NP	O	O
+
+है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+यह	PRP	B-NP	O	इस्लाम	NNP	B-NP	O	का	PSP	I-NP	O	O
+
+पहला	QO	B-NP	O	गृहयुद्ध	NN	I-NP	O	था	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	पत्नी	NN	B-NP	O	O
+
+पति	NN	B-NP	O	को	PSP	I-NP	O	पिलाती	VM	B-VGF	O	O
+
+है	VM	I-VGF	O	,	SYM	I-VGF	O	जो	PRP	B-NP	O	O
+
+उसे	PRP	B-NP	O	उसके	PRP	B-NP	O	वीर्य	NN	I-NP	O	O
+
+,	SYM	I-NP	O	जो	PRP	B-NP	O	मानवीय	JJ	B-NP	O	O
+
+दयालुता	NN	I-NP	O	का	PSP	I-NP	O	दूध	NN	B-NP	O	O
+
+,	SYM	I-NP	O	की	PSP	I-NP	O	तरह	PSP	I-NP	O	O
+
+माना	VM	B-VGF	O	जाता	VAUX	I-VGF	O	था	VAUX	I-VGF	O	O
+
+,	SYM	I-VGF	O	के	PSP	B-NP	O	रूप	PSP	I-NP	O	O
+
+में	PSP	I-NP	O	वापस	JJ	B-JJP	O	देता	VM	B-VGF	O	O
+
+लौरा	VAUX	I-VGF	O	जे	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+इसमें	PRP	B-NP	O	फव्वारे	NN	B-NP	O	लगे	VM	B-VGF	O	O
+
+हुए	VAUX	I-VGF	O	हैं	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+में	PSP	I-NP	O	,	SYM	I-NP	O	बिहार	NNP	B-NP	B-LOC	O
+
+राज्य	NNC	I-NP	O	सकल	NNPC	B-NP	O	घरेलू	JJ	I-NP	O	O
+
+उत्पाद	NNC	I-NP	O	(	SYM	I-NP	O	जीडीपी	NNP	I-NP	O	O
+
+)	NNP	B-NP	O	के	PSP	I-NP	O	28	QC	B-NP	O	O
+
+राज्यों	NN	I-NP	O	के	PSP	I-NP	O	बाहर	NST	I-NP	O	O
+
+2	QC	B-NP	O	,	SYM	I-NP	O	केवल	RP	I-NP	O	O
+
+गुजरात	NNP	B-NP	B-LOC	के	PSP	I-NP	O	लिए	PSP	I-NP	O	B-LOC
+
+अगले	JJ	B-JJP	O	.	SYM	I-JJP	O	O
+
+.	SYM	B-BLK	O	.	SYM	B-BLK	O	O
+
+दुर्ग	NN	B-NP	O	के	PSP	I-NP	O	पूर्व	NST	I-NP	O	O
+
+की	PSP	I-NP	O	ओर	NST	I-NP	O	इस	DEM	B-NP	O	O
+
+पुराने	JJ	I-NP	O	नगर	NN	I-NP	O	के	PSP	I-NP	O	O
+
+चिन्ह	NN	B-NP	O	अब	PRP	B-NP	O	भी	RP	I-NP	O	O
+
+दृष्टिगत	JJ	B-JJP	O	होते	VM	B-VGF	O	हैं	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	13,774	NNP	B-NP	O	O
+
+.	SYM	I-NP	O	शोध	NN	B-NP	O	O
+
+में	PSP	I-NP	O	कहा	VM	B-VGF	O	गया	VAUX	I-VGF	O	O
+
+हैं	VAUX	I-VGF	O	कि	CC	B-CCP	O	ह्यूमन	NNPC	B-NP	O	O
+
+पेपिलोमावायरस	NNPC	I-NP	O	(	SYM	B-NP	O	एचपीवी	NNP	I-NP	O	O
+
+)	SYM	I-NP	O	से	PSP	I-NP	O	संक्रमित	JJ	B-NP	O	O
+
+व्यक्ति	NN	I-NP	O	से	PSP	I-NP	O	असुरक्षित	JJ	B-NP	O	O
+
+मुख	NN	I-NP	O	मैथुन	NN	B-NP	O	करने	VM	B-VGNN	O	O
+
+पर	PSP	I-VGNN	O	मुंह	NN	B-NP	O	या	CC	B-CCP	O	O
+
+गले	NN	B-NP	O	के	PSP	I-NP	O	कैंसर	NN	B-NP	O	O
+
+का	PSP	I-NP	O	खतरा	NN	B-NP	O	हो	VM	B-VGF	O	O
+
+सकता	VAUX	I-VGF	O	है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+और	CC	B-CCP	O	कहीं	PRP	B-NP	O	से	PSP	I-NP	O	O
+
+लाकर	VM	B-VGNF	O	खड़ा	JJ	B-JJP	O	करते	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	केरल	NNP	B-NP	B-LOC	O
+
+में	PSP	I-NP	O	शिशुओं	NN	B-NP	O	की	PSP	I-NP	O	O
+
+मृत्यु	NNC	B-NP	O	दर	NN	I-NP	O	भारत	NNP	B-NP	O	O
+
+के	PSP	I-NP	O	राज्यों	NN	B-NP	O	में	PSP	I-NP	O	O
+
+सबसे	INTF	B-NP	O	कम	QF	I-NP	O	है	VM	B-VGF	O	O
+
+और	CC	B-CCP	O	स्त्रियों	NN	B-NP	O	की	PSP	I-NP	O	O
+
+संख्या	NN	B-NP	O	पुरुषों	NN	B-NP	O	से	PSP	I-NP	O	O
+
+अधिक	QF	B-JJP	O	है	VM	B-VGF	O	(	SYM	I-VGF	O	O
+
+2001	NNP	B-NP	O	की	PSP	I-NP	O	जनगणना	NN	B-NP	O	O
+
+के	PSP	I-NP	O	आधार	NN	B-NP	O	पर	PSP	I-NP	O	O
+
+)	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+5,503	NNP	B-NP	O	.	SYM	I-NP	O	O
+
+.	SYM	B-BLK	O	हाल	NN	B-NP	O	O
+
+के	PSP	I-NP	O	वर्षों	NN	B-NP	O	में	PSP	I-NP	O	O
+
+यहां	PRP	B-NP	O	गृह	NNC	B-NP	O	-	SYM	I-NP	O	O
+
+निर्माण	NNPC	I-NP	O	एवं	CC	B-CCP	O	रियल	JJ	B-JJP	O	O
+
+एस्टेट	NNC	B-NP	O	क्षेत्र	NN	I-NP	O	में	PSP	I-NP	O	O
+
+भी	RP	I-NP	O	निवेशक	NN	B-NP	O	उमड़े	VM	B-VGNF	O	O
+
+हैं	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+मैकमिलन	NN	B-NP	B-PER	और	CC	B-CCP	O	हिस्टरी	NNPC	B-NP	B-MISC	O
+
+ऑफ	NNPC	I-NP	I-MISC	द	NNPC	I-NP	I-MISC	वार	NNP	B-NP	I-MISC	O
+
+से	PSP	I-NP	O	किपलिंग	NN	B-NP	B-PER	की	PSP	I-NP	O	O
+
+तस्वीर	NN	B-NP	O	,	SYM	I-NP	O	दिसम्बर	NNPC	B-NP	O	O
+
+1914	NNP	I-NP	O	-	SYM	I-NP	O	मार्च	NNPC	I-NP	O	O
+
+1915.	NNPC	B-NP	O	न्यूयॉर्क	NNP	I-NP	B-LOC	:	SYM	I-NP	O	O
+
+न्यूयॉर्क	NNPC	B-NP	B-MISC	टाइम्स	NNPC	I-NP	I-MISC	कंपनी	NN	I-NP	I-MISC	O
+
+]	SYM	I-NP	O	]	SYM	I-NP	O	1896	NNPC	I-NP	O	O
+
+फरवरी	NNP	B-NP	O	में	PSP	I-NP	O	दम्पति	NN	B-NP	O	O
+
+की	PSP	I-NP	O	दूसरी	QO	B-NP	O	बेटी	NN	I-NP	O	O
+
+एल्सी	NNP	B-NP	B-PER	पैदा	JJ	B-JJP	O	हुई	VM	B-VGF	O	O
+
+थी	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+उस	DEM	B-NP	O	समय	NN	I-NP	O	ये	DEM	B-NP	O	O
+
+अन्य	JJ	I-NP	O	नामों	NN	I-NP	O	से	PSP	I-NP	O	O
+
+जानी	VM	B-VGF	O	जाती	VAUX	I-VGF	O	थीं	VAUX	I-VGF	O	O
+
+जैसे	PSP	I-VGF	O	अरिकरी	NN	B-NP	O	(	SYM	B-NP	O	O
+
+चिनाब	NNP	I-NP	O	)	SYM	I-NP	O	पुरूष्णी	NNP	B-NP	O	O
+
+(	SYM	B-NP	O	रावी	NNPC	I-NP	O	)	SYM	I-NP	O	O
+
+,	SYM	I-NP	O	अरिजिकिया	NNP	B-NP	O	(	SYM	B-NP	O	O
+
+ब्यास	NNPC	I-NP	O	)	SYM	I-NP	O	तथा	CC	B-CCP	O	O
+
+शतदुई	NNP	B-NP	O	(	SYM	B-NP	O	सतलुज	NNPC	I-NP	O	O
+
+)	SYM	I-NP	O	पांचवी	NNP	B-NP	O	नदी	NN	I-NP	O	O
+
+यमुना	NNP	B-NP	O	जो	PRP	B-NP	O	यमुनोत्तरी	NNP	B-NP	O	O
+
+से	PSP	I-NP	O	निकलती	VM	B-VGF	O	है	VAUX	I-VGF	O	O
+
+उसका	PRP	B-NP	O	सूर्य	NN	I-NP	O	देव	NNP	B-NP	O	O
+
+से	PSP	I-NP	O	पौराणिक	JJ	B-NP	O	संबंध	NN	I-NP	O	O
+
+दर्शाया	VM	B-VGF	O	जाता	VAUX	I-VGF	O	है	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	मी	RP	B-BLK	O	O
+
+.	SYM	I-BLK	O	2004	NNP	B-NP	O	O
+
+]	SYM	I-NP	O	]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+मुख्य	JJ	B-NP	O	विशेषता	NN	I-NP	O	इसकी	PRP	B-NP	O	O
+
+दीप	NNPC	I-NP	O	-	SYM	I-NP	O	मालिका	NN	I-NP	O	O
+
+है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+इसे	PRP	B-NP	O	मानना	VM	B-VGNF	O	बहुत	INTF	B-NP	O	O
+
+कठिन	JJ	I-NP	O	होगा	VM	B-VGF	O	कि	CC	B-CCP	O	O
+
+मध्य	NNPC	B-NP	O	काल	NNP	I-NP	O	और	CC	B-CCP	O	O
+
+वर्तमान	JJ	B-NP	O	समय	NN	I-NP	O	के	PSP	I-NP	O	O
+
+आधुनिक	JJ	B-NP	O	विद्वान	NN	I-NP	O	सामोस	NNP	B-NP	O	O
+
+से	PSP	I-NP	O	इतने	QF	B-JJP	O	आकर्षक	JJ	I-JJP	O	O
+
+करिश्माई	NNP	B-NP	O	आंकडे	NN	I-NP	O	प्राप्त	JJ	B-JJP	O	O
+
+करेंगे	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+-	SYM	B-BLK	O	.	SYM	I-BLK	O	O
+
+.	SYM	B-BLK	O	5,009	NNP	B-NP	O	O
+
+.	SYM	I-NP	O	बिहार	NNP	B-NP	B-LOC	O
+
+की	PSP	I-NP	O	संस्कृति	NN	B-NP	O	मगध	NNP	B-NP	O	O
+
+,	SYM	I-NP	O	अंग	NN	B-NP	O	,	SYM	I-NP	O	O
+
+मिथिला	NNP	B-NP	O	तथा	CC	B-CCP	O	वज्जी	NNPC	B-NP	O	O
+
+संस्कृतियों	NN	I-NP	O	का	PSP	I-NP	O	मिश्रण	NN	B-NP	O	O
+
+है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+-	SYM	B-BLK	O	.	SYM	I-BLK	O	O
+
+यहां	PRP	B-NP	O	की	PSP	I-NP	O	चाय	NN	B-NP	O	O
+
+खेती	NN	B-NP	O	1800	QC	I-NP	O	की	PSP	I-NP	O	O
+
+मध्य	NST	I-NP	O	से	PSP	I-NP	O	सुरु	NN	B-NP	O	O
+
+हुवा	VM	B-VGF	O	था	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+प्रारंभ	NN	B-NP	O	में	PSP	I-NP	O	दार्जिलिंग	NNPC	B-NP	B-LOC	O
+
+सिक्किम	NNP	B-NP	B-LOC	का	PSP	I-NP	O	एक	QC	B-NP	O	O
+
+भाग	NN	I-NP	O	था	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+ईयर	NNC	B-NP	B-MISC	बुक	UNK	I-NP	I-MISC	मनोरमा	NNP	B-NP	B-MISC	O
+
+678	QC	I-NP	O	मुंबई	NNP	B-NP	B-LOC	की	PSP	I-NP	O	O
+
+प्रति	PSP	I-NP	O	-	SYM	I-NP	O	व्यक्ति	NN	I-NP	O	O
+
+आय	NN	B-NP	O	है	VM	B-VGF	O	,	SYM	I-VGF	O	O
+
+जो	PRP	B-NP	O	राष्ट्रीय	JJ	B-NP	O	औसत	NNPC	I-NP	O	O
+
+आय	NN	B-NP	O	की	PSP	I-NP	O	लगभग	RP	I-NP	O	O
+
+तीन	QC	B-NP	O	गुणा	NN	I-NP	O	है	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	लिंटन	NNPC	B-NP	B-LOC	O
+
+]	SYM	I-NP	O	]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+क्रमश	NNPC	B-NP	O	:	SYM	I-NP	O	101	QC	B-NP	O	O
+
+अनुमंडलों	NN	I-NP	O	,	SYM	I-NP	O	534	QC	B-NP	O	O
+
+प्रखंडों	NN	I-NP	O	,	SYM	I-NP	O	8,471	NNPC	B-NP	O	O
+
+पंचायतों	NN	I-NP	O	,	SYM	I-NP	O	45,103	NNP	B-NP	O	O
+
+गाँवों	NN	I-NP	O	में	PSP	I-NP	O	बाँटा	VM	B-VGF	O	O
+
+गया	VAUX	I-VGF	O	है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+'	SYM	I-BLK	O	अनुमानित	JJ	B-NP	O	%	SYM	I-NP	O	O
+
+'	SYM	I-NP	O	'	SYM	I-NP	O	'	SYM	I-NP	O	O
+
+.	SYM	I-NP	O	शायद	RB	B-RBP	O	O
+
+वह	PRP	B-NP	O	रात	NN	B-NP	O	उनके	PRP	I-NP	O	O
+
+प्यारभरे	JJ	B-NP	O	जीवन	NN	I-NP	O	की	PSP	I-NP	O	O
+
+सबसे	INTF	B-NP	O	सुन्दर	JJ	I-NP	O	रात	NN	I-NP	O	O
+
+थी	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+रोयल	NNPC	B-NP	O	खगोलविद	NNP	I-NP	O	]	SYM	I-NP	O	O
+
+]	SYM	I-NP	O	जॉन	NNPC	I-NP	B-PER	फ्लेमस्टीड	NNP	B-NP	I-PER	O
+
+को	PSP	I-NP	O	शत्रु	NN	B-NP	O	बना	VM	B-VGF	O	O
+
+लिया	VAUX	I-VGF	O	,	SYM	I-VGF	O	उन्होंने	PRP	B-NP	O	O
+
+फ्लेमस्टीड	NNP	B-NP	B-PER	की	PSP	I-NP	O	'	SYM	I-NP	O	O
+
+'	SYM	I-NP	O	हिस्टोरिका	NNPC	I-NP	O	कोलेस्तिस	NNPC	B-NP	O	O
+
+ब्रिटेनिका	NNP	I-NP	O	'	SYM	I-NP	O	'	SYM	I-NP	O	O
+
+को	PSP	I-NP	O	समय	NN	B-NP	O	से	PSP	I-NP	O	O
+
+पहले	NST	B-NP	O	ही	RP	I-NP	O	प्रकाशित	JJ	B-JJP	O	O
+
+करवा	VM	B-VGF	O	दिया	VAUX	I-VGF	O	,	SYM	I-VGF	O	O
+
+जिसे	PRP	B-NP	O	न्यूटन	NNP	B-NP	B-PER	ने	PSP	I-NP	O	O
+
+अपने	PRP	B-NP	O	अध्ययन	NN	I-NP	O	में	PSP	I-NP	O	O
+
+काम	NN	B-NP	O	में	PSP	I-NP	O	लिया	VM	B-VGF	O	O
+
+^	SYM	I-VGF	O	व्हाइट	NNPC	B-NP	B-PER	1997	NNP	I-NP	O	O
+
+,	SYM	I-NP	O	पी	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	जातिगत	JJ	B-NP	O	O
+
+आग्रह	NN	I-NP	O	के	PSP	I-NP	O	कारण	PSP	I-NP	O	O
+
+शत	NNC	B-NP	O	-	SYM	I-NP	O	प्रतिशत	NN	I-NP	O	O
+
+शादियाँ	NN	B-NP	O	माता	NNC	I-NP	O	-	SYM	I-NP	O	O
+
+पिता	NN	I-NP	O	या	CC	B-CCP	O	रिश्तेदारों	NN	B-NP	O	O
+
+द्वारा	PSP	I-NP	O	तय	JJ	B-NP	O	परिवार	NN	I-NP	O	O
+
+में	PSP	I-NP	O	ही	RP	I-NP	O	होता	VM	B-VGF	O	O
+
+है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	सोमेश्वर	NNPC	B-NP	O	O
+
+श्रेणी	NN	I-NP	O	के	PSP	I-NP	O	दक्षिण	NNP	B-NP	O	O
+
+में	PSP	I-NP	O	तराई	VM	B-VGNF	O	क्षेत्र	NN	B-NP	O	O
+
+है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+219,351	NNP	B-NP	O	.	SYM	I-NP	O	O
+
+एल	NNPC	B-NP	O	.	SYM	I-NP	O	O
+
+.	SYM	B-BLK	O	-	SYM	B-BLK	O	O
+
+.	SYM	I-BLK	O	शाकाहारी	JJ	B-JJP	O	O
+
+]	SYM	I-JJP	O	]	SYM	I-JJP	O	भोजन	NN	B-NP	O	O
+
+का	PSP	I-NP	O	अपना	PRP	B-NP	O	भोजन	NN	I-NP	O	O
+
+स्वीकार	NN	B-NP	O	किया	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+.	SYM	B-BLK	O	इस्लाम	NNP	B-NP	O	O
+
+के	PSP	I-NP	O	अनुसार	PSP	I-NP	O	मनुष्य	NN	B-NP	O	O
+
+अपने	PRP	B-NP	O	कुकर्मों	NN	I-NP	O	के	PSP	I-NP	O	O
+
+लिये	PSP	I-NP	O	स्वयं	PRP	B-NP	O	उत्तरदाई	NNP	B-NP	O	O
+
+इस	DEM	I-NP	O	लिये	VAUX	I-NP	O	है	VM	B-VGF	O	O
+
+क्योंकि	CC	B-CCP	O	उन्हें	PRP	B-NP	O	करने	VM	B-VGNN	O	O
+
+या	CC	B-CCP	O	न	NEG	B-VGNN	O	करने	VM	I-VGNN	O	O
+
+का	PSP	I-VGNN	O	निर्णय	NN	B-NP	O	ईश्वर	NNP	B-NP	O	O
+
+मनुष्य	NN	I-NP	O	को	PSP	I-NP	O	स्वयं	PRP	B-NP	O	O
+
+ही	RP	I-NP	O	लेने	VM	B-VGNF	O	देता	VM	B-VGF	O	O
+
+है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	कभी	PRP	B-NP	O	O
+
+-	SYM	I-NP	O	कभी	RDP	I-NP	O	दोस्तों	NN	B-NP	O	O
+
+,	SYM	I-NP	O	परिचितों	NN	B-NP	O	और	CC	B-CCP	O	O
+
+परिवार	NN	B-NP	O	के	PSP	I-NP	O	साथ	NST	I-NP	O	O
+
+भेंट	NNC	B-NP	O	-	SYM	I-NP	O	मुलाकात	NN	I-NP	O	O
+
+में	PSP	I-NP	O	इसकी	PRP	B-NP	O	वजह	NN	B-NP	O	O
+
+से	PSP	I-NP	O	काफी	QF	B-NP	O	मुश्किलें	NN	I-NP	O	O
+
+पैदा	JJ	B-JJP	O	होती	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+हिन्दुओं	NN	B-NP	O	को	PSP	I-NP	O	दबाने	VM	B-VGNN	O	O
+
+के	PSP	I-VGNN	O	लिए	PSP	I-VGNN	O	औरंगजेब	NNP	B-NP	B-PER	O
+
+ने	PSP	I-NP	O	अब्दुन्नवी	NNP	B-NP	O	नामक	JJ	B-JJP	O	O
+
+एक	QC	B-NP	O	कट्टर	JJ	I-NP	O	मुसलमान	NN	I-NP	O	O
+
+को	PSP	I-NP	O	मथुरा	NNP	B-NP	B-LOC	का	PSP	I-NP	O	O
+
+फौजदार	NN	B-NP	O	नियुक्त	JJ	B-JJP	O	किया	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	.	SYM	B-BLK	O	O
+
+का	PSP	I-NP	O	विकास	NN	B-NP	O	छः	QC	B-NP	O	O
+
+(	SYM	I-NP	O	पहले	NST	I-NP	O	पाँच	QC	B-NP	O	O
+
+सेवा	NNC	I-NP	O	-	SYM	I-NP	O	विकास	NN	I-NP	O	O
+
+सिद्धान्त	NNP	B-NP	O	के	PSP	I-NP	O	उपयोग	NN	B-NP	O	O
+
+से	PSP	I-NP	O	हुआ	VM	B-VGF	O	है	VAUX	I-VGF	O	O
+
+,	SYM	I-VGF	O	जो	PRP	B-NP	O	नोकिया	NNP	B-NP	O	O
+
+के	PSP	I-NP	O	जो	DEM	B-NP	O	बर्रेट	NN	I-NP	B-ORG	O
+
+और	CC	B-CCP	O	मोटोरोला	NNP	B-NP	B-ORG	के	PSP	I-NP	O	O
+
+पॉल	NNPC	B-NP	B-PER	गोल्डिंग	NNP	B-NP	B-PER	के	PSP	I-NP	O	O
+
+साथ	NST	I-NP	O	लेखक	NN	B-NP	O	टोमी	NNPC	I-NP	O	O
+
+अहोनेन	NNP	B-NP	O	के	PSP	I-NP	O	द्वारा	PSP	I-NP	O	O
+
+निर्मित	JJ	B-JJP	O	किया	VM	B-VGF	O	गया	VAUX	I-VGF	O	O
+
+था	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	331.8	NNP	B-NP	O	O
+
+.	SYM	I-NP	O	पोर्टलैंड	NNPC	B-NP	B-LOC	O
+
+]	SYM	I-NP	O	]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+10,154	NNP	B-NP	O	.	SYM	I-NP	O	O
+
+कोकीन	NNP	B-NP	O	का	PSP	I-NP	O	सेवन	NN	B-NP	O	O
+
+गर्भस्राव	NN	B-NP	O	की	PSP	I-NP	O	दरों	NN	B-NP	O	O
+
+को	PSP	I-NP	O	बढ़ाता	VM	B-VGNF	O	शारीरिक	JJ	B-NP	O	O
+
+आघात	NN	I-NP	O	,	SYM	I-NP	O	पर्यावरण	NN	B-NP	O	O
+
+के	PSP	I-NP	O	विषैले	JJ	B-NP	O	तत्वों	NN	I-NP	O	O
+
+के	PSP	I-NP	O	प्रभाव	NN	B-NP	O	और	CC	B-CCP	O	O
+
+गर्भधारण	NN	B-NP	O	के	PSP	I-NP	O	समय	PSP	I-NP	O	O
+
+आईयूडी	NNP	B-NP	O	का	PSP	I-NP	O	उपयोग	NN	B-NP	O	O
+
+करने	VM	B-VGNN	O	को	PSP	I-VGNN	O	भी	RP	I-VGNN	O	O
+
+गर्भस्राव	NN	B-NP	O	का	PSP	I-NP	O	जोखिम	NN	B-NP	O	O
+
+बढ़ाने	VM	B-VGNN	O	से	PSP	I-VGNN	O	जोड़ा	VM	B-VGF	O	O
+
+गया	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+दूर	NST	B-NP	O	धुंचे	NN	I-NP	O	से	PSP	I-NP	O	O
+
+गोसरई	NNP	B-NP	B-LOC	कुंड	NNP	B-NP	O	पहुंचना	VM	B-VGNF	O	O
+
+सबसे	INTF	B-NP	O	सही	JJ	I-NP	O	विकल्प	NN	I-NP	O	O
+
+है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	कलकत्ता	NN	B-NP	B-LOC	O
+
+से	PSP	I-NP	O	सिलीगुड़ी	NN	B-NP	B-LOC	के	PSP	I-NP	O	O
+
+लिए	PSP	I-NP	O	बहुत	QF	B-NP	O	सी	RP	I-NP	O	O
+
+सरकारी	JJ	B-JJP	O	और	CC	B-CCP	O	निजी	JJ	B-NP	O	O
+
+बसें	NN	I-NP	O	चलती	VM	B-VGF	O	है	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	इस	DEM	B-NP	O	O
+
+कारण	NN	I-NP	O	इन	DEM	B-NP	O	क्षेत्रों	NN	I-NP	O	O
+
+में	PSP	I-NP	O	चुनाव	NN	B-NP	O	प्रायः	NNC	B-NP	O	O
+
+गर्मियों	NN	I-NP	O	में	PSP	I-NP	O	करवाए	VM	B-VGF	O	O
+
+जाते	VAUX	I-VGF	O	हैं	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+'	SYM	B-NP	O	'	SYM	I-NP	O	क्लौबें	NN	I-NP	O	O
+
+,	SYM	I-NP	O	बी	NNP	B-NP	O	,	SYM	I-NP	O	O
+
+में	PSP	I-NP	O	.	SYM	I-NP	O	O
+
+.	SYM	B-BLK	O	-	SYM	B-BLK	O	O
+
+.	SYM	I-BLK	O	राज्य	NN	B-NP	O	O
+
+का	PSP	I-NP	O	क्षेत्रफल	NN	B-NP	O	3.42	QCC	B-NP	O	O
+
+लाख	QC	I-NP	O	वर्ग	NN	I-NP	O	कि	CC	B-CCP	O	O
+
+.	SYM	I-CCP	O	56,397	NNP	B-NP	O	O
+
+.	SYM	I-NP	O	जाली	NNPC	B-NP	O	O
+
+]	SYM	I-NP	O	]	SYM	I-NP	O	थे	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	.	SYM	B-BLK	O	O
+
+ज़बरदस्त	JJ	B-NP	O	]	SYM	I-NP	O	]	SYM	I-NP	O	O
+
+.	SYM	I-NP	O	.	SYM	B-BLK	O	O
+
+में	PSP	I-NP	O	पाया	VM	B-VGF	O	गया	VAUX	I-VGF	O	O
+
+कि	CC	B-CCP	O	25	QC	B-NP	O	वर्ष	NN	I-NP	O	O
+
+से	PSP	I-NP	O	कम	QF	B-NP	O	के	PSP	I-NP	O	O
+
+पुरुषों	NN	I-NP	O	से	PSP	I-NP	O	गर्भधारण	NN	B-NP	O	O
+
+में	PSP	I-NP	O	गर्भस्राव	NN	B-NP	O	की	PSP	I-NP	O	O
+
+संभावना	NN	B-NP	O	25	QC	B-NP	O	-	SYM	I-NP	O	O
+
+29	QC	I-NP	O	साल	NN	I-NP	O	के	PSP	I-NP	O	O
+
+पुरुषों	NN	B-NP	O	से	PSP	I-NP	O	गर्भधारण	NN	B-NP	O	O
+
+की	PSP	I-NP	O	तुलना	PSP	I-NP	O	में	PSP	I-NP	O	O
+
+40	QC	B-NP	O	%	SYM	I-NP	O	कम	QF	B-NP	O	O
+
+रहती	VM	B-VGF	O	है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+6	QC	B-BLK	O	.	SYM	I-BLK	O	O
+
+.	SYM	B-BLK	O	वास्तव	NN	B-NP	O	O
+
+में	PSP	I-NP	O	,	SYM	I-NP	O	यह	PRP	B-NP	O	O
+
+अर्थव्यवस्था	NN	B-NP	B-MISC	,	SYM	I-NP	O	राजव्यस्था	NNP	B-NP	B-MISC	O
+
+,	SYM	I-NP	O	विधि	NNC	B-NP	O	व्यवस्था	NN	I-NP	O	O
+
+,	SYM	I-NP	O	समाज	NNC	B-NP	O	व्यवस्था	NN	I-NP	O	O
+
+और	CC	B-CCP	O	धर्म	NNC	B-NP	O	व्यवस्था	NN	I-NP	O	O
+
+से	PSP	I-NP	O	संबंधित	JJ	B-NP	O	शास्त्र	NN	I-NP	O	O
+
+है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+झील	NN	B-NP	O	के	PSP	I-NP	O	चारों	QC	B-NP	O	O
+
+ओर	NST	I-NP	O	हरी	JJ	B-JJP	O	-	SYM	I-JJP	O	O
+
+भरी	VM	B-VGNF	O	पहाडियां	NN	B-NP	O	और	CC	B-CCP	O	O
+
+आसमान	NN	B-NP	O	में	PSP	I-NP	O	सफेद	JJ	B-NP	O	O
+
+बादल	NN	I-NP	O	मनोरम	NNP	B-NP	O	दृश्य	NN	I-NP	O	O
+
+प्रस्तुत	JJ	B-JJP	O	करते	VM	B-VGF	O	हैं	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	इस	DEM	B-NP	O	O
+
+समझौते	NN	I-NP	O	के	PSP	I-NP	O	परिणामस्वरूप	PSP	I-NP	O	O
+
+गांधी	NNP	B-NP	O	को	PSP	I-NP	O	भारतीय	NNPC	B-NP	B-ORG	B-PER
+
+राष्ट्रीय	NNPC	I-NP	I-ORG	कांग्रेस	NNP	B-NP	I-ORG	के	PSP	I-NP	O	O
+
+एकमात्र	JJ	B-NP	O	प्रतिनिधि	NN	I-NP	O	के	PSP	I-NP	O	O
+
+रूप	PSP	I-NP	O	में	PSP	I-NP	O	लंदन	NNP	B-NP	B-LOC	O
+
+में	PSP	I-NP	O	आयोजित	JJ	B-JJP	O	होने	VM	B-VGNN	O	O
+
+वाले	PSP	I-VGNN	O	गोलमेज	NNC	B-NP	O	सम्मेलन	NN	I-NP	O	O
+
+में	PSP	I-NP	O	भाग	NN	B-NP	O	लेने	VM	B-VGNN	O	O
+
+के	PSP	I-VGNN	O	लिए	PSP	I-VGNN	O	आमंत्रित	JJ	B-JJP	O	O
+
+किया	VM	B-VGF	O	गया	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+784,055	NNP	B-NP	O	.	SYM	I-NP	O	O
+
+.	SYM	B-BLK	O	अमीनो	NNPC	B-NP	O	O
+
+एसिड	NNP	I-NP	O	,	SYM	I-NP	O	साइट्रेट	NNC	B-NP	O	O
+
+एंजाइम	NNPC	I-NP	O	फ्लेविंस	NNP	I-NP	O	,	SYM	I-NP	O	O
+
+फ्रुटोज	NNPC	B-NP	O	(	SYM	B-NP	O	शुक्राणु	NNP	I-NP	O	O
+
+कोशिकाओं	NN	I-NP	O	के	PSP	I-NP	O	ऊर्जा	NN	B-NP	O	O
+
+के	PSP	I-NP	O	मुख्य	JJ	B-NP	O	स्रोत	NN	I-NP	O	O
+
+,	SYM	I-NP	O	जो	PRP	B-NP	O	ऊर्जा	NN	B-NP	O	O
+
+के	PSP	I-NP	O	लिए	PSP	I-NP	O	वीर्य	JJC	B-NP	O	O
+
+संबंधी	JJ	I-NP	O	प्लाजमा	NNP	I-NP	O	से	PSP	I-NP	O	O
+
+पूरी	JJ	B-NP	O	तरह	NN	I-NP	O	से	PSP	I-NP	O	O
+
+शर्करा	NN	B-NP	O	पर	PSP	I-NP	O	आश्रित	JJ	B-JJP	O	O
+
+है	VM	B-VGF	O	)	SYM	I-VGF	O	,	SYM	I-VGF	O	O
+
+फास्फोरलकोलाइन	NN	B-NP	O	,	SYM	I-NP	O	प्रोस्टाग्लेडिन्स	NNC	B-NP	O	O
+
+(	SYM	B-NP	O	महिला	NN	I-NP	O	द्वारा	PSP	I-NP	O	O
+
+प्रतिरक्षा	NN	B-NP	O	प्रतिक्रिया	NN	B-NP	O	में	PSP	I-NP	O	O
+
+बाहरी	JJ	B-NP	O	वीर्य	NN	I-NP	O	को	PSP	I-NP	O	O
+
+दबाने	VM	B-VGNN	O	से	PSP	I-VGNN	O	जुड़ा	VM	B-VGF	O	O
+
+हुआ	VAUX	I-VGF	O	है	VAUX	I-VGF	O	)	SYM	I-VGF	O	O
+
+,	SYM	I-VGF	O	प्रोटीन	NN	B-NP	O	और	CC	B-CCP	O	O
+
+विटामिन	NN	B-NP	O	सी	RP	I-NP	O	.	SYM	I-NP	O	O
+
+वर्षों	NN	I-NP	O	तक	PSP	I-NP	O	इस	DEM	B-NP	O	O
+
+संस्‍थान	NN	I-NP	O	के	PSP	I-NP	O	निदेशक	NN	B-NP	O	O
+
+रहे	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	1986	NNP	B-NP	O	O
+
+]	SYM	I-NP	O	]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+जाने	VM	B-VGNN	O	वाले	PSP	I-VGNN	O	हिमशिखर	NNPC	B-NP	B-LOC	O
+
+मे	PSP	I-NP	O	अन्नपूर्णा	NNP	B-NP	B-PER	(	SYM	B-NP	O	O
+
+1,2	QC	I-NP	O	,	SYM	I-NP	O	3,4	QC	I-NP	O	O
+
+)	SYM	I-NP	O	अन्नपूर्णा	NNP	B-NP	B-PER	श्रृंखलामे	NN	B-NP	O	O
+
+पडता	VM	B-VGNF	O	है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+21,131	NNP	B-NP	O	.	SYM	I-NP	O	O
+
+इसने	PRP	B-NP	O	दैनिक	JJ	B-NP	O	जीवन	NN	I-NP	O	O
+
+में	PSP	I-NP	O	लोगों	NN	B-NP	O	के	PSP	I-NP	O	O
+
+सामान्य	JJ	B-NP	O	आपसी	JJ	I-NP	O	संबंधों	NN	I-NP	O	O
+
+पर	PSP	I-NP	O	स्थाई	JJ	B-NP	O	प्रभाव	NN	I-NP	O	O
+
+डाला	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+वे	PRP	B-NP	O	सेल	NNC	B-NP	B-MISC	फोन	NN	I-NP	I-MISC	O
+
+जो	PRP	B-NP	O	सिम	NNC	B-NP	O	कार्ड	NN	I-NP	O	O
+
+का	PSP	I-NP	O	उपयोग	NN	B-NP	O	नहीं	NEG	B-VGF	O	O
+
+करते	VM	I-VGF	O	हैं	VAUX	I-VGF	O	,	SYM	I-VGF	O	O
+
+उनकी	PRP	B-NP	O	मेमोरी	NN	I-NP	O	में	PSP	I-NP	O	O
+
+डेटा	NNPC	B-NP	O	क्रमादेशित	JJ	B-JJP	O	होता	VM	B-VGF	O	O
+
+है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+जो	PRP	B-NP	O	आगे	NST	B-NP	O	चलकर	VM	B-VGNF	O	O
+
+भारतीय	JJ	B-NP	O	इतिहास	NN	I-NP	O	में	PSP	I-NP	O	O
+
+महान	NN	B-NP	O	हिन्दू	JJ	B-NP	O	सम्राट	NN	I-NP	B-PER	O
+
+पृथ्वीराज	NNPC	B-NP	O	चौहान	NNP	I-NP	O	के	PSP	I-NP	O	B-PER
+
+नाम	NN	B-NP	O	से	PSP	I-NP	O	प्रसिद्ध	JJ	B-JJP	O	O
+
+हुआ	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+परन्तु	CC	B-CCP	O	प्रगतिशील	JJ	B-NP	O	राष्ट्रीय	NNPC	I-NP	O	O
+
+काव्य	NNPC	I-NP	O	धारा	NNP	B-NP	O	ने	PSP	I-NP	O	O
+
+नयी	JJ	B-NP	O	ऊष्मा	NNPC	I-NP	O	एवं	CC	B-CCP	O	O
+
+नयी	JJ	B-NP	O	ऊर्जा	NN	I-NP	O	से	PSP	I-NP	O	O
+
+स्फूर्त	JJ	B-JJP	O	होकर	VM	B-VGNF	O	अपनी	PRP	B-NP	O	O
+
+लेखनी	NN	I-NP	O	थाम	VM	B-VGF	O	ली	VAUX	I-VGF	O	O
+
+है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+इनमें	PRP	B-NP	O	956	QC	B-NP	O	बनी	VM	B-VGF	O	O
+
+हुई	VAUX	I-VGF	O	हैं	VAUX	I-VGF	O	,	SYM	I-VGF	O	O
+
+और	CC	B-CCP	O	272	QC	B-JJP	O	निर्माणाधीन	JJ	I-JJP	O	O
+
+हैं	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+यह	DEM	B-NP	O	मंदिर	NN	I-NP	B-LOC	मध्यकालीन	NNPC	I-NP	I-LOC	O
+
+उड़िया	NNP	B-NP	O	संस्कृति	NN	I-NP	O	के	PSP	I-NP	O	B-LOC
+
+उत्कृष्ट	JJ	B-NP	O	उदाहरणों	NN	I-NP	O	में	PSP	I-NP	O	O
+
+से	PSP	I-NP	O	एक	QC	B-NP	O	है	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	समकालीन	JJ	B-NP	O	O
+
+गणितज्ञों	NN	I-NP	O	द्वारा	PSP	I-NP	O	प्रयुक्त	JJ	B-NP	O	O
+
+'	SYM	I-NP	O	केरल	NNPC	I-NP	B-LOC	स्कूल	NNPC	I-NP	O	O
+
+ऑफ	NNPC	B-NP	O	मैथमेटिक्स	NNP	I-NP	O	'	SYM	I-NP	O	O
+
+शब्द	NN	I-NP	O	इसका	PRP	B-NP	O	प्रमाण	NN	I-NP	O	O
+
+है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+टी	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	2007	NNP	B-NP	O	O
+
+भाड़े	NN	B-NP	O	पर	PSP	I-NP	O	उपलब्ध	JJ	B-NP	O	O
+
+यांत्रिक	JJ	I-NP	O	यातायात	NN	I-NP	O	में	PSP	I-NP	O	O
+
+पीली	JJ	B-NP	O	मीटर	NN	I-NP	O	-	SYM	I-NP	O	O
+
+टैक्सी	NN	I-NP	O	और	CC	B-CCP	O	ऑटो	NNC	B-NP	O	O
+
+-	SYM	I-NP	O	रिक्शॉ	NN	I-NP	O	हैं	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	.	SYM	B-BLK	O	O
+
+हज़ारों	QC	B-NP	O	मुसलमान	NN	I-NP	O	और	CC	B-CCP	O	O
+
+हिन्दू	JJ	B-NP	O	श्रद्धांजलि	NN	I-NP	O	देने	VM	B-VGNF	O	O
+
+आते	VM	B-VGF	O	हैं	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+पटना	NNP	B-NP	B-LOC	में	PSP	I-NP	O	एक	QC	B-NP	O	B-LOC
+
+भारतीय	JJ	I-NP	O	प्राद्यौगिकी	NN	I-NP	O	संस्थान	NNP	B-NP	O	O
+
+और	CC	B-CCP	O	राष्ट्रीय	NNPC	B-NP	O	प्राद्यौगिकी	NNPC	I-NP	O	O
+
+संस्थान	NNP	B-NP	O	तथा	CC	B-CCP	O	हाजीपुर	NNP	B-NP	B-LOC	O
+
+में	PSP	I-NP	O	केंद्रीय	JJ	B-NP	B-ORG	प्लास्टिक	NNPC	I-NP	I-ORG	O
+
+इंजिनियरिंग	NNPC	I-NP	I-ORG	रिसर्च	NNPC	B-NP	I-ORG	इंस्टीच्युट	NNP	I-NP	I-ORG	O
+
+तथा	CC	B-CCP	O	केंद्रीय	NNPC	B-NP	B-ORG	औषधीय	NNPC	I-NP	I-ORG	O
+
+शिक्षा	NNPC	I-NP	I-ORG	एवं	CC	B-CCP	O	शोध	NNC	B-NP	O	O
+
+संस्थान	NN	B-NP	O	खोला	VM	B-VGF	O	गया	VAUX	I-VGF	O	O
+
+है	VAUX	I-VGF	O	,	SYM	I-VGF	O	जो	PRP	B-NP	O	O
+
+अच्छा	JJ	B-NP	O	संकेत	NN	I-NP	O	है	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	*	SYM	B-NP	O	O
+
+*	NNP	I-NP	O	के	PSP	I-NP	O	.	SYM	I-NP	O	O
+
+अवसर	NN	B-NP	O	पर	PSP	I-NP	O	यहाँ	PRP	B-NP	O	O
+
+दुनिया	NN	B-NP	O	भर	RP	I-NP	O	से	PSP	I-NP	O	O
+
+हिंदू	NN	B-NP	O	आकर	VM	B-VGNF	O	फल्गू	NNP	B-NP	O	O
+
+नदी	NN	I-NP	O	किनारे	NN	B-NP	O	पितरों	NN	B-NP	O	O
+
+को	PSP	I-NP	O	तर्पण	NN	B-NP	O	करते	VM	B-VGF	O	O
+
+हैं	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+बाद	NST	B-NP	O	में	PSP	I-NP	O	भूटान	NN	B-NP	B-LOC	O
+
+ने	PSP	I-NP	O	इस	PRP	B-NP	O	पर	PSP	I-NP	O	O
+
+कब्‍जा	NN	B-NP	O	कर	VM	B-VGF	O	लिया	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	44.	NNPC	B-NP	O	O
+
+सेन्ट्रल	NNPC	I-NP	B-LOC	मार्केट	NNP	I-NP	I-LOC	,	SYM	I-NP	O	O
+
+सोजती	NNPC	B-NP	B-LOC	गेट	NNP	I-NP	I-LOC	,	SYM	I-NP	O	O
+
+स्टेशन	NNC	B-NP	B-LOC	रोड़	NN	I-NP	I-LOC	,	SYM	I-NP	O	O
+
+सरदार	NNC	B-NP	B-LOC	मार्केट	NN	I-NP	I-LOC	,	SYM	I-NP	O	O
+
+त्रिपोलिया	NNPC	B-NP	B-LOC	बाजार	NN	I-NP	I-LOC	,	SYM	I-NP	O	O
+
+मोची	NNPC	B-NP	B-LOC	बाजार	NN	I-NP	I-LOC	,	SYM	I-NP	O	O
+
+लखेरा	NNPC	B-NP	B-LOC	बाजार	NN	I-NP	I-LOC	,	SYM	I-NP	O	O
+
+जोधपुर	NNP	B-NP	B-LOC	में	PSP	I-NP	O	कुछ	QF	B-NP	O	B-LOC
+
+सबसे	INTF	I-NP	O	अच्छे	JJ	I-NP	O	खरीददारी	NN	I-NP	O	O
+
+स्थानों	NN	B-NP	O	में	PSP	I-NP	O	हैं	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	-	SYM	B-BLK	O	O
+
+.	SYM	I-BLK	O	.	SYM	B-BLK	O	O
+
+]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+वे	PRP	B-NP	O	ईसाई	NNPC	B-NP	O	धर्म	NN	I-NP	O	O
+
+के	PSP	I-NP	O	अछूत	JJ	B-JJP	O	रहे	VM	B-VGF	O	O
+
+हैं	VAUX	I-VGF	O	पर	CC	B-CCP	O	मेरी	PRP	B-NP	O	O
+
+सहानुभूति	NN	I-NP	O	मुझे	PRP	B-NP	O	न्याय	NN	B-NP	O	O
+
+की	PSP	I-NP	O	आवश्यकता	NN	B-NP	O	से	PSP	I-NP	O	O
+
+विवेकशून्य	JJ	B-JJP	O	नही	NEG	B-VGNF	O	करती	VM	I-VGNF	O	O
+
+यहूदियों	NN	B-NP	O	के	PSP	I-NP	O	लिए	PSP	I-NP	O	O
+
+एक	QC	B-NP	O	राष्ट्र	NN	I-NP	O	की	PSP	I-NP	O	O
+
+दुहाई	NN	B-NP	O	मुझे	PRP	B-NP	O	ज्यादा	QF	B-JJP	O	O
+
+आकर्षित	JJ	I-JJP	O	नही	NEG	B-VGF	O	करती	VM	I-VGF	O	O
+
+.	SYM	I-VGF	O	.	SYM	B-BLK	O	O
+
+.	SYM	B-BLK	O	शिवाजीराव	NN	B-NP	B-PER	O
+
+भंडारकर	VM	B-VGF	B-PER	.	SYM	I-VGF	O	O
+
+1984	NNP	B-NP	O	]	SYM	I-NP	O	]	SYM	I-NP	O	O
+
+.	SYM	I-NP	O	मोबाइल	NNC	B-NP	O	O
+
+समाचार	NNC	I-NP	O	]	SYM	I-NP	O	]	SYM	I-NP	O	O
+
+सेवाएँ	NN	I-NP	O	कई	QF	B-NP	O	संगठनों	NN	I-NP	O	O
+
+के	PSP	I-NP	O	साथ	NST	I-NP	O	से	PSP	I-NP	O	O
+
+समाचार	NNC	B-NP	O	सेवाओं	NN	I-NP	O	के	PSP	I-NP	O	O
+
+द्वारा	PSP	I-NP	O	बड़	VM	B-VGF	O	रहे	VAUX	I-VGF	O	O
+
+हैं	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	पंडित	NNC	B-NP	B-PER	O
+
+बाबूलालजी	NNPC	I-NP	O	शास्‍त्री	NNP	B-NP	O	के	PSP	I-NP	O	O
+
+जमाने	NN	B-NP	O	में	PSP	I-NP	O	बीकानेर	NNP	B-NP	B-LOC	O
+
+में	PSP	I-NP	O	ज्‍योतिष	NNPC	B-NP	O	विद्या	NN	I-NP	O	O
+
+ने	PSP	I-NP	O	नई	JJ	B-NP	O	ऊंचाइयों	NN	I-NP	O	O
+
+को	PSP	I-NP	O	देखा	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+107,789	NNP	B-NP	O	.	SYM	I-NP	O	O
+
+मूल	JJ	B-NP	O	वृक्ष	NN	I-NP	O	का	PSP	I-NP	O	O
+
+वंशज	NN	B-NP	O	ट्रिनिटी	NNPC	B-NP	B-ORG	कॉलेज	NNP	I-NP	I-ORG	O
+
+,	SYM	I-NP	I-ORG	कैम्ब्रिज	NNP	B-NP	I-ORG	के	PSP	I-NP	O	O
+
+मुख्य	JJ	B-NP	O	द्वार	NN	I-NP	O	के	PSP	I-NP	O	O
+
+बाहर	NST	B-NP	O	उगा	VM	B-VGNF	O	हुआ	VM	B-VGNF	O	O
+
+देखा	VM	B-VGF	O	जा	VAUX	I-VGF	O	सकता	VAUX	I-VGF	O	O
+
+है	VAUX	I-VGF	O	,	SYM	I-VGF	O	यह	PRP	B-NP	O	O
+
+उस	DEM	B-NP	O	कमरे	NN	I-NP	O	के	PSP	I-NP	O	O
+
+नीचे	NST	I-NP	O	है	VM	B-VGF	O	जिसमें	PRP	B-NP	O	O
+
+न्यूटन	NNPC	B-NP	B-PER	पढाई	NN	I-NP	O	के	PSP	I-NP	O	B-PER
+
+समय	PSP	I-NP	O	रहता	VM	B-VGF	O	था	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	1990	NNP	B-NP	O	O
+
+]	SYM	I-NP	O	]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+-	SYM	B-BLK	O	.	SYM	I-BLK	O	O
+
+इस	DEM	B-NP	O	मठ	NN	I-NP	O	का	PSP	I-NP	O	O
+
+निर्माण	NN	B-NP	O	कार्य	NN	B-NP	O	1914	NNP	B-NP	O	O
+
+ई.	NN	I-NP	O	में	PSP	I-NP	O	पूरा	JJ	B-JJP	O	O
+
+हुआ	VM	B-VGF	O	था	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+'	SYM	B-BLK	O	'	SYM	I-BLK	O	महात्मा	NNPC	B-NP	B-PER	O
+
+गाँधी	NNP	I-NP	I-PER	:	SYM	I-NP	O	चुनिन्दा	JJ	B-NP	O	B-PER
+
+राजनैतिक	JJ	I-NP	O	लेख	NN	I-NP	O	'	SYM	I-NP	O	O
+
+'	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+यहां	PRP	B-NP	O	लगभग	RP	I-NP	O	30,000	QCC	B-NP	O	O
+
+हजार	QC	I-NP	O	लोगों	NN	I-NP	O	तक	PSP	I-NP	O	O
+
+की	PSP	I-NP	O	भीड़	NN	B-NP	O	इकठ्ठा	JJ	B-JJP	O	O
+
+होती	VM	B-VGF	O	है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	.	SYM	B-BLK	O	O
+
+तौर	NN	I-NP	O	पर	PSP	I-NP	O	साड़ी	NN	B-NP	O	O
+
+पहनने	VM	B-VGNN	O	की	PSP	I-VGNN	O	एक	QC	B-NP	O	O
+
+विशेष	JJ	I-NP	O	शैली	NN	I-NP	O	होती	VM	B-VGF	O	O
+
+है	VAUX	I-VGF	O	,	SYM	I-VGF	O	जो	PRP	B-NP	O	O
+
+खास	JJ	B-NP	O	बंगाली	JJ	I-NP	O	पहचान	NN	I-NP	O	O
+
+है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+नेपालकी	NNP	B-NP	O	शिक्षा	NN	B-NP	O	का	PSP	I-NP	O	O
+
+सबसे	INTF	B-NP	O	मुख्य	JJ	I-NP	O	योजनाकार	NN	I-NP	O	O
+
+शिक्षामन्त्रालय	NN	B-NP	B-ORG	है	VM	B-VGF	O	उसके	PRP	B-NP	O	O
+
+अलावा	PSP	I-NP	O	शिक्षा	NNC	B-NP	O	विभाग	NN	I-NP	O	O
+
+,	SYM	I-NP	O	पाँच	QC	B-NP	O	क्षेत्रीय	JJ	I-NP	O	O
+
+शिक्षा	NNPC	I-NP	O	निदेशालय	NNP	B-NP	B-PER	,	SYM	I-NP	O	O
+
+पचहतर	QC	B-NP	O	जिल्ला	NNC	I-NP	B-ORG	शिक्षा	NNC	I-NP	I-ORG	O
+
+कार्यालय	NN	I-NP	I-ORG	,	SYM	I-NP	O	परीक्षा	NNC	B-NP	B-ORG	O
+
+नियन्त्रण	NNC	I-NP	I-ORG	कार्यालय	NN	I-NP	I-ORG	सानोठिमी	NNP	B-NP	O	O
+
+,	SYM	I-NP	O	उच्चमाध्यामिक	JJ	B-NP	O	शिक्षा	NN	I-NP	O	O
+
+परिषद्	NNP	B-NP	O	,	SYM	I-NP	O	पाठ्यक्रम	NNPC	B-NP	O	O
+
+विकास	NNPC	I-NP	O	केन्द्र	NNP	B-NP	O	,	SYM	I-NP	O	O
+
+विभिन्न	JJ	B-NP	O	विश्वविद्यालयों	NN	I-NP	O	के	PSP	I-NP	O	O
+
+परीक्षा	NN	B-NP	O	नियन्त्रण	NNC	B-NP	B-ORG	कार्यालय	NN	I-NP	I-ORG	O
+
+नेपालकी	NNPC	B-NP	O	शिक्षाका	NNPC	I-NP	O	विकास	NNPC	I-NP	O	O
+
+विस्तार	NNP	B-NP	O	तथा	CC	B-CCP	O	नियन्त्रणके	NNC	B-NP	B-LOC	O
+
+क्षेत्र	NN	I-NP	I-LOC	में	PSP	I-NP	O	कार्यरत	JJ	B-JJP	O	O
+
+हैं	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+36.	NNPC	B-NP	O	मेहरानगढ़	NNP	I-NP	B-LOC	दुर्ग	NN	B-NP	O	O
+
+के	PSP	I-NP	O	सात	QC	B-NP	O	दरवाजे	NN	I-NP	O	O
+
+हैं	VM	B-VGF	O	औऱ	CC	B-CCP	O	शहर	NN	B-NP	O	O
+
+का	PSP	I-NP	O	अद्भुत	JJ	B-NP	O	दृश्य	NN	I-NP	O	O
+
+प्रस्तुत	JJ	B-JJP	O	करते	VM	B-VGF	O	हैं	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	.	SYM	B-BLK	O	O
+
+छोटा	JJ	I-NP	O	सा	RP	I-NP	O	नगर	NNP	I-NP	O	O
+
+अपनी	PRP	B-NP	O	बेजोड	JJ	I-NP	O	किलेबंदी	NN	I-NP	O	O
+
+,	SYM	I-NP	O	अत्यधिक	JJ	B-NP	O	सुंदर	JJ	I-NP	O	O
+
+बगीचों	NN	I-NP	O	,	SYM	I-NP	O	भव्य	JJ	B-NP	O	O
+
+महलों	NN	I-NP	O	व	CC	B-CCP	O	रंगीन	JJ	B-NP	O	O
+
+बाजारों	NN	I-NP	O	से	PSP	I-NP	O	भरा	VM	B-VGNF	O	O
+
+हुआ	VM	B-VGF	O	है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+कंप्यूटर	NNC	B-NP	O	खेल	NN	I-NP	O	में	PSP	I-NP	O	O
+
+,	SYM	I-NP	O	पाठक	NNC	B-NP	O	खुद	PRP	I-NP	O	O
+
+को	PSP	I-NP	O	कहानी	NN	B-NP	O	में	PSP	I-NP	O	O
+
+पहले	QO	B-NP	O	व्यक्ति	NN	I-NP	O	में	PSP	I-NP	O	O
+
+रख	VM	B-VGF	O	सकते	VAUX	I-VGF	O	हैं	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	.	SYM	B-BLK	O	O
+
+]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+बुनियादी	JJ	B-NP	O	स्‍तर	NN	I-NP	O	पर	PSP	I-NP	O	O
+
+स्‍थानीय	JJ	B-NP	O	समाचारों	NN	I-NP	O	/	SYM	I-NP	O	O
+
+समाचारों	NN	B-NP	O	के	PSP	I-NP	O	महत्‍व	NN	B-NP	O	O
+
+को	PSP	I-NP	O	समझते	VM	B-VGNF	O	हुए	VAUX	I-VGNF	O	O
+
+एनएसडी	NNP	B-NP	O	द्वारा	PSP	I-NP	O	देश	NN	B-NP	O	O
+
+के	PSP	I-NP	O	प्रत्‍येक	NN	B-NP	O	जिला	NNC	B-NP	O	O
+
+मुख्‍यालय	NN	I-NP	O	में	PSP	I-NP	O	अंशकालिक	JJ	B-NP	O	O
+
+संवाददाताओं	NN	I-NP	O	की	PSP	I-NP	O	नियुक्ति	NN	B-NP	O	O
+
+की	VM	B-VGF	O	गई	VAUX	I-VGF	O	है	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	यूनियन	NNP	B-NP	B-LOC	O
+
+शहर	NN	I-NP	I-LOC	]	SYM	I-NP	O	]	SYM	I-NP	O	O
+
+.	SYM	I-NP	O	अप्रैल	NNP	B-NP	O	O
+
+में	PSP	I-NP	O	गृष्म	NNPC	B-NP	O	ऋतु	NNP	I-NP	O	O
+
+का	PSP	I-NP	O	आरंभ	NN	B-NP	O	होता	VM	B-VGF	O	O
+
+है	VAUX	I-VGF	O	जो	PRP	B-NP	O	जुलाई	NNP	B-NP	O	O
+
+के	PSP	I-NP	O	मध्य	NN	B-NP	O	तक	PSP	I-NP	O	O
+
+रहता	VM	B-VGF	O	है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+]	SYM	I-NP	O	]	SYM	I-NP	O	जो	PRP	I-NP	O	O
+
+वूलस्थ्रोप	NNC	B-NP	O	मेनर	NNP	I-NP	O	का	PSP	I-NP	O	O
+
+मालिक	NN	B-NP	O	है	VM	B-VGF	O	,	SYM	I-VGF	O	O
+
+का	PSP	B-FRAGP	O	वर्तमान	NN	B-NP	O	स्टाफ	NN	B-NP	O	O
+
+इस	PRP	B-NP	O	पर	PSP	I-NP	O	विवाद	NN	B-NP	O	O
+
+करता	VM	B-VGF	O	है	VAUX	I-VGF	O	,	SYM	I-VGF	O	O
+
+ओर	NST	B-NP	O	दावा	NN	B-NP	O	करता	VM	B-VGF	O	O
+
+है	VAUX	I-VGF	O	कि	CC	B-CCP	O	वह	PRP	B-NP	O	O
+
+पेड़	NN	B-NP	O	उनके	PRP	B-NP	O	बगीचे	NN	I-NP	O	O
+
+में	PSP	I-NP	O	उपस्थित	JJ	B-JJP	O	है	VM	B-VGF	O	O
+
+जिस	PRP	B-NP	O	के	PSP	I-NP	O	बारे	PSP	I-NP	O	O
+
+में	PSP	I-NP	O	न्यूटन	NNP	B-NP	B-PER	ने	PSP	I-NP	O	O
+
+बात	NN	B-NP	O	की	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+आँखें	NN	B-NP	O	बंद	JJ	B-JJP	O	करली	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	भरतपुर	NNPC	B-NP	B-LOC	O
+
+राज्य	NN	I-NP	O	के	PSP	I-NP	O	भवनों	NN	B-NP	O	O
+
+की	PSP	I-NP	O	19	QC	B-NP	O	वीं	NNPC	I-NP	O	O
+
+सदी	NNP	B-NP	O	में	PSP	I-NP	O	देखभाल	NN	B-NP	O	O
+
+करने	VM	B-VGNN	O	वाले	PSP	I-VGNN	O	अभियंता	NN	B-NP	O	O
+
+'	SYM	I-NP	O	'	SYM	I-NP	O	'	SYM	I-NP	O	O
+
+श्री	NNPC	I-NP	O	जे	VAUX	I-NP	O	.	SYM	I-NP	O	O
+
+महिला	NN	I-NP	O	डेविड	NNP	B-NP	B-PER	.	SYM	I-NP	O	O
+
+छायादार	NN	B-NP	O	पेड़	NN	B-NP	O	लगे	VAUX	B-VGF	O	O
+
+हैं	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+अपने	PRP	B-NP	O	इस	DEM	B-NP	O	निर्णय	NN	I-NP	O	O
+
+को	PSP	I-NP	O	मूर्त	JJ	B-NP	O	रूप	NN	I-NP	O	O
+
+देने	VM	B-VGNN	O	के	PSP	I-VGNN	O	लिए	PSP	I-VGNN	O	O
+
+पृथ्वीराज	NNP	B-NP	B-PER	एक	QC	B-NP	O	विशाल	JJ	I-NP	O	B-PER
+
+सेना	NN	I-NP	O	लेकर	VM	B-VGNF	O	पंजाब	NNP	B-NP	B-LOC	O
+
+की	PSP	I-NP	O	और	CC	B-CCP	O	रवाना	JJ	B-JJP	O	O
+
+हो	VM	B-VGF	O	गया	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+दूरदर्शन	NN	B-NP	O	समाचारों	NN	B-NP	O	की	PSP	I-NP	O	O
+
+आवश्‍यकताओं	NN	B-NP	O	की	PSP	I-NP	O	पूर्ति	NN	B-NP	O	O
+
+के	PSP	I-NP	O	लिए	PSP	I-NP	O	विश्‍व	NN	B-NP	O	O
+
+भर	RP	I-NP	O	में	PSP	I-NP	O	महत्‍वपूर्ण	JJ	B-NP	O	O
+
+समाचार	NNC	I-NP	O	केन्‍द्रों	NN	I-NP	O	पर	PSP	I-NP	O	O
+
+स्ट्रिंजर	NN	B-NP	O	की	PSP	I-NP	O	नियुक्ति	NN	B-NP	O	O
+
+का	PSP	I-NP	O	प्रस्‍ताव	NN	B-NP	O	है	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	19,463	NNP	B-NP	O	O
+
+.	SYM	I-NP	O	-	SYM	B-BLK	O	O
+
+.	SYM	I-BLK	O	उपवास	NN	B-NP	O	O
+
+के	PSP	I-NP	O	बारे	PSP	I-NP	O	में	PSP	I-NP	O	O
+
+मुख्य	JJ	B-NP	O	लेख	NN	I-NP	O	:	SYM	I-NP	O	O
+
+जन्माष्टमी	NN	B-NP	O	व्रत	NNPC	B-NP	O	कथा	NN	I-NP	O	O
+
+अष्टमी	JJ	B-JJP	O	दो	QC	B-NP	O	प्रकार	NN	I-NP	O	O
+
+की	PSP	I-NP	O	है	VAUX	B-NP	O	-	SYM	I-NP	O	O
+
+पहली	QO	B-NP	O	जन्माष्टमी	NN	I-NP	O	और	CC	B-CCP	O	O
+
+दूसरी	QO	B-NP	O	जयंती	NN	I-NP	O	.	SYM	I-NP	O	O
+
+यहां	PRP	B-NP	O	से	PSP	I-NP	O	आगे	NST	B-NP	O	O
+
+की	PSP	I-NP	O	यात्रा	NN	B-NP	O	आप	PRP	B-NP	O	O
+
+टैक्सी	NN	B-NP	O	द्वारा	PSP	I-NP	O	कर	VM	B-VGF	O	O
+
+सकते	VAUX	I-VGF	O	हैं	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+संक्रमित	JJ	B-JJP	O	हो	VM	B-VGF	O	जाता	VAUX	I-VGF	O	O
+
+है	VAUX	I-VGF	O	,	SYM	I-VGF	O	तो	CC	B-CCP	O	O
+
+नये	JJ	B-NP	O	संक्रमित	JJ	I-NP	O	व्यक्ति	NN	I-NP	O	O
+
+को	PSP	I-NP	O	दूसरे	QO	B-NP	O	व्यक्ति	NN	I-NP	O	O
+
+तक	PSP	I-NP	O	संक्रमण	NN	B-NP	O	पहुंचाने	VM	B-VGNN	O	O
+
+लायक	JJ	B-JJP	O	बनने	VM	B-VGNN	O	में	PSP	I-VGNN	O	O
+
+आम	JJ	B-NP	O	तौर	NN	I-NP	O	पर	PSP	I-NP	O	O
+
+तीन	QC	B-NP	O	से	PSP	I-NP	O	चार	QC	I-NP	O	O
+
+सप्ताह	NN	I-NP	O	लगते	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+गति	NN	B-NP	O	के	PSP	I-NP	O	तीन	QC	B-NP	O	O
+
+सार्वभौमिक	JJ	I-NP	O	नियम	NN	I-NP	O	]	SYM	I-NP	O	O
+
+]	SYM	B-VGF	O	दिए	VM	I-VGF	O	जिनमें	PRP	B-NP	O	O
+
+200	QC	I-NP	O	से	PSP	I-NP	O	भी	RP	I-NP	O	O
+
+अधिक	QF	B-NP	O	वर्षों	NN	I-NP	O	तक	PSP	I-NP	O	O
+
+कोई	PRP	B-NP	O	सुधार	NN	B-NP	O	नहीं	NEG	B-VGF	O	O
+
+किया	VM	I-VGF	O	गया	VAUX	I-VGF	O	है	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	.	SYM	B-BLK	O	O
+
+]	SYM	I-NP	O	]	NNP	B-NP	O	को	PSP	I-NP	O	O
+
+देखने	VM	B-VGNF	O	प्रतिवर्ष	NN	B-NP	O	लाखों	QC	B-NP	O	O
+
+पर्यटक	NN	I-NP	O	आते	VM	B-VGF	O	हैं	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	2002	NNP	B-NP	O	O
+
+.	SYM	I-NP	O	17,839	NNP	B-NP	O	O
+
+.	SYM	I-NP	O	किपलिंग	NN	B-NP	B-PER	O
+
+ने	PSP	I-NP	O	दो	QC	B-NP	O	विज्ञान	NN	I-NP	B-MISC	O
+
+कथा	NN	B-NP	I-MISC	लघु	NNPC	B-NP	B-MISC	कथाएँ	NN	I-NP	I-MISC	O
+
+'	SYM	I-NP	O	'	SYM	I-NP	O	विथ	NNPC	I-NP	B-MISC	O
+
+द	NNPC	I-NP	I-MISC	नाइट	NNPC	B-NP	I-MISC	मेल	NNP	I-NP	I-MISC	O
+
+'	SYM	I-NP	O	'	SYM	I-NP	O	(	NNPC	B-NP	O	O
+
+1905	NNPC	I-NP	O	)	SYM	I-NP	O	और	CC	B-CCP	O	O
+
+'	SYM	B-NP	O	'	SYM	I-NP	O	एज	NNPC	I-NP	O	O
+
+इजी	NNPC	I-NP	O	एज	NNPC	I-NP	O	ए	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	हिलेब्रांड्ट	NNP	B-NP	B-PER	O
+
+,	SYM	I-NP	O	डॉ	NNC	B-NP	O	.	SYM	I-NP	O	O
+
+सरदार	NNC	B-NP	B-PER	पटेल	NNPC	I-NP	I-PER	]	SYM	I-NP	O	O
+
+]	NNP	B-NP	O	ने	PSP	I-NP	O	अंग्रेजों	NN	B-NP	O	O
+
+के	PSP	I-NP	O	साथ	NST	I-NP	O	विचार	NNC	B-NP	O	O
+
+विमर्श	NN	I-NP	O	के	PSP	I-NP	O	लिए	PSP	I-NP	O	O
+
+किसानों	NN	B-NP	O	का	PSP	I-NP	O	नेतृत्व	NN	B-NP	O	O
+
+किया	VM	B-VGF	O	जिसमें	PRP	B-NP	O	अंग्रेजों	NN	B-NP	O	O
+
+ने	PSP	I-NP	O	राजस्व	NNC	B-NP	O	संग्रहण	NN	I-NP	O	O
+
+से	PSP	I-NP	O	मुक्ति	NN	B-NP	O	देकर	VM	B-VGNF	O	O
+
+सभी	QF	B-NP	O	कैदियों	NN	I-NP	O	को	PSP	I-NP	O	O
+
+रिहा	JJ	B-JJP	O	कर	VM	B-VGF	O	दिया	VAUX	I-VGF	O	O
+
+गया	VAUX	I-VGF	O	था	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+'	SYM	B-JJP	O	शामिल	JJ	I-JJP	O	है	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	.	SYM	B-BLK	O	O
+
+शाम	NN	B-NP	B-PER	शास्त्री	NNP	B-NP	B-PER	को	PSP	I-NP	O	O
+
+दिया	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	.	SYM	B-BLK	O	O
+
+इन	DEM	B-NP	O	दोनों	QC	I-NP	O	चीज़ों	NN	I-NP	O	O
+
+को	PSP	I-NP	O	जड़	NNC	B-NP	O	-	SYM	I-NP	O	O
+
+बुनियाद	NN	I-NP	O	से	PSP	I-NP	O	ख़त्म	JJ	B-JJP	O	O
+
+करना	VM	B-VGNN	O	आपके	PRP	B-NP	O	लक्ष्य	NN	I-NP	O	O
+
+में	PSP	I-NP	O	से	PSP	I-NP	O	था	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	कुछ	QF	B-NP	O	O
+
+अध्यायों	NN	I-NP	O	में	PSP	I-NP	O	एसस्लेसिया	NNP	B-NP	B-PER	O
+
+ग्नॉस्टिका	NN	I-NP	I-PER	कैथोलिका	NNPC	B-NP	O	प्रथा	NN	I-NP	O	O
+
+में	PSP	I-NP	O	,	SYM	I-NP	O	ग्नॉस्टिक	NNPC	B-NP	O	O
+
+धार्मिक	JJ	I-NP	O	सभा	NN	I-NP	O	के	PSP	I-NP	O	O
+
+दौरान	NST	I-NP	O	वीर्य	NNC	B-NP	O	पान	NN	I-NP	O	O
+
+एलेइस्टर	NNPC	B-NP	B-PER	क्रोवले	NNP	I-NP	I-PER	के	PSP	I-NP	O	O
+
+द्वारा	PSP	I-NP	O	प्रकृतिस्थ	JJ	B-NP	O	यूजीन	NNP	I-NP	O	O
+
+.	SYM	I-NP	O	220,181	NNP	B-NP	O	O
+
+.	SYM	I-NP	O	.	SYM	B-BLK	O	O
+
+कालम	NNP	B-NP	O	.	SYM	I-NP	O	O
+
+इस	DEM	B-NP	O	समय	NN	I-NP	O	का	PSP	I-NP	O	O
+
+मौसम	NN	B-NP	O	हल्‍का	NN	B-NP	O	ठण्‍डापन	NN	B-NP	O	O
+
+लिए	PSP	I-NP	O	होता	VM	B-VGF	O	है	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	जानी	JJC	B-NP	O	O
+
+दुश्मन	NN	I-NP	O	]	SYM	I-NP	O	]	SYM	I-NP	O	O
+
+.	SYM	I-NP	O	लगभग	RP	B-BLK	O	O
+
+सन्सार	NN	B-NP	O	मे	PSP	I-NP	O	124000	QC	B-NP	O	O
+
+नबी	NNPC	I-NP	O	(	SYM	I-NP	O	दूत	NN	I-NP	O	O
+
+)	SYM	I-NP	O	वर्णन	NNPC	I-NP	O	कुरान	NNP	B-NP	B-MISC	O
+
+मे	VM	B-VGF	O	है	VM	I-VGF	O	.	SYM	I-VGF	O	O
+
+सिरोही	NNP	B-NP	B-LOC	से	PSP	I-NP	O	अलवर	NNP	B-NP	B-LOC	O
+
+की	PSP	I-NP	O	ओर	NST	I-NP	O	जाती	VM	B-VGF	O	O
+
+हुई	VAUX	I-VGF	O	480	VAUX	I-VGF	O	कि	CC	B-CCP	O	O
+
+.	SYM	I-CCP	O	.	SYM	B-BLK	O	O
+
+द	NNPC	B-NP	B-MISC	टाइम्स	NNP	I-NP	I-MISC	'	SYM	I-NP	O	O
+
+'	SYM	I-NP	O	,	SYM	I-NP	O	लंदन	NNP	I-NP	B-LOC	O
+
+,	SYM	I-NP	O	और	CC	B-CCP	O	'	SYM	B-NP	O	O
+
+'	SYM	I-NP	O	मैकक्लूर	NNPC	I-NP	B-ORG	मैगाजिन	NNP	I-NP	I-ORG	O
+
+'	SYM	I-NP	O	'	SYM	I-NP	O	में	PSP	I-NP	O	O
+
+एक	QC	B-NP	O	साथ	NST	I-NP	O	प्रकाशित	JJ	B-NP	O	O
+
+12	QC	I-NP	O	फ़रवरी	NNP	B-NP	O	साथ	NST	I-NP	O	O
+
+ही	RP	I-NP	O	कविता	NN	B-NP	O	में	PSP	I-NP	O	O
+
+पूर्वाभास	NN	B-NP	O	भी	RP	I-NP	O	थी	VM	B-VGNF	O	O
+
+एक	QC	B-NP	O	भाव	NN	I-NP	O	जिससे	PRP	B-NP	O	O
+
+सब	PRPC	I-NP	O	कुछ	PRP	B-NP	O	ध्वस्त	JJ	B-JJP	O	O
+
+हो	VM	B-VGF	O	सकता	VAUX	I-VGF	O	क्रिस	NNP	B-NP	O	O
+
+.	SYM	I-NP	O	.	SYM	B-BLK	O	O
+
+भारत	NNP	B-NP	B-LOC	के	PSP	I-NP	O	प्रधान	JJ	B-NP	B-ORG	B-LOC
+
+दूरदर्शन	NN	I-NP	I-ORG	व	CC	B-CCP	O	उपग्रह	NNPC	B-NP	B-ORG	O
+
+तंत्रजाल	NNP	I-NP	I-ORG	(	SYM	B-NP	O	नेटवर्क	NNPC	I-NP	O	O
+
+)	SYM	I-NP	O	,	SYM	I-NP	O	व	CC	B-CCP	O	O
+
+मुख्य	JJ	B-NP	O	प्रकाशन	NNC	I-NP	O	गृह	NNPC	I-NP	O	O
+
+यहीं	PRP	B-NP	O	से	PSP	I-NP	O	चलते	VM	B-VGF	O	O
+
+हैं	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+जैसपर	NNP	B-NP	B-LOC	]	SYM	I-NP	O	]	SYM	I-NP	O	O
+
+.	SYM	I-NP	O	महा	NNPC	B-NP	O	O
+
+शक्तिशाली	JJ	I-NP	O	]	SYM	I-NP	O	]	SYM	I-NP	O	O
+
+.	SYM	I-NP	O	इसके	PRP	B-NP	O	O
+
+बेड़े	NN	I-NP	O	में	PSP	I-NP	O	सिंगल	NNPC	B-NP	O	O
+
+-	SYM	I-NP	O	डेकर	VM	I-NP	O	,	SYM	I-NP	O	O
+
+डबल	NNPC	B-VGNN	O	-	SYM	I-VGNN	O	डेकर	VM	I-VGNN	O	O
+
+,	SYM	I-VGNN	O	वेस्टीब्यूल	NN	B-NP	O	,	SYM	I-NP	O	O
+
+लो	NNC	B-NP	O	-	SYM	I-NP	O	फ्लोर	NNP	I-NP	O	O
+
+,	SYM	I-NP	O	डिसेबल्ड	NNPC	B-NP	O	फ्रेंड्ली	NNP	I-NP	O	O
+
+,	SYM	I-NP	O	वातानुकूलित	JJ	B-JJP	O	एवं	CC	B-CCP	O	O
+
+हाल	NN	B-NP	O	ही	RP	I-NP	O	में	PSP	I-NP	O	O
+
+जुड़ीं	VM	B-VGNF	O	यूरो	NNP	B-NP	O	-	SYM	I-NP	O	O
+
+तीन	QC	B-NP	O	सम्मत	JJ	I-NP	O	सी	RP	I-NP	O	O
+
+एन	NNPC	I-NP	O	जी	NNPC	I-NP	O	चालित	JJ	B-NP	O	O
+
+बसें	NN	I-NP	O	सम्मिलित	JJ	B-JJP	O	हैं	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	इस	DEM	B-NP	O	O
+
+नदी	NN	I-NP	O	का	PSP	I-NP	O	नाम	NN	B-NP	O	O
+
+महर्षि	NNPC	B-NP	O	ब्यास	NN	I-NP	O	के	PSP	I-NP	O	O
+
+नाम	NN	B-NP	O	पर	PSP	I-NP	O	रखा	VM	B-VGF	O	O
+
+गया	VAUX	I-VGF	O	है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+इकाइयों	NN	I-NP	O	द्वारा	PSP	I-NP	O	प्राथमिक	JJ	B-NP	O	O
+
+चैनल	NN	I-NP	O	,	SYM	I-NP	O	एफएम	NNP	B-NP	O	O
+
+और	CC	B-CCP	O	विदेशी	JJ	B-NP	O	सेवा	NN	I-NP	O	O
+
+पर	PSP	I-NP	O	प्रतिदिन	NN	B-NP	O	67	QC	B-NP	O	O
+
+भाषाओं	NN	I-NP	O	/	SYM	I-NP	O	बोलियों	NN	B-NP	O	O
+
+में	PSP	I-NP	O	355	QC	B-NP	O	से	PSP	I-NP	O	O
+
+अधिक	QF	B-NP	O	समाचार	NN	I-NP	O	बुलेटिन	NNP	B-NP	O	O
+
+प्रसारित	JJ	B-JJP	O	किए	VM	B-VGF	O	जाते	VAUX	I-VGF	O	O
+
+हैं	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+ऑपरेशन	NNPC	B-NP	O	निदेशालय	NNP	I-NP	O	,	SYM	I-NP	O	O
+
+पश्चिम	NNPC	B-NP	B-LOC	बंगाल	NNP	I-NP	I-LOC	.	SYM	I-NP	O	O
+
+अवस्थिति	NN	I-NP	O	के	PSP	I-NP	O	कारण	PSP	I-NP	O	O
+
+कोलकाता	NNP	B-NP	B-LOC	को	PSP	I-NP	O	'	SYM	I-NP	O	B-LOC
+
+पूर्वी	JJ	B-NP	O	भारत	NNP	I-NP	B-LOC	का	PSP	I-NP	O	O
+
+प्रवेश	NNC	B-NP	O	द्वार	NN	I-NP	O	'	SYM	I-NP	O	O
+
+भी	RP	I-NP	O	कहा	VM	B-VGF	O	जाता	VAUX	I-VGF	O	O
+
+है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+अलवर	NNPC	B-NP	B-LOC	]	SYM	I-NP	O	]	SYM	I-NP	O	B-LOC
+
+‘	QC	B-NP	O	भादल	NN	I-NP	O	’	NNP	B-NP	O	O
+
+और	CC	B-CCP	O	‘	QC	B-NP	O	तांतागिरि	NN	I-NP	O	O
+
+’	QC	B-NP	O	दो	QC	I-NP	O	खड्डों	NN	I-NP	O	O
+
+से	PSP	I-NP	O	मिलकर	VM	B-VGNF	O	बनती	VM	B-VGF	O	O
+
+है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+94.	NNPC	B-NP	O	केमल	NNPC	I-NP	O	फेस्टीवल	NNPC	I-NP	O	O
+
+प्रतिवर्ष	NN	I-NP	O	जनवरी	NNPC	B-NP	O	महीने	NN	I-NP	O	O
+
+में	PSP	I-NP	O	मनाया	VM	B-VGF	O	जाता	VAUX	I-VGF	O	O
+
+है	VAUX	I-VGF	O	और	CC	B-CCP	O	राजस्थान	NNP	B-NP	B-LOC	O
+
+के	PSP	I-NP	O	डिपार्टमेन्ट	NNPC	I-NP	O	ऑफ	NNPC	B-NP	O	O
+
+टूरिज्म	NNP	I-NP	O	,	SYM	I-NP	O	आर्ट	NN	B-NP	O	O
+
+एण्ड	NNPC	B-NP	O	कल्चर	NN	I-NP	O	द्वारा	PSP	I-NP	O	O
+
+आयोजित	JJ	B-JJP	O	किया	VM	B-VGF	O	जाता	VAUX	I-VGF	O	O
+
+है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+पांतजलि	NNP	B-NP	B-MISC	द्वारा	PSP	I-NP	O	अपने	PRP	B-NP	O	O
+
+महाभाष्य	NN	I-NP	O	में	PSP	I-NP	O	कौटिल्य	NN	B-NP	B-PER	O
+
+का	PSP	I-NP	O	प्रसंग	NN	B-NP	O	नहीं	NEG	B-VGNN	O	O
+
+आने	VM	I-VGNN	O	के	PSP	I-VGNN	O	कारण	PSP	I-VGNN	O	O
+
+उनके	PRP	B-NP	O	मतों	NN	I-NP	O	का	PSP	I-NP	O	O
+
+समर्थन	NN	B-NP	O	मिला	VM	B-VGF	O	है	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	12,136	NNP	B-NP	O	O
+
+.	SYM	I-NP	O	.	SYM	B-BLK	O	O
+
+में	PSP	I-NP	O	स्थित	JJ	B-JJP	O	केन्द्र	NNPC	B-NP	O	O
+
+शासित	JJ	I-NP	O	प्रदेश	NNC	I-NP	O	लक्षद्वीप	NNP	B-NP	B-LOC	O
+
+का	PSP	I-NP	O	भी	RP	I-NP	O	भाषा	NN	B-NP	O	O
+
+और	CC	B-CCP	O	संस्कृति	NN	B-NP	O	की	PSP	I-NP	O	O
+
+दृष्टि	NN	B-NP	O	से	PSP	I-NP	O	केरल	NNP	B-NP	B-LOC	O
+
+के	PSP	I-NP	O	साथ	NST	I-NP	O	अटूट	NN	B-NP	O	O
+
+संबन्ध	NN	B-NP	O	है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+दिया	VM	B-VGNF	O	जाने	VAUX	I-VGNF	O	वाला	PSP	I-VGNF	O	O
+
+न्यूनतम	JJ	B-NP	O	वेतन	NN	I-NP	O	बढाया	VM	B-VGF	O	O
+
+गया	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	आउट	NNPC	B-NP	O	O
+
+ऑफ	NNPC	I-NP	O	कन्ट्रोल	NNPC	I-NP	O	]	SYM	I-NP	O	O
+
+]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+.	SYM	B-BLK	O	.	SYM	B-BLK	O	O
+
+विवाद	NN	B-NP	O	और	CC	B-CCP	O	विघटन	NN	B-NP	O	O
+
+दूर	NST	B-NP	O	होगा	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+शेरा	NNPC	B-NP	O	]	SYM	I-NP	O	]	SYM	I-NP	O	O
+
+.	SYM	I-NP	O	और	CC	B-CCP	O	O
+
+वसा	NN	B-NP	O	9	QC	B-NP	O	किलो	NN	I-NP	O	O
+
+कैलोरी	NNC	B-VGF	O	/	SYM	I-VGF	O	ग्रा	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	1886	NNP	B-NP	O	O
+
+में	PSP	I-NP	O	उन्होंने	PRP	B-NP	O	'	SYM	I-NP	O	O
+
+'	SYM	I-NP	O	डिपार्मेंटल	NNPC	I-NP	B-MISC	ड्यूटिज	NNP	I-NP	I-MISC	O
+
+'	SYM	I-NP	O	'	SYM	I-NP	O	नामक	JJ	B-JJP	O	O
+
+अपनी	PRP	B-NP	O	कविताओं	NN	I-NP	O	की	PSP	I-NP	O	O
+
+पहली	QO	B-NP	O	संग्रह	NN	I-NP	O	को	PSP	I-NP	O	O
+
+प्रकाशित	JJ	B-JJP	O	किया	VM	B-VGF	O	था	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	निहाईयां	NN	B-NP	O	O
+
+]	SYM	I-NP	O	]	SYM	I-NP	O	एक	PRPC	I-NP	O	O
+
+दूसरे	PRP	I-NP	O	के	PSP	I-NP	O	साधारण	NNC	B-NP	O	O
+
+अनुपात	NN	I-NP	O	में	PSP	I-NP	O	थीं	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	(	SYM	B-NP	O	O
+
+पुरी	NNP	I-NP	B-LOC	)	SYM	I-NP	O	भुवनेश्वर	NNP	B-NP	B-LOC	B-LOC
+
+का	PSP	I-NP	O	एकाग्र	NNPC	B-NP	O	उत्सव	NN	I-NP	O	O
+
+,	SYM	I-NP	O	कोणार्क	NNP	B-NP	B-LOC	का	PSP	I-NP	O	O
+
+कोणार्क	NN	B-NP	B-LOC	पर्व	NN	B-NP	O	के	PSP	I-NP	O	O
+
+मेलों	NN	B-NP	O	और	CC	B-CCP	O	त्योहारों	NN	B-NP	O	O
+
+के	PSP	I-NP	O	विकास	NN	B-NP	O	के	PSP	I-NP	O	O
+
+लिए	PSP	I-NP	O	प्रयास	NN	B-NP	O	किया	VM	B-VGF	O	O
+
+जा	VAUX	I-VGF	O	रहा	VAUX	I-VGF	O	है	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	नगर	NNP	B-NP	O	O
+
+की	PSP	I-NP	O	जनसंख्या	NN	B-NP	O	का	PSP	I-NP	O	O
+
+एक	QC	B-NP	O	-	SYM	I-NP	O	तिहाई	RDP	I-NP	O	O
+
+भाग	NN	I-NP	O	यानि	CC	B-CCP	O	15	QCC	B-NP	O	O
+
+लाख	QC	I-NP	O	लोग	NN	I-NP	O	2,011	QC	B-NP	O	O
+
+पंजीकृत	JJ	I-NP	O	क्षेत्रों	NN	I-NP	O	और	CC	B-CCP	O	O
+
+कालोनियों	NN	B-NP	O	तथा	CC	B-CCP	O	3,500	QC	B-NP	O	O
+
+अनाधिकृत	JJ	I-NP	O	क्षेत्रों	NN	I-NP	O	और	CC	B-CCP	O	O
+
+झुग्गियों	NN	B-NP	O	में	PSP	I-NP	O	वास	NN	B-NP	O	O
+
+करते	VM	B-VGF	O	हैं	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+कक्ष	NN	I-NP	O	में	PSP	I-NP	O	एक	QC	B-NP	O	O
+
+साथ्‍ा	NN	I-NP	O	60	QC	B-NP	O	बौद्ध	NNC	I-NP	B-PER	O
+
+भिक्षु	NN	I-NP	I-PER	प्रार्थना	NN	B-NP	O	कर	VM	B-VGF	O	O
+
+सकते	VAUX	I-VGF	O	हैं	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+]	SYM	I-NP	O	]	SYM	I-NP	O	तकनीक	NN	I-NP	O	O
+
+और	CC	B-CCP	O	स्थापत्य	NN	B-NP	O	में	PSP	I-NP	O	O
+
+इसकी	PRP	B-NP	O	उन्नति	NN	I-NP	O	के	PSP	I-NP	O	O
+
+लिए	PSP	I-NP	O	जाना	VM	B-VGF	O	जाता	VAUX	I-VGF	O	O
+
+है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+117,156	NNP	B-NP	O	.	SYM	I-NP	O	O
+
+-	SYM	B-BLK	O	.	SYM	I-BLK	O	O
+
+ब्रिटिश	NNPC	B-NP	O	काल	NN	I-NP	O	की	PSP	I-NP	O	O
+
+कई	QF	B-NP	O	इमारतें	NN	I-NP	O	अच्छी	JJ	B-NP	O	O
+
+तरह	NN	I-NP	O	से	PSP	I-NP	O	संरक्षित	JJ	B-JJP	O	O
+
+हैं	VM	B-VGF	O	व	CC	B-CCP	O	अब	PRP	B-NP	O	O
+
+धरोहर	NN	B-NP	O	घोषित	JJ	B-JJP	O	हैं	VM	B-VGF	O	O
+
+,	SYM	I-VGF	O	जबकि	CC	B-CCP	O	बहुत	QF	B-NP	O	O
+
+सी	RP	I-NP	O	इमारतें	NN	I-NP	O	ध्वंस	NNP	B-NP	O	O
+
+के	PSP	I-NP	O	कगार	NN	B-NP	O	पर	PSP	I-NP	O	O
+
+भी	RP	I-NP	O	हैं	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+]	SYM	I-NP	O	का	PSP	I-NP	O	अंत	NN	B-NP	O	O
+
+आदि	RP	I-NP	O	के	PSP	I-NP	O	लिए	PSP	I-NP	O	O
+
+बहुत	QF	B-NP	O	से	PSP	I-NP	O	आंदोलन	NN	B-NP	O	O
+
+चलाएं	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	शादी	NNC	B-NP	O	O
+
+-	SYM	I-NP	O	विवाह	NN	I-NP	O	शादी	NN	B-NP	O	O
+
+विवाह	NN	B-NP	O	के	PSP	I-NP	O	दौरान	NST	I-NP	O	O
+
+ही	RP	I-NP	O	प्रदेश	NN	B-NP	O	की	PSP	I-NP	O	O
+
+सांस्कृतिक	JJ	B-NP	O	प्रचुरता	NN	I-NP	O	स्पष्ट	JJ	B-JJP	O	O
+
+होती	VM	B-VGF	O	है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+इसके	PRP	B-NP	O	ऊपर	NST	I-NP	O	एक	QC	B-NP	O	O
+
+तोप	NN	I-NP	O	रखी	VM	B-VGF	O	है	VAUX	I-VGF	O	O
+
+,	SYM	I-VGF	O	जो	PRP	B-NP	O	आगरा	NNP	B-NP	B-LOC	O
+
+किले	NN	I-NP	I-LOC	से	PSP	I-NP	O	लूट	VM	B-VGNF	O	O
+
+कर	VM	B-VGNF	O	यहां	PRP	B-NP	O	लाई	VM	B-VGF	O	O
+
+गई	VAUX	I-VGF	O	थी	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	.	SYM	B-BLK	O	O
+
+देते	VM	B-VGNF	O	हुए	VAUX	I-VGNF	O	भारतीयों	NN	B-NP	O	O
+
+से	PSP	I-NP	O	अध्यादेश	NN	B-NP	O	का	PSP	I-NP	O	O
+
+विरोध	NN	B-NP	O	करने	VM	B-VGNN	O	का	PSP	I-VGNN	O	O
+
+आग्रह	NN	B-NP	O	किया	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+समुद्र	NN	B-NP	O	की	PSP	I-NP	O	ओर	NST	I-NP	O	O
+
+इस	DEM	B-NP	O	यात्रा	NN	I-NP	O	में	PSP	I-NP	O	O
+
+हजारों	NN	B-NP	O	की	PSP	I-NP	O	संख्‍या	NN	B-NP	O	O
+
+में	PSP	I-NP	O	भारतीयों	NN	B-NP	O	ने	PSP	I-NP	O	O
+
+भाग	NN	B-NP	O	लिया	VAUX	I-NP	O	.	SYM	I-NP	O	O
+
+]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+यह	DEM	B-NP	O	आमतौर	NN	I-NP	O	पर	PSP	I-NP	O	O
+
+इलाज	NN	B-NP	O	के	PSP	I-NP	O	बिना	RP	I-NP	O	O
+
+ही	RP	I-NP	O	ठीक	JJ	B-JJP	O	हो	VM	B-VGF	O	O
+
+जाया	VAUX	I-VGF	O	करता	VAUX	I-VGF	O	है	VAUX	I-VGF	O	O
+
+,	SYM	I-VGF	O	या	CC	B-CCP	O	एंटीबायोटिक	JJ	B-NP	O	O
+
+दवाओं	NN	I-NP	O	से	PSP	I-NP	O	ठीक	JJ	B-JJP	O	O
+
+हो	VM	B-VGF	O	जाता	VAUX	I-VGF	O	है	VAUX	I-VGF	O	O
+
+,	SYM	I-VGF	O	लेकिन	CC	B-CCP	O	इसके	PRP	B-NP	O	O
+
+जारी	JJ	B-JJP	O	रहने	VM	B-VGNN	O	पर	PSP	I-VGNN	O	O
+
+इसकी	PRP	B-NP	O	वजह	PSP	I-NP	O	जानने	VM	B-VGNN	O	O
+
+के	PSP	I-VGNN	O	लिए	PSP	I-VGNN	O	वीर्य	NNC	B-NP	O	O
+
+विश्लेषण	NN	I-NP	O	या	CC	B-CCP	O	अन्य	JJ	B-NP	O	O
+
+मूत्र	NNC	I-NP	O	-	SYM	I-NP	O	जननांग	NNPC	I-NP	O	O
+
+प्रणाली	NN	I-NP	O	परीक्षण	NN	B-NP	O	जरुरी	JJ	B-JJP	O	O
+
+हो	VM	B-VGF	O	सकते	VAUX	I-VGF	O	हैं	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	2000	NNP	B-NP	O	O
+
+]	SYM	I-NP	O	]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+कहते	VM	B-VGF	O	हो	VAUX	I-VGF	O	इस्लाम	NNP	B-NP	O	O
+
+या	CC	B-CCP	O	मौत	NN	B-NP	O	?	SYM	I-NP	O	O
+
+को	PSP	I-NP	O	संबंधित	JJ	B-NP	O	बरतन	NN	I-NP	O	O
+
+में	PSP	I-NP	O	ही	RP	I-NP	O	दिया	VM	B-VGNN	O	O
+
+जाना	VAUX	I-VGNN	O	चाहिए	VAUX	I-VGNN	O	जमीन	NN	B-NP	O	O
+
+पर	PSP	I-NP	O	नहीं	NEG	B-NEGP	O	.	SYM	I-NEGP	O	O
+
+इन्‍हीं	PRP	B-NP	O	के	PSP	I-NP	O	याद	NN	B-NP	O	O
+
+में	PSP	I-NP	O	इस	DEM	B-NP	O	मठ	NN	I-NP	O	O
+
+की	PSP	I-NP	O	स्‍थापना	NN	B-NP	O	1971	NNP	B-NP	O	O
+
+ई.	NNP	B-NP	O	में	PSP	I-NP	O	की	VM	B-VGF	O	O
+
+गई	VAUX	I-VGF	O	थी	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+1994	NNP	B-NP	O	]	SYM	I-NP	O	]	SYM	I-NP	O	O
+
+.	SYM	I-NP	O	ठाकुर	NNP	B-NP	B-PER	O
+
+विजय	NNPC	B-NP	B-PER	सिंह	NNP	I-NP	I-PER	.	SYM	I-NP	O	O
+
+में	PSP	I-NP	O	दवाएं	NN	B-NP	O	बनाने	VM	B-VGNN	O	O
+
+का	PSP	I-VGNN	O	कारख़ाना	NN	B-NP	O	,	SYM	I-NP	O	O
+
+औरंगाबाद	NNP	B-NP	B-LOC	और	CC	B-CCP	O	पटना	NNP	B-NP	B-LOC	O
+
+में	PSP	I-NP	O	खाद्य	NNPC	B-NP	O	प्रसंस्‍करण	NN	I-NP	O	O
+
+और	CC	B-CCP	O	वनस्‍पति	NN	B-NP	O	बनाने	VM	B-VGNN	O	O
+
+के	PSP	I-VGNN	O	कारखाने	NN	B-NP	O	हैं	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	-	SYM	B-BLK	O	O
+
+.	SYM	I-BLK	O	प्रत्येक	QF	B-NP	O	O
+
+वर्ष	NN	I-NP	O	करीब	RP	I-NP	O	120	QC	B-NP	O	O
+
+से	PSP	I-NP	O	लेकर	VM	B-VGNF	O	140	QC	B-NP	O	O
+
+दिन	NN	I-NP	O	वर्षा	NN	B-NP	O	होती	VM	B-VGF	O	O
+
+है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+चौधरी	NNP	B-NP	B-PER	.	SYM	I-NP	O	O
+
+.	SYM	B-BLK	O	उन्होंने	PRP	B-NP	O	O
+
+दो	QC	B-NP	O	कविताओं	NN	I-NP	O	(	SYM	B-NP	O	O
+
+1897	QC	I-NP	O	)	SYM	I-NP	O	और	CC	B-CCP	O	O
+
+व्हाइट	NNPC	B-NP	O	मैन्स	NNPC	I-NP	O	(	SYM	B-NP	O	O
+
+1899	QC	I-NP	O	)	SYM	I-NP	O	का	PSP	I-NP	O	O
+
+निर्माण	NN	B-NP	O	कार्य	NN	B-NP	O	शुरू	NN	B-NP	O	O
+
+कर	VM	B-VGF	O	दिया	VAUX	I-VGF	O	था	VAUX	I-VGF	O	O
+
+जिसके	PRP	B-NP	O	प्रकाशित	JJ	B-JJP	O	होने	VM	B-VGNN	O	O
+
+के	PSP	I-VGNN	O	बाद	NST	I-VGNN	O	वह	PRP	B-NP	O	O
+
+विवादों	NN	B-NP	O	में	PSP	I-NP	O	घिर	VM	B-VGF	O	O
+
+गया	VAUX	I-VGF	O	था	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+2,592	NNP	B-NP	O	.	SYM	I-NP	O	O
+
+.	SYM	B-BLK	O	पोरफायरी	NNPC	B-NP	B-MISC	O
+
+]	SYM	I-NP	O	]	SYM	I-NP	O	में	PSP	I-NP	O	O
+
+(	SYM	B-NP	O	पाइथोगोरस	NNP	I-NP	B-PER	के	PSP	I-NP	O	O
+
+समय	NN	B-NP	O	के	PSP	I-NP	O	सात	QC	B-NP	O	O
+
+शताब्दियों	NN	I-NP	O	बाद	NST	I-NP	O	लिखी	VM	B-VGF	O	O
+
+गयी	VAUX	I-VGF	O	,	SYM	I-VGF	O	)	SYM	I-VGF	O	O
+
+कहा	VM	B-VGF	O	गया	VAUX	I-VGF	O	कि	CC	B-CCP	O	O
+
+शांति	NN	B-NP	O	कोई	PRP	B-NP	O	साधारण	NNC	B-NP	O	O
+
+किस्म	NN	I-NP	O	की	PSP	I-NP	O	शांति	NN	B-NP	O	O
+
+नहीं	NEG	B-VGF	O	थी	VM	I-VGF	O	.	SYM	I-VGF	O	O
+
+एक	PRPC	I-NP	O	-	SYM	I-NP	O	दूसरे	PRP	I-NP	O	O
+
+से	PSP	I-NP	O	अलग	JJ	B-JJP	O	होते	VM	B-VGF	O	O
+
+हैं	VAUX	I-VGF	O	तो	CC	B-CCP	O	ये	PRP	B-NP	O	O
+
+क्षीण	NN	I-NP	O	और	CC	B-CCP	O	विनष्ट	JJ	B-JJP	O	O
+
+होकर	VM	B-VGNF	O	रहेंगे	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	मिथिला	NNC	B-NP	B-LOC	O
+
+क्षेत्र	NN	I-NP	O	]	SYM	I-NP	O	]	SYM	I-NP	O	O
+
+.	SYM	I-NP	O	अपने	PRP	B-NP	O	O
+
+पूर्व	JJ	I-NP	O	अर्थशास्त्रों	NN	I-NP	B-MISC	की	PSP	I-NP	O	O
+
+रचना	NN	B-NP	O	की	PSP	I-NP	O	बात	NN	B-NP	O	O
+
+स्वयं	PRP	B-NP	O	कौटिल्य	NNP	B-NP	B-PER	ने	PSP	I-NP	O	O
+
+भी	RP	I-NP	O	स्वीकार	NN	B-NP	O	किया	VM	B-VGF	O	O
+
+है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+28,778	NNP	B-NP	O	.	SYM	I-NP	O	O
+
+.	SYM	B-BLK	O	एस	NNPC	B-NP	O	O
+
+.	SYM	I-NP	O	.	SYM	B-BLK	O	O
+
+3,574	NNP	B-NP	O	.	SYM	I-NP	O	O
+
+.	SYM	B-BLK	O	चेचक	NN	B-NP	O	O
+
+]	SYM	I-NP	O	]	SYM	I-NP	O	'	SYM	I-NP	O	O
+
+'	SYM	I-NP	O	की	PSP	I-NP	O	तरह	NN	B-NP	O	O
+
+'	SYM	I-NP	O	'	SYM	I-NP	O	)	SYM	I-NP	O	O
+
+पूरी	JJ	B-NP	O	तरह	NN	I-NP	O	से	PSP	I-NP	O	O
+
+समाप्त	JJ	B-JJP	O	करने	VM	B-VGNN	O	की	PSP	I-VGNN	O	O
+
+उम्मीद	NN	B-NP	O	घराशायी	NN	B-NP	O	हो	VM	B-VGF	O	O
+
+गयी	VAUX	I-VGF	O	थी	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+1993	NNP	B-NP	O	]	SYM	I-NP	O	]	SYM	I-NP	O	O
+
+.	SYM	I-NP	O	.	SYM	B-BLK	O	O
+
+]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+.	SYM	B-BLK	O	8.हैम्बर्ग	NNP	B-NP	O	O
+
+1996.आईएसबीन	NNP	B-NP	O	3	NNPC	B-NP	O	-	SYM	I-NP	O	O
+
+926952	NNP	I-NP	O	-	SYM	I-NP	O	97	NNPC	I-NP	O	O
+
+-	SYM	I-NP	O	0	QC	I-NP	O	*	SYM	I-NP	O	O
+
+रूहे	VM	B-VGF	O	,	SYM	I-VGF	O	पीटर	NN	B-NP	O	O
+
+.	SYM	I-NP	O	.	SYM	B-BLK	O	O
+
+कहा	VM	B-VGF	O	है	VAUX	I-VGF	O	-	SYM	I-VGF	O	O
+
+जन्माष्टमी	NN	B-NP	O	,	SYM	I-NP	O	रोहिणी	NNP	B-NP	B-PER	O
+
+और	CC	B-CCP	O	शिवरात्रि	NNP	B-NP	O	ये	PRP	B-NP	O	O
+
+पूर्वविद्धा	NN	B-NP	O	ही	RP	I-NP	O	करनी	VM	B-VGF	O	O
+
+चाहिए	VAUX	I-VGF	O	तथा	CC	B-CCP	O	तिथि	NN	B-NP	O	O
+
+एवं	CC	B-CCP	O	नक्षत्र	NN	B-NP	O	के	PSP	I-NP	O	O
+
+अन्त	PSP	I-NP	O	में	PSP	I-NP	O	पारणा	NN	B-NP	O	O
+
+करें	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+हीरोडोट्स	NN	B-NP	B-PER	]	SYM	I-NP	O	]	SYM	B-NP	O	O
+
+उन्हें	PRP	I-NP	O	के	PSP	I-NP	O	बीच	NST	I-NP	O	O
+
+सबसे	INTF	B-JJP	O	अधिक	QF	I-JJP	O	सक्षम	JJ	I-JJP	O	O
+
+मानते	VM	B-VGF	O	हैं	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	क	RP	B-BLK	O	O
+
+)	SYM	I-BLK	O	पालन	NN	B-NP	O	का	PSP	I-NP	O	O
+
+फ्री	NNPC	B-NP	O	रेंज	NNPC	I-NP	O	प्रणाली	NN	I-NP	O	O
+
+लाभ	NNPC	B-NP	O	•	NNPC	I-NP	O	इससे	PRP	B-NP	O	O
+
+भोजन	NN	B-NP	O	की	PSP	I-NP	O	लागत	NN	B-NP	O	O
+
+में	PSP	I-NP	O	50	QC	B-NP	O	प्रतिशत	NN	I-NP	O	O
+
+तक	PSP	I-NP	O	की	PSP	I-NP	O	कमी	NN	B-NP	O	O
+
+आती	VM	B-VGF	O	है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+1979	NNP	B-NP	O	]	SYM	I-NP	O	]	SYM	I-NP	O	O
+
+.	SYM	I-NP	O	81,327	NNP	B-NP	O	O
+
+.	SYM	I-NP	O	17,848	NNP	B-NP	O	O
+
+.	SYM	I-NP	O	-	SYM	B-BLK	O	O
+
+.	SYM	I-BLK	O	5,018	NNP	B-NP	O	O
+
+.	SYM	I-NP	O	.	SYM	B-BLK	O	O
+
+विनाश	NN	B-NP	O	तथा	CC	B-CCP	O	मगध	NNPC	B-NP	B-PER	O
+
+साम्राज्य	NN	I-NP	I-PER	की	PSP	I-NP	O	स्थापना	NN	B-NP	O	O
+
+एवं	CC	B-CCP	O	विस्तार	NN	B-NP	O	में	PSP	I-NP	O	O
+
+उसका	PRP	B-NP	O	ऐतिहासिक	JJ	I-NP	O	योगदान	NN	I-NP	O	O
+
+है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+एक	QC	B-NP	O	फोन	NN	I-NP	O	का	PSP	I-NP	O	O
+
+ताला	NN	B-NP	O	खोलने	VM	B-VGNN	O	का	PSP	I-VGNN	O	O
+
+लागत	NN	B-NP	O	भिन्न	JJ	B-JJP	O	होता	VM	B-VGF	O	O
+
+है	VAUX	I-VGF	O	लेकिन	CC	B-CCP	O	आमतौर	NN	B-NP	O	O
+
+पर	PSP	I-NP	O	बहुत	QF	B-JJP	O	ही	RP	I-JJP	O	O
+
+सस्ता	JJ	I-JJP	O	और	CC	B-CCP	O	कभी	PRP	B-NP	O	O
+
+कभी	PRP	B-NP	O	स्वतंत्र	JJ	B-NP	B-MISC	फोन	NN	I-NP	I-MISC	O
+
+विक्रेताओं	NN	B-NP	O	द्वारा	PSP	I-NP	O	प्रदान	NN	B-NP	O	O
+
+किया	VM	B-VGF	O	जाता	VAUX	I-VGF	O	है	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	ये	DEM	B-NP	O	O
+
+लोग	NN	I-NP	O	खेती	NN	B-NP	O	और	CC	B-CCP	O	O
+
+मजदूरी	NN	B-NP	O	करते	VM	B-VGF	O	हैं	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	.	SYM	B-BLK	O	O
+
+खलनायक	NN	B-NP	O	की	PSP	I-NP	O	भूमिका	NN	B-NP	O	O
+
+भी	RP	I-NP	O	उन्हें	PRP	B-NP	O	काफ़ी	QF	B-NP	O	O
+
+मिली	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+थोड़ी	QF	B-NP	O	सी	RP	I-NP	O	वर्षा	NN	I-NP	O	O
+
+हो	VM	B-VGNN	O	जाने	VAUX	I-VGNN	O	पर	PSP	I-VGNN	O	O
+
+यहां	PRP	B-NP	O	अच्छी	JJ	B-NP	O	घास	NN	I-NP	O	O
+
+हो	VM	B-VGF	O	जाती	VAUX	I-VGF	O	है	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	कुछ	QF	B-NP	O	O
+
+स्तम्भ	NN	I-NP	O	व	CC	B-CCP	O	छज्जे	NN	B-NP	O	O
+
+बलुआ	NNP	B-NP	O	पत्थर	NN	I-NP	O	के	PSP	I-NP	O	O
+
+बने	VM	B-VGF	O	हैं	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+कुछ	QF	B-NP	O	सेवा	NN	I-NP	O	प्रदाता	NN	B-NP	O	O
+
+अपने	PRP	B-NP	O	बिक्री	NN	I-NP	O	को	PSP	I-NP	O	O
+
+अन्तरराष्ट्रीय	JJ	B-NP	O	बिक्री	NN	I-NP	O	पर	PSP	I-NP	O	O
+
+केन्द्रित	JJ	B-JJP	O	करते	VM	B-VGF	O	हैं	VAUX	I-VGF	O	O
+
+जबकि	CC	B-CCP	O	कुछ	QF	B-NP	O	क्षेत्रीय	JJ	I-NP	O	O
+
+बिक्री	NN	I-NP	O	पर	PSP	I-NP	O	केन्द्रित	JJ	B-JJP	O	O
+
+करते	VM	B-VGF	O	हैं	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+की	PSP	I-NP	O	अर्थव्यस्था	NN	B-NP	O	हथकरघा	NNP	B-NP	O	O
+
+,	SYM	I-NP	O	वस्त्रों	NN	B-NP	O	और	CC	B-CCP	O	O
+
+कुछ	QF	B-NP	O	धातु	NN	I-NP	O	आधारित	JJ	B-NP	O	O
+
+उद्योगों	NN	I-NP	O	को	PSP	I-NP	O	शामिल	JJ	B-JJP	O	O
+
+करते	VM	B-VGNF	O	हुए	VAUX	I-VGNF	O	कई	QF	B-NP	O	O
+
+उद्योगों	NN	I-NP	O	पर	PSP	I-NP	O	निर्भर	JJ	B-JJP	O	O
+
+करती	VM	B-VGF	O	है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+प्रशासनाधीन	JJ	B-JJP	O	ग्रेटर	NNPC	B-NP	O	मुंबई	NNP	I-NP	B-LOC	O
+
+क्षेत्र	NN	B-NP	O	की	PSP	I-NP	O	साक्षरता	NN	B-NP	O	O
+
+दर	NN	B-NP	O	77.45	QC	I-NP	O	%	SYM	I-NP	O	O
+
+जो	PRP	B-NP	O	राष्ट्रीय	JJ	B-JJP	O	औसत	NNPC	B-NP	O	O
+
+64.8	NNP	I-NP	O	%	SYM	I-NP	O	से	PSP	I-NP	O	O
+
+अधिक	QF	I-NP	O	.	SYM	I-NP	O	O
+
+जहां	RB	B-RBP	O	-	SYM	B-NP	O	जहां	PRP	I-NP	O	O
+
+अन्य	JJ	B-NP	O	आचार्यों	NN	I-NP	B-PER	के	PSP	I-NP	O	O
+
+मत	NN	B-NP	O	का	PSP	I-NP	O	प्रतिपादन	NN	B-NP	O	O
+
+किया	VM	B-VGF	O	है	VAUX	I-VGF	O	,	SYM	I-VGF	O	O
+
+अन्त	NN	B-NP	O	में	PSP	I-NP	O	‘	QC	B-NP	O	O
+
+इति	NN	I-NP	O	कौटिल्य	NNPC	B-NP	B-PER	’	QC	I-NP	O	O
+
+अर्थात्	NNPC	I-NP	O	कौटिल्य	NNP	B-NP	B-PER	का	PSP	I-NP	O	O
+
+मत	NN	B-NP	O	है	VM	B-VGF	O	-	SYM	I-VGF	O	O
+
+इस	DEM	B-NP	O	तरह	NN	I-NP	O	कहकर	VM	B-VGNF	O	O
+
+कौटिल्य	NNP	B-NP	B-PER	नाम	NN	B-NP	O	के	PSP	I-NP	O	B-PER
+
+लिए	PSP	I-NP	O	अपना	PRP	B-NP	O	अधिक	QF	I-NP	O	O
+
+पक्षपात	NN	I-NP	O	प्रदर्शित	JJ	B-JJP	O	किया	VM	B-VGF	O	O
+
+है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+इन	DEM	B-NP	O	केन्‍द्रों	NN	I-NP	O	का	PSP	I-NP	O	O
+
+मुख्‍य	JJ	B-NP	O	कार्य	NN	I-NP	O	आस	NN	B-NP	O	O
+
+पास	NST	I-NP	O	के	PSP	I-NP	O	स्‍टेशनों	NN	B-NP	O	O
+
+पर	PSP	I-NP	O	बनाए	VM	B-VGNF	O	गए	VAUX	I-VGNF	O	O
+
+कार्यक्रमों	NN	B-NP	O	का	PSP	I-NP	O	प्रसारण	NN	B-NP	O	O
+
+करना	VM	B-VGNN	O	साथ	NST	B-NP	O	ही	RP	I-NP	O	O
+
+दिल्‍ली	NNP	B-NP	O	के	PSP	I-NP	O	स्‍टूडियो	NN	B-NP	O	B-LOC
+
+से	PSP	I-NP	O	प्रसारण	NN	B-NP	O	करना	VM	B-VGF	O	O
+
+है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	झालावाड़	NN	B-NP	B-LOC	O
+
+जिला	NN	B-NP	I-LOC	.	SYM	I-NP	O	O
+
+दक्षिण	NNPC	B-NP	O	भारत	NNP	I-NP	O	में	PSP	I-NP	O	O
+
+सर्वप्रथम	JJ	B-NP	O	साहित्य	NN	I-NP	O	का	PSP	I-NP	O	O
+
+स्रोत	NN	B-NP	O	भी	RP	I-NP	O	तमिऴकम	NNP	B-NP	B-LOC	O
+
+की	PSP	I-NP	O	भाषा	NN	B-NP	O	प्रस्फुरित	JJ	B-JJP	O	O
+
+हुआ	VM	B-VGF	O	था	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+को	PSP	I-NP	O	आश्चर्य	NN	B-NP	O	होता	VM	B-VGF	O	O
+
+है	VAUX	I-VGF	O	कि	CC	B-CCP	O	क्यों	WQ	B-RBP	O	O
+
+कभी	PRP	B-NP	O	उन्हें	PRP	B-NP	O	पोएट	NN	B-NP	B-PER	O
+
+लौरियट	NN	B-NP	B-PER	नहीं	NEG	B-VGF	O	बनाया	VM	I-VGF	O	O
+
+गया	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+देशद्रोही	NN	B-NP	O	जयचंद	NNP	B-NP	B-PER	का	PSP	I-NP	O	O
+
+इससे	PRP	B-NP	O	भी	RP	I-NP	O	बुरा	JJ	B-NP	O	O
+
+हाल	NN	I-NP	O	हुआ	VM	B-VGF	O	,	SYM	I-VGF	O	O
+
+उसको	PRP	B-NP	O	मर	VM	B-VGNF	O	कर	VAUX	I-VGNF	O	O
+
+कन्नौज	NNP	B-NP	B-LOC	पर	PSP	I-NP	O	अधिकार	NN	B-NP	O	B-LOC
+
+कर	VM	B-VGF	O	लिया	VAUX	I-VGF	O	गया	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	यह	DEM	B-NP	O	O
+
+सुझाव	NN	I-NP	O	दिया	VM	B-VGF	O	गया	VAUX	I-VGF	O	O
+
+है	VAUX	I-VGF	O	कि	CC	B-CCP	O	अल्ट्रासाउंड	NNPC	B-NP	O	O
+
+स्कैन	NNP	I-NP	O	में	PSP	I-NP	O	एक	QC	B-NP	O	O
+
+छोटा	JJ	I-NP	O	सा	RP	I-NP	O	सबक्रोनिक	JJ	B-JJP	O	O
+
+हेमाटोमा	NNP	B-NP	O	मिलने	VM	B-VGNN	O	पर	PSP	I-VGNN	O	O
+
+बिस्तर	NN	B-NP	O	पर	PSP	I-NP	O	आराम	NN	B-NP	O	O
+
+करने	VM	B-VGNN	O	से	PSP	I-VGNN	O	गर्भावस्था	NN	B-NP	O	O
+
+के	PSP	I-NP	O	जारी	JJ	B-JJP	O	रहने	VM	B-VGNN	O	O
+
+की	PSP	I-VGNN	O	संभावना	NN	B-NP	O	बढ़	VM	B-VGNF	O	O
+
+जाती	VAUX	I-VGNF	O	वैकल्पिक	JJ	B-NP	O	रूप	NN	I-NP	O	O
+
+से	PSP	I-NP	O	गर्भावस्था	NN	B-NP	O	के	PSP	I-NP	O	O
+
+नहीं	NEG	B-NEGP	O	ठहरने	VM	B-VGNN	O	पर	PSP	I-VGNN	O	O
+
+उन्हें	PRP	B-NP	O	वर्णित	JJ	B-JJP	O	करने	VM	B-VGNN	O	O
+
+के	PSP	I-VGNN	O	लिए	PSP	I-VGNN	O	निम्नलिखित	JJ	B-NP	O	O
+
+पदों	NN	I-NP	O	का	PSP	I-NP	O	प्रयोग	NN	B-NP	O	O
+
+किया	VM	B-VGF	O	जाता	VAUX	I-VGF	O	है	VAUX	I-VGF	O	O
+
+:	SYM	I-VGF	O	*	SYM	B-BLK	O	एक	QC	I-BLK	O	O
+
+खाली	JJ	B-JJP	O	थैली	VM	B-VGF	O	ऐसी	DEM	B-NP	O	O
+
+स्थिति	NN	I-NP	O	है	VM	B-VGF	O	जहां	PRP	B-NP	O	O
+
+गर्भावस्था	NN	B-NP	O	की	PSP	I-NP	O	थैली	NN	B-NP	O	O
+
+सामान्य	JJ	B-NP	O	रूप	NN	I-NP	O	से	PSP	I-NP	O	O
+
+विकसित	JJ	B-JJP	O	होती	VM	B-VGF	O	है	VAUX	I-VGF	O	O
+
+,	SYM	I-VGF	O	जबकि	CC	B-CCP	O	गर्भावस्था	NN	B-NP	O	O
+
+का	PSP	I-NP	O	भ्रूणीय	JJ	B-NP	O	हिस्सा	NN	I-NP	O	O
+
+या	CC	B-CCP	O	तो	RP	I-CCP	O	अनुपस्थित	JJ	B-JJP	O	O
+
+रहता	VM	B-VGF	O	है	VAUX	I-VGF	O	या	CC	B-CCP	O	O
+
+बहुत	QF	B-NP	O	जल्दी	RB	B-RBP	O	विकसित	JJ	B-JJP	O	O
+
+होना	VM	B-VGNF	O	छोड़	VM	B-VGF	O	देता	VAUX	I-VGF	O	O
+
+है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+अपने	PRP	B-NP	O	ऊँचे	JJ	B-NP	O	तुर्की	JJ	I-NP	B-LOC	O
+
+घोड़े	NN	I-NP	O	से	PSP	I-NP	O	वह	PRP	B-NP	O	O
+
+घायल	JJ	B-NP	O	अवस्था	NN	I-NP	O	में	PSP	I-NP	O	O
+
+गिरने	VM	B-VGNN	O	ही	RP	I-VGNN	O	वाला	PSP	I-VGNN	O	O
+
+था	VAUX	I-VGNN	O	की	PSP	I-VGNN	O	युद्ध	NN	B-NP	O	O
+
+कर	VM	B-VGF	O	रहे	VAUX	I-VGF	O	एक	QC	B-NP	O	O
+
+उसके	PRP	I-NP	O	सैनिक	NN	I-NP	O	की	PSP	I-NP	O	O
+
+दृष्टि	NN	B-NP	O	उस	PRP	B-NP	O	पर	PSP	I-NP	O	O
+
+पड़ी	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+28,231	NNP	B-NP	O	.	SYM	I-NP	O	O
+
+पूर्णस्य	NN	B-NP	O	पूर्णमादाय	JJ	B-JJP	O	पूर्णमेवावशिष्यते..	NNPC	B-NP	O	O
+
+शान्तिः	NNP	I-NP	O	शान्तिः	NNP	B-NP	O	शान्तिः	NNP	B-NP	O	O
+
+.	SYM	I-NP	O	मी	RP	B-BLK	O	O
+
+.	SYM	I-BLK	O	(	SYM	B-NP	O	O
+
+जो	PRP	I-NP	O	कि	CC	B-CCP	O	उस	DEM	B-NP	O	O
+
+वक्त	NN	I-NP	O	अपने	PRP	B-NP	O	घरवालों	NN	I-NP	O	O
+
+के	PSP	I-NP	O	साथ	NST	I-NP	O	अपने	PRP	B-NP	O	O
+
+घर	NN	I-NP	O	में	PSP	I-NP	O	थे	VM	B-VGF	O	O
+
+)	SYM	I-VGF	O	तो	RP	I-VGF	O	पीड़ित	JJ	B-NP	O	O
+
+खब्बाब	NN	I-NP	O	ने	PSP	I-NP	O	ऊँचे	JJ	B-NP	O	O
+
+स्वर	NN	I-NP	O	में	PSP	I-NP	O	कहा	VM	B-VGF	O	O
+
+कि	CC	B-CCP	O	पैग़म्बर	NNPC	B-NP	B-PER	मुहम्मद	NN	I-NP	I-PER	O
+
+को	PSP	I-NP	O	एक	QC	B-NP	O	कांटा	NN	I-NP	O	O
+
+चुभने	VM	B-VGNN	O	की	PSP	I-VGNN	O	मामूली	JJ	B-NP	O	O
+
+तकलीफ़	NN	I-NP	O	से	PSP	I-NP	O	बचाने	VM	B-VGNN	O	O
+
+के	PSP	I-VGNN	O	लिए	PSP	I-VGNN	O	भी	RP	I-VGNN	O	O
+
+वे	PRP	B-NP	O	अपनी	PRP	B-NP	O	जान	NN	I-NP	O	O
+
+,	SYM	I-NP	O	अपने	PRP	B-NP	O	बच्चों	NN	I-NP	O	O
+
+एवं	NNC	B-NP	O	परिवार	NN	I-NP	O	,	SYM	I-NP	O	O
+
+अपना	PRP	B-NP	O	सब	PRPC	I-NP	O	कुछ	PRP	B-NP	O	O
+
+कु़र्बान	NN	B-NP	O	करने	VM	B-VGNN	O	के	PSP	I-VGNN	O	O
+
+लिए	PSP	I-VGNN	O	तैयार	JJ	B-JJP	O	हैं	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	एक	QC	B-NP	O	O
+
+मोहल्‍ला	NNPC	I-NP	B-PER	चूनगरान	NN	I-NP	I-PER	में	PSP	I-NP	O	O
+
+तो	RP	I-NP	O	दूसरा	QO	B-NP	O	गोगागेट	NNP	I-NP	B-LOC	O
+
+के	PSP	I-NP	O	पास	NST	I-NP	O	कहीं	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	कमेंटरी	NN	B-NP	O	O
+
+पत्रिका	NN	B-NP	O	]	SYM	I-NP	O	]	NNPC	I-NP	O	O
+
+मार्च	NNPC	B-NP	O	1983	NNP	I-NP	O	.	SYM	I-NP	O	O
+
+1985	NNP	B-NP	O	]	SYM	I-NP	O	]	SYM	I-NP	O	O
+
+.	SYM	I-NP	O	18,570	NNP	B-NP	O	O
+
+.	SYM	I-NP	O	.	SYM	B-BLK	O	O
+
+भी	RP	I-NP	O	इसका	PRP	B-NP	O	समर्थन	NN	I-NP	O	O
+
+किया	VM	B-VGF	O	है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+.	SYM	B-BLK	O	.	SYM	B-BLK	O	O
+
+]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+पुराने	JJ	B-NP	O	काल	NN	I-NP	O	में	PSP	I-NP	O	O
+
+ज्योतिष	NN	B-NP	O	,	SYM	I-NP	O	मंत्र	NNC	B-NP	O	O
+
+-	SYM	I-NP	O	तंत्र	NN	I-NP	O	आदि	RP	I-NP	O	O
+
+विज्ञान	NN	B-NP	O	के	PSP	I-NP	O	रूप	PSP	I-NP	O	O
+
+में	PSP	I-NP	O	विकसित	JJ	B-JJP	O	हुए	VAUX	B-VGF	O	O
+
+थे	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	.	SYM	B-BLK	O	O
+
+किपलिंग	NNPC	I-BLK	B-ORG	सोसायटी	NNP	B-NP	I-ORG	द्वारा	PSP	I-NP	O	B-PER
+
+प्रकाशित	JJ	B-JJP	O	.	SYM	I-JJP	O	O
+
+नायक	NNP	B-NP	O	]	SYM	I-NP	O	]	SYM	I-NP	O	O
+
+.	SYM	I-NP	O	.	SYM	B-BLK	O	O
+
+]	SYM	I-NP	O	]	SYM	I-NP	O	का	PSP	I-NP	O	O
+
+.	SYM	I-NP	O	विश्वात्मा	NNPC	B-NP	O	O
+
+]	SYM	I-NP	O	]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+लिंग	NNC	B-NP	O	संबंध	NN	I-NP	O	सैंटर	NN	B-NP	O	O
+
+,	SYM	I-NP	O	आरएसपीएएस	NNP	B-NP	O	,	SYM	I-NP	O	O
+
+द	NNPC	B-NP	B-ORG	आस्ट्रेलियन	NNPC	I-NP	I-ORG	नेशनल	NNPC	B-NP	B-ORG	O
+
+युनिवर्सिटी	NNP	I-NP	I-ORG	.	SYM	I-NP	O	O
+
+-	SYM	B-BLK	O	.	SYM	I-BLK	O	O
+
+ग़दर	NN	B-NP	O	]	SYM	I-NP	O	]	SYM	I-NP	O	O
+
+.	SYM	I-NP	O	.	SYM	B-BLK	O	O
+
+भवन	NN	B-NP	O	के	PSP	I-NP	O	प्रथम	QO	B-NP	O	O
+
+तल	NN	I-NP	O	पर	PSP	I-NP	O	बना	VM	B-VGNF	O	O
+
+अपार	JJ	B-NP	O	क्षमता	NN	I-NP	O	का	PSP	I-NP	O	O
+
+हौज	NN	B-NP	O	जो	PRP	B-NP	O	225	QC	B-NP	O	O
+
+वर्षों	NN	I-NP	O	से	PSP	I-NP	O	आज	NN	B-NP	O	O
+
+भी	RP	I-NP	O	अपनी	PRP	B-NP	O	क्षमता	NN	I-NP	O	O
+
+के	PSP	I-NP	O	अनुरूप	PSP	I-NP	O	कार्य	NN	B-NP	O	O
+
+कर	VM	B-VGF	O	रहा	VAUX	I-VGF	O	है	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	चित्तौडगढ़	NNP	B-NP	B-LOC	O
+
+जिला	NN	I-NP	I-LOC	.	SYM	I-NP	O	O
+
+35,438	NNP	B-NP	O	.	SYM	I-NP	O	O
+
+1,852	NNP	B-NP	O	.	SYM	I-NP	O	O
+
+.	SYM	B-BLK	O	दूर	NST	B-NP	O	O
+
+नालदेश्वर	NNP	B-NP	B-LOC	नामक	JJ	B-NP	O	जगह	NN	I-NP	O	O
+
+है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	.	SYM	B-BLK	O	O
+
+संरचना	NN	B-NP	O	के	PSP	I-NP	O	विकास	NN	B-NP	O	O
+
+एवं	CC	B-CCP	O	विभिन्न	JJ	B-NP	O	संस्थानों	NN	I-NP	O	O
+
+के	PSP	I-NP	O	निर्माण	NN	B-NP	O	से	PSP	I-NP	O	O
+
+परिपूर्ण	JJ	B-JJP	O	था	VAUX	B-VGF	O	.	SYM	I-VGF	O	O
+
+झील	NN	B-NP	O	के	PSP	I-NP	O	साथ	NST	I-NP	O	O
+
+वाले	PSP	I-NP	O	रोड	NN	B-NP	O	पर	PSP	I-NP	O	O
+
+केन	NN	B-NP	O	से	PSP	I-NP	O	बने	VM	B-VGNF	O	O
+
+हुए	VAUX	I-VGNF	O	घर	NN	B-NP	O	बडा	VM	B-VGNN	O	O
+
+ही	RP	I-VGNN	O	मनोरम	JJ	B-NP	O	दृश्य	NN	I-NP	O	O
+
+प्रस्तुत	JJ	B-JJP	O	करते	VM	B-VGF	O	हैं	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	ज़ालिम	NNPC	B-NP	B-PER	O
+
+सिंह	NNP	I-NP	I-PER	.	SYM	I-NP	O	B-PER
+
+हैमंड	NNPC	B-NP	B-LOC	]	SYM	I-NP	O	]	SYM	I-NP	O	O
+
+.	SYM	I-NP	O	उनके	PRP	B-NP	O	O
+
+पास	NST	I-NP	O	सदैव	NN	B-NP	O	स्थिर	JJ	B-NP	O	O
+
+लक्ष्मी	NNP	I-NP	B-PER	होती	VM	B-VGF	O	है	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	जाड़े	NN	B-NP	O	O
+
+का	PSP	I-NP	O	मौसम	NN	B-NP	O	नवंबर	NNP	B-NP	O	O
+
+से	PSP	I-NP	O	मध्य	NNPC	B-NP	O	फरवरी	NNP	I-NP	O	O
+
+तक	PSP	I-NP	O	रहता	VM	B-VGF	O	है	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	.	SYM	B-BLK	O	O
+
+]	SYM	I-NP	O	]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+यह	DEM	B-NP	O	45	QCC	I-NP	O	लाख	QC	I-NP	O	O
+
+हो	VM	B-VGF	O	गई	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+मुझे	PRP	B-NP	O	कुछ	PRP	B-NP	O	कहना	VM	B-VGF	O	O
+
+है	VM	I-VGF	O	]	SYM	I-VGF	O	]	SYM	I-VGF	O	O
+
+.	SYM	I-VGF	O	.	SYM	B-BLK	O	O
+
+ने	PSP	I-NP	O	इनका	PRP	B-NP	O	काला	JJ	B-NP	O	O
+
+रंग	NN	I-NP	O	देख	VM	B-VGNF	O	इन्हें	PRP	B-NP	O	O
+
+आसन	NN	B-NP	O	पर	PSP	I-NP	O	से	PSP	I-NP	O	O
+
+उठवा	VM	B-VGF	O	दिया	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+उत्तरप्रदेश	NNPC	B-NP	B-LOC	]	SYM	I-NP	O	]	SYM	I-NP	O	O
+
+में	PSP	I-NP	O	भयानक	JJ	B-NP	O	द्वेष	NN	I-NP	O	O
+
+के	PSP	I-NP	O	रूप	PSP	I-NP	O	में	PSP	I-NP	O	O
+
+अंत	NN	B-NP	O	हुआ	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+उसकी	PRP	B-NP	O	सर्वोपरि	NN	I-NP	O	इच्छा	NN	B-NP	O	O
+
+थी	VAUX	I-NP	O	भारत	NNP	B-NP	O	को	PSP	I-NP	O	O
+
+एक	QC	B-NP	O	गौरवशाली	JJ	I-NP	O	और	CC	B-CCP	O	O
+
+विशाल	JJ	B-NP	O	राज्य	NN	I-NP	O	के	PSP	I-NP	O	O
+
+रूप	PSP	I-NP	O	में	PSP	I-NP	O	देखना	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	वर्तमान	NN	B-NP	O	O
+
+में	PSP	I-NP	O	कुल	QF	B-NP	O	23712	QC	I-NP	O	O
+
+हेक्टेयर	NN	I-NP	O	भूमि	NN	B-NP	O	की	PSP	I-NP	O	O
+
+सिंचाई	NN	B-NP	O	नहरों	NN	B-NP	O	द्वारा	PSP	I-NP	O	O
+
+की	VM	B-VGF	O	जाती	VAUX	I-VGF	O	है	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	जसवंत	NNPC	B-NP	B-PER	O
+
+सिंह	NNP	I-NP	I-PER	.	SYM	I-NP	O	B-PER
+
+.	SYM	B-BLK	O	.	SYM	B-BLK	O	O
+
+भगवान	NN	B-NP	B-PER	के	PSP	I-NP	O	श्रीविग्रहपर	NNPC	B-NP	O	B-PER
+
+हल्दी	NN	I-NP	O	,	SYM	I-NP	O	दही	NN	B-NP	O	O
+
+,	SYM	I-NP	O	घी	VM	B-VGNN	O	,	SYM	I-VGNN	O	O
+
+तेल	NN	B-NP	O	,	SYM	I-NP	O	गुलाबजल	NNP	B-NP	O	O
+
+,	SYM	I-NP	O	मक्खन	NNP	B-NP	O	,	SYM	I-NP	O	O
+
+केसर	NN	B-NP	O	,	SYM	I-NP	O	कपूर	NNP	B-NP	O	O
+
+आदि	RP	I-NP	O	चढाकर	VM	B-VGNN	O	ब्रजवासीउसका	NNPC	I-VGNN	O	O
+
+परस्पर	JJ	B-NP	O	लेपन	NN	I-NP	O	और	CC	B-CCP	O	O
+
+छिडकाव	NN	B-NP	O	करते	VM	B-VGF	O	हैं	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	नगर	NNP	B-NP	O	O
+
+की	PSP	I-NP	O	तटरेखा	NN	B-NP	O	बहुत	INTF	B-NP	O	O
+
+अधिक	QF	I-NP	O	निवेशिकाओं	NN	I-NP	O	(	SYM	B-NP	O	O
+
+संकरी	NN	I-NP	O	खाड़ियों	NN	I-NP	O	)	SYM	I-NP	O	O
+
+से	PSP	I-NP	O	भरी	VM	B-VGF	O	है	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	.	SYM	B-BLK	O	O
+
+है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+आई	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	इतिहास	NN	B-NP	O	O
+
+में	PSP	I-NP	O	दमित	JJ	B-NP	O	नरनाहर	NN	I-NP	B-PER	O
+
+गोकुल	NNP	B-NP	I-PER	का	PSP	I-NP	O	चरित्र	NN	B-NP	O	O
+
+छन्दों	NN	B-NP	O	में	PSP	I-NP	O	सबके	PRP	B-NP	O	O
+
+समक्ष	NST	B-NP	O	आ	VM	B-VGF	O	गया	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	कई	QF	B-NP	O	O
+
+फसलों	NN	I-NP	O	को	PSP	I-NP	O	नई	JJ	B-NP	O	O
+
+जगह	NN	I-NP	O	ले	VM	B-VGNF	O	जाकर	VAUX	I-VGNF	O	O
+
+बोया	VM	B-VGF	O	गया	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+संयुक्त	JJ	B-NP	O	भूमि	NN	I-NP	O	ही	RP	I-NP	O	O
+
+अर्थ	NN	B-NP	O	है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+के	PSP	I-NP	O	किनारे	NN	B-NP	O	इस	DEM	B-NP	O	O
+
+मंदिर	NN	I-NP	O	के	PSP	I-NP	O	साथ	NST	I-NP	O	O
+
+और	QF	B-NP	O	भी	RP	I-NP	O	मंदिर	NN	I-NP	O	O
+
+बने	VM	B-VGF	O	हुए	VAUX	I-VGF	O	हैं	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	.	SYM	B-BLK	O	O
+
+अनुसार	PSP	I-NP	O	डीग	NNP	B-NP	B-LOC	के	PSP	I-NP	O	O
+
+महल	NN	B-NP	O	में	PSP	I-NP	O	दक्षिण	NNPC	B-NP	O	O
+
+बरांडे	NNP	I-NP	O	के	PSP	I-NP	O	कुछ	QF	B-NP	O	O
+
+छज्जे	NN	I-NP	O	,	SYM	I-NP	O	पश्चिम	NNP	B-NP	O	O
+
+के	PSP	I-NP	O	कुछ	QF	B-NP	O	स्तम्भ	NN	I-NP	O	O
+
+,	SYM	I-NP	O	उत्तर	NNPC	B-NP	O	दिशा	NNP	I-NP	O	O
+
+के	PSP	I-NP	O	बरांडे	NN	B-NP	O	का	PSP	I-NP	O	O
+
+फर्श	NN	B-NP	O	,	SYM	I-NP	O	इन	DEM	B-NP	O	O
+
+सभी	PRP	I-NP	O	में	PSP	I-NP	O	रूपवास	NN	B-NP	O	O
+
+परगने	VM	B-VGNN	O	में	PSP	I-VGNN	O	स्थित	JJ	B-JJP	O	O
+
+बाँसी	JJ	I-JJP	O	पहाडपुर	NNP	B-NP	B-LOC	का	PSP	I-NP	O	O
+
+पत्थर	NN	B-NP	O	इस्तेमाल	NN	B-NP	O	किया	VM	B-VGF	O	O
+
+गया	VAUX	I-VGF	O	है	VAUX	I-VGF	O	,	SYM	I-VGF	O	O
+
+जो	PRP	B-NP	O	शैली	NN	B-NP	O	की	PSP	I-NP	O	O
+
+रमणीयता	NN	B-NP	O	और	CC	B-CCP	O	शिल्प	NN	B-NP	O	O
+
+की	PSP	I-NP	O	पूर्णता	NN	B-NP	O	की	PSP	I-NP	O	O
+
+दृष्टि	NN	B-NP	O	से	PSP	I-NP	O	इतने	QF	B-JJP	O	O
+
+श्रेष्ठ	JJ	I-JJP	O	हैं	VM	B-VGF	O	कि	CC	B-CCP	O	O
+
+उनसे	PRP	B-NP	O	बढ	VM	B-VGNF	O	कर	VM	B-VGF	O	O
+
+केवल	RP	I-VGF	O	आगरा	NNP	B-NP	B-LOC	का	PSP	I-NP	O	O
+
+ताजमहल	NNP	B-NP	B-LOC	है	VM	B-VGF	O	.	SYM	I-VGF	O	B-LOC
+
+साथ	NST	I-NP	O	होने	VM	B-VGNN	O	वाले	PSP	I-VGNN	O	O
+
+संघर्ष	NN	B-NP	O	में	PSP	I-NP	O	भी	RP	I-NP	O	O
+
+उसके	PRP	B-NP	O	बहुत	QF	I-NP	O	से	PSP	I-NP	O	O
+
+वीरों	NN	B-NP	O	की	PSP	I-NP	O	हानि	NN	B-NP	O	O
+
+हुई	VM	B-VGF	O	थी	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+फोन	NN	I-NP	O	महंगे	JJ	B-JJP	O	होते	VM	B-VGF	O	O
+
+हैं	VAUX	I-VGF	O	,	SYM	I-VGF	O	उनका	PRP	B-NP	O	O
+
+इस्तेमाल	NN	I-NP	O	आमतौर	NN	B-NP	O	पर	PSP	I-NP	O	O
+
+दूरदराज	NN	B-NP	O	के	PSP	I-NP	O	इलाकों	NN	B-NP	O	O
+
+तक	PSP	I-NP	O	सीमित	JJ	B-JJP	O	है	VM	B-VGF	O	O
+
+,	SYM	I-VGF	O	जहाँ	PRP	B-NP	O	कोई	PRP	B-NP	B-MISC	O
+
+मोबाइल	NNC	I-NP	I-MISC	फोन	NN	I-NP	I-MISC	व्याप्ति	NN	B-NP	O	O
+
+नहीं	NEG	B-VGF	O	होती	VM	I-VGF	O	है	VAUX	I-VGF	O	O
+
+,	SYM	I-VGF	O	जैसे	PRP	B-NP	O	की	PSP	I-NP	O	O
+
+पहाड़	NN	B-NP	O	पर्वतारोही	NN	B-NP	O	,	SYM	I-NP	O	O
+
+खुले	JJ	B-NP	O	समुद्र	NN	I-NP	O	में	PSP	I-NP	O	O
+
+मल्लाह	NN	B-NP	O	और	CC	B-CCP	O	आपदा	NNC	B-NP	O	O
+
+स्थलों	NN	B-NP	O	पर	PSP	I-NP	O	समाचार	NN	B-NP	O	O
+
+पत्रकारों	NN	B-NP	O	.	SYM	I-NP	O	O
+
+दक्षिण	NNPC	B-NP	B-LOC	अफ्रीका	NNP	I-NP	I-LOC	में	PSP	I-NP	O	O
+
+भारतीयों	NN	B-NP	O	पर	PSP	I-NP	O	हो	VM	B-VGNF	O	O
+
+रहे	VAUX	I-VGNF	O	अन्याय	NN	B-NP	O	को	PSP	I-NP	O	O
+
+देखते	VM	B-VGNF	O	हुए	VAUX	I-VGNF	O	गान्धी	NN	B-NP	B-PER	O
+
+ने	PSP	I-NP	O	अंग्रेजी	NNP	B-NP	O	साम्राज्य	NN	I-NP	O	O
+
+के	PSP	I-NP	O	अन्तर्गत	JJ	B-JJP	O	अपने	PRP	B-NP	O	O
+
+देशवासियों	NN	I-NP	O	के	PSP	I-NP	O	सम्मान	NN	B-NP	O	O
+
+तथा	CC	B-CCP	O	देश	NN	B-NP	O	में	PSP	I-NP	O	O
+
+स्वयं	PRP	B-NP	O	अपनी	PRP	B-NP	O	स्थिति	NN	I-NP	O	O
+
+के	PSP	I-NP	O	लिए	PSP	I-NP	O	प्रश्न	NN	B-NP	O	O
+
+उठाये	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+गंगा	NNP	B-NP	O	के	PSP	I-NP	O	पूर्वी	JJ	B-NP	O	O
+
+मैदान	NN	I-NP	O	में	PSP	I-NP	O	स्थित	JJ	B-JJP	O	O
+
+इस	DEM	B-NP	O	राज्य	NN	I-NP	O	की	PSP	I-NP	O	O
+
+औसत	NN	B-NP	O	ऊँचाई	NN	B-NP	O	173	QC	B-NP	O	O
+
+फीट	NN	I-NP	O	है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+निकट	NST	I-NP	O	होने	VM	B-VGNN	O	के	PSP	I-VGNN	O	O
+
+कारण	PSP	I-VGNN	O	यह	DEM	B-NP	O	राष्ट्रीय	JJ	I-NP	O	O
+
+राजधानी	NN	I-NP	O	क्षेत्र	NN	B-NP	O	मे	PSP	I-NP	O	O
+
+शामिल	JJ	B-JJP	O	है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+अनुसार	PSP	I-NP	O	भंडार	NNP	B-NP	O	की	PSP	I-NP	O	O
+
+विशाल	JJ	B-NP	O	क्षमता	NN	I-NP	O	को	PSP	I-NP	O	O
+
+आवश्यक	JJ	B-NP	O	मजबूती	NN	I-NP	O	प्रदान	NN	B-NP	O	O
+
+करने	VM	B-VGNN	O	में	PSP	I-VGNN	O	यह	DEM	B-NP	O	O
+
+टंकी	NN	I-NP	O	हिंदुस्तान	NNP	B-NP	O	में	PSP	I-NP	O	O
+
+बेजोड़	JJ	B-JJP	O	है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+स्थान	NN	B-NP	O	विशेष	NN	B-NP	O	पर	PSP	I-NP	O	O
+
+पाए	VM	B-VGNF	O	जाने	VAUX	I-VGNF	O	वाले	PSP	I-VGNF	O	O
+
+स्थापत्य	NN	B-NP	O	से	PSP	I-NP	O	वहां	PRP	B-NP	O	O
+
+रहने	VM	B-VGNN	O	वालों	PSP	I-VGNN	O	के	PSP	I-VGNN	O	O
+
+चिंतन	NN	B-NP	O	,	SYM	I-NP	O	विचार	NN	B-NP	O	O
+
+,	SYM	I-NP	O	विश्वास	NN	B-NP	O	एवं	CC	B-CCP	O	O
+
+बौद्धिक	JJ	B-NP	O	कल्पनाशीलता	NN	I-NP	O	का	PSP	I-NP	O	O
+
+आभास	NN	B-NP	O	होता	VM	B-VGF	O	है	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	9,538	NNP	B-NP	O	O
+
+.	SYM	I-NP	O	.	SYM	B-BLK	O	O
+
+]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+.	SYM	B-BLK	O	महलों	NN	B-NP	O	O
+
+की	PSP	I-NP	O	ड्रेनेज	NNC	B-NP	O	व्यवस्था	NN	I-NP	O	O
+
+चाहे	RB	B-RBP	O	छत	NN	B-NP	O	की	PSP	I-NP	O	O
+
+हो	VAUX	I-NP	O	या	CC	B-CCP	O	फर्श	NN	B-NP	O	O
+
+तल	NN	B-NP	O	की	PSP	I-NP	O	,	SYM	I-NP	O	O
+
+कुशल	JJ	B-NP	O	इंजीनियरिंग	NN	I-NP	O	का	PSP	I-NP	O	O
+
+प्रणाम	NN	B-NP	O	है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+जैब	NNP	B-NP	O	के	PSP	I-NP	O	प्यार	NN	B-NP	O	O
+
+का	PSP	I-NP	O	किस्सा	NN	B-NP	O	भी	RP	I-NP	O	O
+
+उससे	PRP	B-NP	O	न	NEG	B-VGF	O	छिप	VM	I-VGF	O	O
+
+सका	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+चंबा	NNPC	B-NP	O	]	SYM	I-NP	O	]	SYM	I-NP	O	O
+
+.	SYM	I-NP	O	भगवान	NN	B-NP	B-PER	O
+
+के	PSP	I-NP	O	श्रीविग्रहका	NNP	B-NP	B-PER	शृंगार	NN	B-NP	O	O
+
+करके	VM	B-VGNF	O	उसे	PRP	B-NP	O	झूला	VM	B-VGNF	O	O
+
+झुलाया	VM	B-VGF	O	जाता	VAUX	I-VGF	O	है	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	सी	RP	B-BLK	O	O
+
+]	SYM	I-BLK	O	]	NNP	B-NP	O	के	PSP	I-NP	O	O
+
+अंतर्गत	PSP	I-NP	O	10,575	QC	B-NP	O	मामले	NN	I-NP	O	O
+
+दर्ज	JJ	B-JJP	O	किए	VM	B-VGF	O	थे	VAUX	I-VGF	O	O
+
+,	SYM	I-VGF	O	जो	PRP	B-NP	O	देश	NN	B-NP	O	O
+
+में	PSP	I-NP	O	दसवें	QO	B-NP	O	स्थान	NN	I-NP	O	O
+
+पर	PSP	I-NP	O	सबसे	INTF	B-NP	O	अधिक	QF	I-NP	O	O
+
+थे	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+तमाम	QF	B-NP	O	दिन	NN	I-NP	O	व्यस्त	JJ	B-JJP	O	O
+
+रहने	VM	B-VGNN	O	के	PSP	I-VGNN	O	बाद	NST	I-VGNN	O	O
+
+रात	NN	B-NP	O	को	PSP	I-NP	O	आप	PRP	B-NP	O	O
+
+नर्म	NNC	B-NP	O	बिस्तर	NN	I-NP	O	पर	PSP	I-NP	O	O
+
+नहीं	NEG	B-NEGP	O	,	SYM	I-NEGP	O	खजूर	NNP	B-NP	O	O
+
+की	PSP	I-NP	O	चटाई	NN	B-NP	O	पर	PSP	I-NP	O	O
+
+सोते	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+ईसाईयत	NN	B-NP	O	के	PSP	I-NP	O	रहस्यमयी	JJ	B-NP	O	O
+
+तत्व	NN	I-NP	O	]	SYM	I-NP	O	]	SYM	I-NP	O	O
+
+,	SYM	I-NP	O	को	PSP	I-NP	O	ब्रह्माण्ड	NN	B-NP	O	O
+
+के	PSP	I-NP	O	बारे	PSP	I-NP	O	में	PSP	I-NP	O	O
+
+बोयल	NN	B-NP	O	की	PSP	I-NP	O	यांत्रिक	JJ	B-NP	O	O
+
+अवधारणा	NN	I-NP	O	से	PSP	I-NP	O	नींव	NN	B-NP	O	O
+
+मिली	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	32,064	NNP	B-NP	O	O
+
+.	SYM	I-NP	O	उत्‍पादन	NN	B-NP	O	O
+
+सहायक	NN	B-NP	O	और	CC	B-CCP	O	एनएफ	NNP	B-NP	O	O
+
+संपादकों	NN	B-NP	O	के	PSP	I-NP	O	कौशलों	NN	B-NP	O	O
+
+को	PSP	I-NP	O	सुधारने	VM	B-VGNN	O	के	PSP	I-VGNN	O	O
+
+लिए	PSP	I-VGNN	O	भी	RP	I-VGNN	O	एक	QC	B-NP	O	O
+
+अभिविन्‍यास	NN	I-NP	O	कार्यशाला	NN	B-NP	O	का	PSP	I-NP	O	O
+
+आयोजन	NN	B-NP	O	किया	VM	B-VGF	O	गया	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	'	SYM	B-BLK	O	O
+
+'	SYM	I-BLK	O	(	NNPC	B-NP	O	5	QC	I-NP	O	O
+
+)	SYM	I-NP	O	(	SYM	B-NP	O	मनुष्यों	NN	I-NP	O	O
+
+से	PSP	I-NP	O	युक्त	JJ	B-NP	O	भूमि	NN	I-NP	O	O
+
+को	PSP	I-NP	O	प्राप्त	JJ	B-JJP	O	करने	VM	B-VGNN	O	O
+
+और	CC	B-CCP	O	उसकी	PRP	B-NP	O	रक्षा	NN	I-NP	O	O
+
+करने	VM	B-VGNF	O	वाले	PSP	I-VGNF	O	उपायों	NN	B-NP	O	O
+
+का	PSP	I-NP	O	निरूपण	NN	B-NP	O	करने	VM	B-VGNN	O	O
+
+वाला	PSP	I-VGNN	O	शास्त्र	NN	B-NP	O	अर्थशास्त्र	NN	B-NP	B-MISC	O
+
+कहलाता	VM	B-VGNF	O	है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+का	PSP	I-NP	O	हृदय	NNC	B-NP	O	प्रेम	NN	I-NP	O	O
+
+और	CC	B-CCP	O	करूणा	NNP	B-NP	O	से	PSP	I-NP	O	O
+
+छलक	VM	B-VGF	O	पड़ा	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+की	PSP	B-NP	O	दूरी	NN	I-NP	O	पर	PSP	I-NP	O	O
+
+है	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+पाँचवी	NNPC	B-NP	O	शताब्दी	NNP	I-NP	O	के	PSP	I-NP	O	O
+
+आसपास	NST	I-NP	O	इस	DEM	B-NP	O	प्रदेश	NN	I-NP	O	O
+
+के	PSP	I-NP	O	पश्चिमोत्तरीय	JJ	B-NP	O	भाग	NN	I-NP	O	O
+
+पर	PSP	I-NP	O	राज	NNPC	B-NP	B-PER	ईशर	NNPC	I-NP	I-PER	O
+
+चौहान	NNP	B-NP	B-PER	के	PSP	I-NP	O	पुत्र	NN	B-NP	O	O
+
+राजा	NNC	B-NP	B-PER	उमादत्त	NNP	B-NP	B-PER	के	PSP	I-NP	O	O
+
+छोटे	JJ	B-NP	O	भाई	NN	I-NP	O	मोरध्वज	NNP	B-NP	B-PER	O
+
+का	PSP	I-NP	O	राज्य	NN	B-NP	O	था	VM	B-VGF	O	O
+
+जो	PRP	B-NP	O	सम्राट	NN	B-NP	O	पृथ्वीराज	NNP	B-NP	B-PER	O
+
+से	PSP	I-NP	O	34	QC	B-NP	O	पीढ़ी	NN	I-NP	O	O
+
+पूर्व	JJ	B-JJP	O	हुआ	VM	B-VGF	O	था	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	रावल	NNPC	B-NP	B-LOC	O
+
+जैसल	NNP	I-NP	B-LOC	द्वारा	PSP	I-NP	O	निर्मित	JJ	B-JJP	O	O
+
+यह	DEM	B-NP	O	किला	NN	I-NP	O	जो	PRP	B-NP	O	O
+
+80	QC	B-NP	O	मीटर	NN	I-NP	O	ऊंची	JJ	B-NP	O	O
+
+त्रिकूट	NNPC	I-NP	B-LOC	पहाड़ी	NN	I-NP	I-LOC	पर	PSP	I-NP	O	O
+
+स्थित	JJ	B-JJP	O	है	VM	B-VGF	O	,	SYM	I-VGF	O	O
+
+इसमें	PRP	B-NP	O	महलों	NN	B-NP	O	की	PSP	I-NP	O	O
+
+बाहरी	JJ	B-NP	O	दीवारें	NN	I-NP	O	,	SYM	I-NP	O	O
+
+घर	NN	B-NP	O	और	CC	B-CCP	O	मंदिर	NN	B-NP	O	O
+
+कोमल	NNPC	B-NP	O	पीले	JJ	I-NP	O	सेंट	NNPC	I-NP	O	O
+
+स्‍टोन	NNP	B-NP	O	से	PSP	I-NP	O	बने	VM	B-VGF	O	O
+
+हैं	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	'	SYM	B-NP	O	O
+
+पंचकर्म	NNC	I-NP	O	चिकित्सा	NN	I-NP	O	'	SYM	I-NP	O	O
+
+जो	PRP	B-NP	O	कि	CC	B-CCP	O	पुनर्यौवन	NNC	B-NP	O	O
+
+चिकित्सा	NNC	I-NP	O	कहलाती	VM	B-VGF	O	है	VM	I-VGF	O	O
+
+,	SYM	I-VGF	O	इसकेलिए	PRP	B-NP	O	सैकड़ों	QC	B-NP	O	O
+
+विदेशी	JJ	I-NP	O	पर्यटक	NNC	I-NP	O	प्रतिवर्ष	NN	I-NP	O	O
+
+केरल	NNP	B-NP	B-LOC	आते	VM	B-VGF	O	हैं	VAUX	I-VGF	O	B-LOC
+
+.	SYM	I-VGF	O	.	SYM	B-BLK	O	O
+
+]	SYM	I-NP	O	]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+महाराज	NNPC	B-NP	B-PER	जयचंद	NNP	I-NP	O	और	CC	B-CCP	O	O
+
+पृथ्वीराज	NNPC	B-NP	B-PER	चौहान	NNP	I-NP	I-PER	में	PSP	I-NP	O	B-PER
+
+कट्टर	JJ	B-NP	O	दुश्मनी	NN	I-NP	O	थी	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	इसका	PRP	B-NP	O	O
+
+निर्माण	NN	I-NP	O	अलवर	NNP	B-NP	B-LOC	के	PSP	I-NP	O	O
+
+महाराज	NNPC	I-NP	B-PER	जय	NNPC	B-NP	B-PER	सिंह	NNP	I-NP	I-PER	O
+
+ने	PSP	I-NP	O	1910	NNP	B-NP	O	में	PSP	I-NP	O	O
+
+पिकनिक	NN	B-NP	O	के	PSP	I-NP	O	लिए	PSP	I-NP	O	O
+
+करवाया	VM	B-VGF	O	था	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+करेगा	VM	B-VGF	O	]	SYM	I-VGF	O	]	SYM	B-BLK	O	O
+
+.	SYM	I-BLK	O	अत	NNPC	B-NP	O	O
+
+:	SYM	I-NP	O	औरंगजेब	NNPC	B-NP	B-PER	स्वयं	PRP	I-NP	O	O
+
+एक	QC	B-NP	O	बड़ी	JJ	I-NP	O	सेना	NN	I-NP	O	O
+
+,	SYM	I-NP	O	तोपों	NN	B-NP	O	और	CC	B-CCP	O	O
+
+तोपचियों	NN	B-NP	O	के	PSP	I-NP	O	साथ	NST	I-NP	O	O
+
+,	SYM	I-NP	O	अपने	PRP	B-NP	O	इस	DEM	B-NP	O	O
+
+अभूतपूर्व	JJ	I-NP	O	प्रतिद्वंदी	NN	I-NP	O	से	PSP	I-NP	O	O
+
+निपटने	VM	B-VGNF	O	चल	VM	B-VGF	O	पड़ा	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	.	SYM	B-BLK	O	O
+
+में	PSP	I-NP	O	कृष्ण	NNPC	B-NP	B-LOC	मंदिर	NN	I-NP	I-LOC	O
+
+हैं	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	.	SYM	B-BLK	O	O
+
+जो	PRP	B-NP	O	ईश्वर	NNP	B-NP	O	के	PSP	I-NP	O	O
+
+समादेश	NN	B-NP	O	से	PSP	I-NP	O	मृत्यु	NN	B-NP	O	O
+
+का	PSP	I-NP	O	दूत	NN	B-NP	O	जो	PRP	B-NP	O	O
+
+मनुषय	NN	B-NP	O	की	PSP	I-NP	O	आत्मा	NN	B-NP	O	O
+
+ले	VM	B-VGF	O	जाता	VAUX	I-VGF	O	है	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	उसने	PRP	B-NP	O	O
+
+संसद	NN	B-NP	O	में	PSP	I-NP	O	अर्जी	NN	B-NP	O	O
+
+दी	VM	B-VGF	O	कि	CC	B-CCP	O	सिक्कों	NN	B-NP	O	O
+
+की	PSP	I-NP	O	ढलाई	NN	B-NP	O	के	PSP	I-NP	O	O
+
+लिए	PSP	I-NP	O	उसकी	PRP	B-NP	O	योजना	NN	I-NP	O	O
+
+को	PSP	I-NP	O	स्वीकार	NN	B-NP	O	कर	VM	B-VGF	O	O
+
+लिया	VAUX	I-VGF	O	जाये	VAUX	I-VGF	O	ताकि	CC	B-CCP	O	O
+
+जालसाजी	NN	B-NP	O	न	NEG	B-NP	O	की	VM	I-NP	O	O
+
+जा	VAUX	I-NP	O	सके	VAUX	I-NP	O	,	SYM	I-NP	O	O
+
+जबकि	CC	B-CCP	O	उसी	DEM	B-NP	O	समय	NN	I-NP	O	O
+
+जाली	VM	B-VGNF	O	सिक्के	NNPC	B-NP	O	सामने	NST	I-NP	O	O
+
+^	SYM	I-NP	O	वेस्टफॉल	NNPC	B-NP	B-PER	1994	NNP	I-NP	O	O
+
+,	SYM	I-NP	O	पी	NNPC	B-NP	O	न्यूटन	NNP	I-NP	B-PER	O
+
+ने	PSP	I-NP	O	चलोनर	NN	B-NP	B-PER	पर	PSP	I-NP	O	O
+
+जालसाजी	NN	B-NP	O	का	PSP	I-NP	O	परीक्षण	NN	B-NP	O	O
+
+किया	VM	B-VGF	O	और	CC	B-CCP	O	सितम्बर	NNPC	B-NP	O	O
+
+1697	NNP	I-NP	O	में	PSP	I-NP	O	उसे	PRP	B-NP	O	O
+
+न्यू	NNPC	B-NP	O	गेट	NNPC	I-NP	O	जेल	NN	B-NP	O	O
+
+में	PSP	I-NP	O	भेज	VM	B-VGF	O	दिया	VAUX	I-VGF	O	O
+
+.	SYM	I-VGF	O	.	SYM	B-BLK	O	O
+
+कवरेज	NN	B-NP	O	एनएसडी	NNP	B-NP	O	संसद	NN	I-NP	O	O
+
+की	PSP	I-NP	O	विशेष	JJ	B-NP	O	कवरेज	NNC	I-NP	O	O
+
+सत्र	NN	B-NP	O	के	PSP	I-NP	O	दौरान	NST	I-NP	O	O
+
+करता	VM	B-VGF	O	है	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+ही	RP	I-NP	O	निर्देश	NN	I-NP	O	थे	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	-	SYM	B-BLK	O	O
+
+.	SYM	I-BLK	O	पानीपत	NNP	B-NP	B-LOC	O
+
+के	PSP	I-NP	O	तीनों	QC	B-NP	O	युद्ध	NN	I-NP	O	O
+
+एक	QC	B-NP	O	-	SYM	I-NP	O	एक	QC	I-NP	O	O
+
+दिन	NN	I-NP	O	में	PSP	I-NP	O	ही	RP	I-NP	O	O
+
+समाप्त	JJ	B-JJP	O	हो	VM	B-VGF	O	गए	VAUX	I-VGF	O	O
+
+थे	VAUX	I-VGF	O	,	SYM	I-VGF	O	परन्तु	CC	B-CCP	O	O
+
+वीरवर	NNPC	B-NP	O	गोकुलसिंह	NNP	B-NP	B-PER	का	PSP	I-NP	O	O
+
+युद्ध	NN	B-NP	O	तीसरे	QO	B-NP	O	दिन	NN	I-NP	O	O
+
+भी	RP	I-NP	O	चला	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+अन्य	JJ	B-NP	O	भाषाएँ	NN	I-NP	O	.	SYM	I-NP	O	O
+
+एस	NNPC	B-NP	O	टी	NNPC	I-NP	O	]	SYM	I-NP	O	O
+
+]	SYM	I-NP	O	द्वारा	PSP	I-NP	O	चालित	JJ	B-NP	O	O
+
+बसें	NN	I-NP	O	,	SYM	I-NP	O	लगभग	RP	I-NP	O	O
+
+नगर	NNP	B-NP	O	के	PSP	I-NP	O	हरेक	NNPC	I-NP	O	O
+
+भाग	NN	B-NP	O	को	PSP	I-NP	O	यातायात	NN	B-NP	O	O
+
+उपलब्ध	JJ	B-JJP	O	करातीं	VM	B-VGF	O	हैं	VM	I-VGF	O	O
+
+.	SYM	I-VGF	O	बागमती	NNP	B-NP	B-LOC	O
+
+]	SYM	I-NP	O	]	SYM	I-NP	O	.	SYM	I-NP	O	O
+
+प्रतिपादित	JJ	B-NP	O	ब्रह्म	NN	I-NP	O	ही	RP	I-NP	O	O
+
+सब	PRPC	B-NP	O	कुछ	PRP	I-NP	O	है	VM	B-VGF	O	O
+
+.	SYM	I-VGF	O	राज्य	NN	B-NP	O	O
+
+में	PSP	I-NP	O	837	QC	B-NP	O	महिला	NNC	I-NP	O	O
+
+डेयरी	NNPC	I-NP	O	सहकारी	JJ	B-NP	O	समितियां	NN	I-NP	O	O
+
+हैं	VM	B-VGF	O	,	SYM	I-VGF	O	जिनमें	PRP	B-NP	O	O
+
+60,287	NNP	B-NP	O	महिलाएं	NN	I-NP	O	कार्यरत	JJ	B-JJP	O	O
+
+हैं	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+.	SYM	B-BLK	O	अल्फा	NNPC	B-NP	B-MISC	O
+
+उपयोगकर्ता	NN	I-NP	O	]	SYM	I-NP	O	]	SYM	I-NP	O	O
+
+या	CC	B-CCP	O	केन्द्रों	NN	B-NP	O	का	PSP	I-NP	O	O
+
+पता	NN	B-NP	O	लगाने	VM	B-VGF	O	और	CC	B-CCP	O	O
+
+उन्हें	PRP	B-NP	O	पहचानने	VM	B-VGNN	O	का	PSP	I-VGNN	O	O
+
+अवसर	NN	B-NP	O	उत्पन्न	JJ	B-JJP	O	हुआ	VM	B-VGF	O	O
+
+है	VAUX	I-VGF	O	,	SYM	I-VGF	O	जो	PRP	B-NP	O	O
+
+किसी	PRP	B-NP	O	भी	RP	I-NP	O	सामाजिक	JJ	B-NP	O	O
+
+समुदाय	NN	I-NP	O	के	PSP	I-NP	O	सबसे	INTF	B-NP	O	O
+
+अधिक	QF	I-NP	O	प्रभावी	JJ	I-NP	O	सदस्य	NN	I-NP	O	O
+
+हैं	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
+उस	DEM	B-NP	O	समय	NN	I-NP	O	की	PSP	I-NP	O	O
+
+अन्य	JJ	B-NP	O	तकनीकों	NN	I-NP	O	की	PSP	I-NP	O	O
+
+तरह	NN	B-NP	O	,	SYM	I-NP	O	इसमें	PRP	B-NP	O	O
+
+एकल	JJ	B-JJP	O	,	SYM	I-JJP	O	शक्तिशाली	JJ	B-JJP	O	O
+
+बेस	NNPC	B-NP	O	स्टेशन	NN	I-NP	O	शामिल	JJ	B-JJP	O	O
+
+था	VM	B-VGF	O	,	SYM	I-VGF	O	जो	PRP	B-NP	O	O
+
+एक	QC	B-NP	O	व्यापक	JJ	I-NP	O	क्षेत्र	NN	I-NP	O	O
+
+को	PSP	I-NP	O	कवर	NN	B-NP	O	करता	VM	B-VGF	O	O
+
+था	VAUX	I-VGF	O	,	SYM	I-VGF	O	और	CC	B-CCP	O	O
+
+प्रत्येक	QF	B-NP	O	टेलीफोन	NN	I-NP	O	प्रभावी	JJ	B-NP	O	O
+
+रूप	NN	I-NP	O	से	PSP	I-NP	O	एक	QC	B-NP	O	O
+
+चैनल	NN	I-NP	O	को	PSP	I-NP	O	पूरे	JJ	B-NP	O	O
+
+क्षेत्र	NN	I-NP	O	पर	PSP	I-NP	O	एकाधिकार	NN	B-NP	O	O
+
+करता	VM	B-VGF	O	था	VAUX	I-VGF	O	.	SYM	I-VGF	O	O
+
+में	PSP	I-NP	O	बहने	VM	B-VGNN	O	वाले	PSP	I-VGNN	O	O
+
+पांचों	QC	B-NP	O	नदियां	NN	I-NP	O	एवं	CC	B-CCP	O	O
+
+छोटे	JJC	B-NP	O	-	SYM	I-NP	O	छोटे	RDP	I-NP	O	O
+
+नाले	NN	I-NP	O	बारह	QC	B-JJP	O	मासी	JJ	I-JJP	O	O
+
+हैं	VM	B-VGF	O	.	SYM	I-VGF	O	O
+
